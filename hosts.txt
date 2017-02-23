@@ -565,7 +565,7 @@
 # [Google]
 127.0.0.1 google-analytics.com
 127.0.0.1 googlesyndication.com
-127.0.0.1 app-measurement.com ## google seems to be migrating to a new measurement receiver#
+# 127.0.0.1 app-measurement.com ## google seems to be migrating to a new measurement receiver#
 
 # [applift]
 127.0.0.1 applift.com
