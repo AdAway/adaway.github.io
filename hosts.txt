@@ -56,7 +56,6 @@
 127.0.0.1 img.ads.mocean.mobi
 127.0.0.1 bigmobileads.com
 127.0.0.1 banners.bigmobileads.com
-127.0.0.1 ads.mopub.com
 127.0.0.1 images.mpression.net
 127.0.0.1 images.millennialmedia.com
 127.0.0.1 oasc04012.247realmedia.com
@@ -77,6 +76,7 @@
 127.0.0.1 adultmoda.com
 127.0.0.1 ads.smartdevicemedia.com
 127.0.0.1 b.scorecardresearch.com
+127.0.0.1 udm.scorecardresearch.com
 127.0.0.1 m.adsymptotic.com
 127.0.0.1 cdn.vdopia.com
 127.0.0.1 api.yp.com
@@ -101,12 +101,25 @@
 127.0.0.1 ads.ookla.com
 127.0.0.1 mobiledl.adobe.com
 127.0.0.1 ads.flurry.com
+127.0.0.1 data.flurry.com
 127.0.0.1 gemini.yahoo.com
+127.0.0.1 t.appsflyer.com
+127.0.0.1 t.singular.net
+127.0.0.1 control.kochava.com
+127.0.0.1 fonts.gstatic.com
+127.0.0.1 cdn.krxd.net
+127.0.0.1 dev.appboy.com
 
 # [hosted on cloudfront]
 127.0.0.1 d3anogn3pbtk4v.cloudfront.net
 127.0.0.1 d3oltyb66oj2v8.cloudfront.net
 127.0.0.1 d2bgg7rjywcwsy.cloudfront.net
+127.0.0.1 d25xkbr68qqtcn.cloudfront.net
+127.0.0.1 d2wy8f7a9ursnm.cloudfront.net
+127.0.0.1 d5i9o0tpq9sa1.cloudfront.net
+127.0.0.1 dnn506yrbagrg.cloudfront.net
+127.0.0.1 dsms0mj1bbhn4.cloudfront.net
+127.0.0.1 dy48bnzanqw0v.cloudfront.net
 
 # [vserv.mobi]
 127.0.0.1 a.vserv.mobi
@@ -136,6 +149,7 @@
 # [inner-active.mobi]
 127.0.0.1 wv.inner-active.mobi
 127.0.0.1 cdn1.inner-active.mobi
+127.0.0.1 cdn2.inner-active.mobi
 127.0.0.1 m2m1.inner-active.mobi
 
 # [Jumptab]
@@ -165,10 +179,18 @@
 127.0.0.1 bo.jumptap.com
 127.0.0.1 i.jumptap.com
 
+# [MoPub]
+127.0.0.1 ads.mopub.com
+127.0.0.1 analytics.mopub.com
+
 # [applovin]
 127.0.0.1 a.applovin.com
 127.0.0.1 d.applovin.com
 127.0.0.1 pdn.applovin.com
+127.0.0.1 rt.applovin.com
+
+# [Vungle]
+127.0.0.1 api.vungle.com
 
 # [Mobpartner]
 127.0.0.1 mobpartner.mobi
@@ -238,6 +260,7 @@
 127.0.0.1 r.w.inmobi.com # in-app provider
 127.0.0.1 c.w.inmobi.com
 127.0.0.1 adtracker.inmobi.com
+127.0.0.1 config.inmobi.com
 127.0.0.1 china.inmobi.com
 127.0.0.1 japan.inmobi.com
 
@@ -429,12 +452,43 @@
 127.0.0.1 aax-us-east.amazon-adsystem.com
 127.0.0.1 aax-us-west.amazon-adsystem.com
 127.0.0.1 s.amazon-adsystem.com
+127.0.0.1 device-metrics-us.amazon.com
+127.0.0.1 device-metrics-us-2.amazon.com
+127.0.0.1 mads.amazon.com
+127.0.0.1 mads.amazon-adsystem.com
 
 # [Hosted on Amazon AWS]
 127.0.0.1 admarvel.s3.amazonaws.com
 127.0.0.1 html5adkit.plusmo.s3.amazonaws.com
 127.0.0.1 inneractive-assets.s3.amazonaws.com
 127.0.0.1 strikeadcdn.s3.amazonaws.com
+127.0.0.1 ams-ads-cornerstone-creatives.s3.amazonaws.com
+
+# [Sponsorpay]
+127.0.0.1 appengage-video.sponsorpay.com
+127.0.0.1 engine.sponsorpay.com
+127.0.0.1 service.sponsorpay.com
+
+# [Supersonic Ads]
+127.0.0.1 init.supersonicads.com
+127.0.0.1 outcome.supersonicads.com
+127.0.0.1 ua.supersonicads.com
+127.0.0.1 content.sonicnotify.com
+
+# [Tapjoy]
+127.0.0.1 connect.tapjoy.com
+127.0.0.1 rpc.tapjoy.com
+
+# [Unity3d Ads]
+127.0.0.1 stats.unity3d.com
+127.0.0.1 adserver.unityads.unity3d.com
+127.0.0.1 cdn-highwinds.unityads.unity3d.com
+127.0.0.1 config.unityads.unity3d.com
+
+# [Adcolony]
+127.0.0.1 androidads20.adcolony.com
+127.0.0.1 events3.adcolony.com
+127.0.0.1 events3alt.adcolony.com
 
 # [Admob]
 127.0.0.1 a.admob.com
@@ -447,6 +501,16 @@
 127.0.0.1 met.adwhirl.com
 127.0.0.1 mob.adwhirl.com
 
+# [Fyber]
+127.0.0.1 adproxy.fyber.com
+127.0.0.1 engine.fyber.com
+127.0.0.1 service.fyber.com
+127.0.0.1 video.fyber.com
+
+# [HeyZap]
+127.0.0.1 fyc.heyzap.com
+127.0.0.1 med.heyzap.com
+
 # [Doubleclick (Google)]
 127.0.0.1 ad-g.doubleclick.net
 127.0.0.1 ad.doubleclick.net
@@ -458,6 +522,7 @@
 127.0.0.1 pagead.googlesyndication.com
 127.0.0.1 pagead1.googlesyndication.com
 127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 www.googleadservices.com
 
 # [National Rail Enquiries, https://play.google.com/store/apps/details?id=uk.co.nationalrail.google]
 127.0.0.1 events.foreseeresults.com
@@ -513,11 +578,48 @@
 # [Google]
 127.0.0.1 google-analytics.com
 127.0.0.1 googlesyndication.com
+# 127.0.0.1 app-measurement.com ## google seems to be migrating to a new measurement receiver#
 
 # [applift]
 127.0.0.1 applift.com
 # use finer grained hostnames?
 #127.0.0.1 tracking.applift.com
+
+# [fiksu]
+127.0.0.1 a.fiksu.com
+127.0.0.1 sdk.fiksu.com
+
+# [Segment]
+127.0.0.1 cdn.segment.com
+127.0.0.1 cdn-settings.segment.com
+127.0.0.1 mobile-service.segment.com
+127.0.0.1 www.segment.io
+127.0.0.1 segment.com
+127.0.0.1 segment.io
+127.0.0.1 api.segment.io
+
+# [swrve]
+127.0.0.1 1967.api.swrve.com
+127.0.0.1 3790.api.swrve.com
+127.0.0.1 3810.api.swrve.com
+127.0.0.1 api.swrve.com
+127.0.0.1 1967.content.swrve.com
+127.0.0.1 3810.content.swrve.com
+
+# [mixpanel]
+static.sl-reverse.com ## many subdomains#
+127.0.0.1 decide.mixpanel.com
+
+# [mobileapptracking]
+127.0.0.1 3444.deeplink.mobileapptracking.com
+127.0.0.1 189060.deeplink.mobileapptracking.com
+127.0.0.1 3444.engine.mobileapptracking.com
+127.0.0.1 9408.engine.mobileapptracking.com
+127.0.0.1 12638.engine.mobileapptracking.com
+127.0.0.1 14716.engine.mobileapptracking.com
+127.0.0.1 178852.engine.mobileapptracking.com
+127.0.0.1 189060.engine.mobileapptracking.com
+127.0.0.1 189732.engine.mobileapptracking.com
 
 # [EFF Tracker Detection]
 127.0.0.1 trackersimulator.org
