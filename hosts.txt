@@ -101,7 +101,14 @@
 127.0.0.1 ads.ookla.com
 127.0.0.1 mobiledl.adobe.com
 127.0.0.1 ads.flurry.com
+127.0.0.1 data.flurry.com
 127.0.0.1 gemini.yahoo.com
+127.0.0.1 t.appsflyer.com
+127.0.0.1 t.singular.net
+127.0.0.1 control.kochava.com
+127.0.0.1 fonts.gstatic.com
+127.0.0.1 cdn.krxd.net
+127.0.0.1 dev.appboy.com
 
 # [hosted on cloudfront]
 127.0.0.1 d3anogn3pbtk4v.cloudfront.net
@@ -478,6 +485,11 @@
 127.0.0.1 cdn-highwinds.unityads.unity3d.com
 127.0.0.1 config.unityads.unity3d.com
 
+# [Adcolony]
+127.0.0.1 androidads20.adcolony.com
+127.0.0.1 events3.adcolony.com
+127.0.0.1 events3alt.adcolony.com
+
 # [Admob]
 127.0.0.1 a.admob.com
 127.0.0.1 analytics.admob.com
@@ -510,6 +522,7 @@
 127.0.0.1 pagead.googlesyndication.com
 127.0.0.1 pagead1.googlesyndication.com
 127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 www.googleadservices.com
 
 # [National Rail Enquiries, https://play.google.com/store/apps/details?id=uk.co.nationalrail.google]
 127.0.0.1 events.foreseeresults.com
@@ -572,6 +585,10 @@
 # use finer grained hostnames?
 #127.0.0.1 tracking.applift.com
 
+# [fiksu]
+127.0.0.1 a.fiksu.com
+127.0.0.1 sdk.fiksu.com
+
 # [Segment]
 127.0.0.1 cdn.segment.com
 127.0.0.1 cdn-settings.segment.com
@@ -579,6 +596,7 @@
 127.0.0.1 www.segment.io
 127.0.0.1 segment.com
 127.0.0.1 segment.io
+127.0.0.1 api.segment.io
 
 # [swrve]
 127.0.0.1 1967.api.swrve.com
