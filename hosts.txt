@@ -160,9 +160,11 @@
 
 # [Adcolony ads www.adcolony.com]
 127.0.0.1 adc3-launch.adcolony.com
+127.0.0.1 ads30.adcolony.com
 127.0.0.1 androidads20.adcolony.com
 127.0.0.1 events3.adcolony.com
 127.0.0.1 events3alt.adcolony.com
+127.0.0.1 wd.adcolony.com
 
 # [appads appadspromotions.com/ ?]
 127.0.0.1 jupiter.appads.com
