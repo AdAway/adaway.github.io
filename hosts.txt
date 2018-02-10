@@ -5,6 +5,7 @@
 # Create an issue at https://github.com/AdAway/AdAway/issues
 #
 # Changelog:
+# 2017-03-10 More mobile-specific hosts from AdAway and NetGuard logs.  Entries sorted by subdomain, TLD, subdomain2, etc.
 # 2016-07-18 Now hosted on GitHub + Cloudflare
 # 2014-05-18 Now with a valid SSL certificate available at https://adaway.org/hosts.txt
 # 2013-03-29 Integrated some hosts from
@@ -15,130 +16,290 @@
 # CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 #
 # Contributions by:
-# Kicelo, Dominik Schuermann
+# Kicelo, Dominik Schuermann, jawz101
 #
 
-127.0.0.1  localhost
-::1  localhost
 
-# [General]
-127.0.0.1 lb.usemaxserver.de
-127.0.0.1 tracking.klickthru.com
-127.0.0.1 gsmtop.net
-127.0.0.1 click.buzzcity.net
-127.0.0.1 ads.admoda.com
-127.0.0.1 stats.pflexads.com
-127.0.0.1 a.glcdn.co
-127.0.0.1 wwww.adleads.com
-127.0.0.1 ad.madvertise.de
-127.0.0.1 apps.buzzcity.net
-127.0.0.1 ads.mobgold.com
-127.0.0.1 android.bcfads.com
-127.0.0.1 show.buzzcity.net
-127.0.0.1 api.analytics.omgpop.com
-127.0.0.1 r.edge.inmobicdn.net
-127.0.0.1 www.mmnetwork.mobi
-127.0.0.1 img.ads.huntmad.com
-127.0.0.1 creative1cdn.mobfox.com
-127.0.0.1 admicro2.vcmedia.vn
-127.0.0.1 admicro1.vcmedia.vn
-127.0.0.1 s3.phluant.com
-127.0.0.1 c.vrvm.com
-127.0.0.1 go.vrvm.com
-127.0.0.1 static.estebull.com
-127.0.0.1 mobile.Banzai.it
-127.0.0.1 ads.xxxad.net
-127.0.0.1 img.ads.mojiva.com
-127.0.0.1 adcontent.saymedia.com
-127.0.0.1 ads.saymedia.com
-127.0.0.1 ftpcontent.worldnow.com
-127.0.0.1 s0.2mdn.net
-127.0.0.1 img.ads.mocean.mobi
-127.0.0.1 bigmobileads.com
-127.0.0.1 banners.bigmobileads.com
-127.0.0.1 ads.mopub.com
-127.0.0.1 images.mpression.net
-127.0.0.1 images.millennialmedia.com
+127.0.0.1  localhost
+::1 localhost
+
+
+# [General uncategorized]
 127.0.0.1 oasc04012.247realmedia.com
+127.0.0.1 plugin.2easydroid.com
+127.0.0.1 s0.2mdn.net
+127.0.0.1 ads.adadapted.com
+127.0.0.1 as.adfonic.net
+127.0.0.1 ads.adiquity.com
+127.0.0.1 app.adjust.com
+127.0.0.1 wwww.adleads.com
+127.0.0.1 us0.adlibr.com
+127.0.0.1 ads.admoda.com
+127.0.0.1 mobiledl.adobe.com
+127.0.0.1 m.adsymptotic.com
+127.0.0.1 adultmoda.com
+127.0.0.1 met.adwhirl.com
+127.0.0.1 mob.adwhirl.com
+127.0.0.1 api.airpush.com
+127.0.0.1 cdn.ajillionmax.com
+127.0.0.1 cloudads-a.akamaihd.net
+127.0.0.1 dev.appboy.com
+127.0.0.1 applift.com
+127.0.0.1 t.appsflyer.com
+127.0.0.1 mobile.Banzai.it
+127.0.0.1 android.bcfads.com
+127.0.0.1 banners.bigmobileads.com
+127.0.0.1 bigmobileads.com
+127.0.0.1 coconuts.boy.jp
 127.0.0.1 assets.cntdy.mobi
-127.0.0.1 ad.leadboltapps.net ## another airpush style ad#
-127.0.0.1 api.airpush.com ## hope this is all #
-127.0.0.1 ad.where.com
-127.0.0.1 i.tapit.com
+127.0.0.1 img.adecorp.co.kr
+127.0.0.1 dispatch.admixer.co.kr
+127.0.0.1 st.a-link.co.kr
+127.0.0.1 medrx.sensis.com.au
 127.0.0.1 cdn1.crispadvertising.com
 127.0.0.1 cdn2.crispadvertising.com
-127.0.0.1 medrx.sensis.com.au
-127.0.0.1 rs-staticart.ybcdn.net
-127.0.0.1 img.ads.taptapnetworks.com
-127.0.0.1 adserver.ubiyoo.com
+127.0.0.1 www.eltrafiko.com
+127.0.0.1 clientservices.emarsys.net
+127.0.0.1 static.estebull.com
+127.0.0.1 asotrack1.fluentmobile.com
+127.0.0.1 a.glcdn.co
+127.0.0.1 cdn.us.goldspotmedia.com
+127.0.0.1 gsmtop.net
+127.0.0.1 static.cdn.gtsmobi.com
+127.0.0.1 gate.hockeyapp.net
+127.0.0.1 img.ads.huntmad.com
+127.0.0.1 tracking.klickthru.com
+127.0.0.1 control.kochava.com
+127.0.0.1 cdn.krxd.net
+127.0.0.1 ad.leadboltapps.net
+127.0.0.1 ad.leadboltmobile.net
+127.0.0.1 analytics.localytics.com
+127.0.0.1 ad.parrot.mable-inc.com
+127.0.0.1 ad.madvertise.de
+127.0.0.1 ads.matomymobile.com
+127.0.0.1 ads2.mediaarmor.com
+127.0.0.1 www.mmnetwork.mobi
+127.0.0.1 creative1cdn.mobfox.com
+127.0.0.1 ads.mobgold.com
+127.0.0.1 img.ads.mobilefuse.net
+127.0.0.1 ads.mobilityware.com
+127.0.0.1 apps.mobilityware.com
+127.0.0.1 images.mpression.net
+127.0.0.1 mobileads.msn.com
+127.0.0.1 adimg3.search.naver.net
+127.0.0.1 cdn.nearbyad.com
+127.0.0.1 mobile-collector.newrelic.com
+127.0.0.1 mobile-crash.newrelic.com
+127.0.0.1 ads.n-ws.org 
+127.0.0.1 api.analytics.omgpop.com
+127.0.0.1 onesignal.com
+127.0.0.1 ads.ookla.com
+127.0.0.1 m.quantserve.com
 127.0.0.1 c753738.r38.cf2.rackcdn.com
 127.0.0.1 edge.reporo.net
-127.0.0.1 ads.n-ws.org 
-127.0.0.1 adultmoda.com
-127.0.0.1 ads.smartdevicemedia.com
-127.0.0.1 b.scorecardresearch.com
-127.0.0.1 m.adsymptotic.com
-127.0.0.1 cdn.vdopia.com
-127.0.0.1 api.yp.com
-127.0.0.1 asotrack1.fluentmobile.com
-127.0.0.1 android-sdk31.transpera.com
-127.0.0.1 apps.mobilityware.com
-127.0.0.1 ads.mobilityware.com
-127.0.0.1 ads.admarvel.com
 127.0.0.1 netdna.reporo.net
-127.0.0.1 www.eltrafiko.com
+127.0.0.1 adcontent.saymedia.com
+127.0.0.1 ads.saymedia.com
+127.0.0.1 b.scorecardresearch.com
+127.0.0.1 udm.scorecardresearch.com
+127.0.0.1 t.singular.net
+127.0.0.1 ads.smartdevicemedia.com
+127.0.0.1 content.sonicnotify.com
+127.0.0.1 i.tapit.com
+127.0.0.1 img.ads.taptapnetworks.com
+127.0.0.1 thinknear-hosted.thinknearhub.com
 127.0.0.1 cdn.trafficforce.com
+127.0.0.1 android-sdk31.transpera.com
 127.0.0.1 gts-ads.twistbox.com
-127.0.0.1 static.cdn.gtsmobi.com
-127.0.0.1 ads.matomymobile.com
-127.0.0.1 ads.adiquity.com
-127.0.0.1 img.ads.mobilefuse.net
-127.0.0.1 as.adfonic.net
-127.0.0.1 media.mobpartner.mobi
-127.0.0.1 cdn.us.goldspotmedia.com
-127.0.0.1 ads2.mediaarmor.com
-127.0.0.1 cdn.nearbyad.com
-127.0.0.1 ads.ookla.com
-127.0.0.1 mobiledl.adobe.com
-127.0.0.1 ads.flurry.com
+127.0.0.1 adserver.ubiyoo.com
+127.0.0.1 lb.usemaxserver.de
+127.0.0.1 admicro1.vcmedia.vn
+127.0.0.1 admicro2.vcmedia.vn
+127.0.0.1 cdn.vdopia.com
+127.0.0.1 c.vrvm.com
+127.0.0.1 go.vrvm.com
+127.0.0.1 ad.where.com
+127.0.0.1 ftpcontent.worldnow.com
+127.0.0.1 ads.xxxad.net
 127.0.0.1 gemini.yahoo.com
+127.0.0.1 rs-staticart.ybcdn.net
+127.0.0.1 api.yp.com
 
-# [hosted on cloudfront]
-127.0.0.1 d3anogn3pbtk4v.cloudfront.net
-127.0.0.1 d3oltyb66oj2v8.cloudfront.net
-127.0.0.1 d2bgg7rjywcwsy.cloudfront.net
+# [adinfuse]
+127.0.0.1 ad1.adinfuse.com
+127.0.0.1 ad2.adinfuse.com
+127.0.0.1 funnel0.adinfuse.com
+127.0.0.1 go.adinfuse.com
+127.0.0.1 intouch.adinfuse.com
+127.0.0.1 orange-fr.adinfuse.com
+127.0.0.1 orangeuk-mc.adinfuse.com
+127.0.0.1 sky.adinfuse.com
+127.0.0.1 sky-connect.adinfuse.com
+127.0.0.1 uk-ad2.adinfuse.com
+127.0.0.1 uk-go.adinfuse.com
+127.0.0.1 adinfuse.com
 
-# [vserv.mobi]
-127.0.0.1 a.vserv.mobi
-127.0.0.1 admin.vserv.mobi
-127.0.0.1 c.vserv.mobi
-127.0.0.1 ads.vserv.mobi
-127.0.0.1 sf.vserv.mobi
+# [admarvel ads]
+127.0.0.1 admarvel.s3.amazonaws.com
+127.0.0.1 ads.admarvel.com
 
-# [pflexads.com]
-127.0.0.1 hybl9bazbc35.pflexads.com
-127.0.0.1 hhbekxxw5d9e.pflexads.com
-127.0.0.1 www.pflexads.com
-127.0.0.1 orencia.pflexads.com
+# [Amazon ads and analytics]
+127.0.0.1 device-metrics-us.amazon.com
+127.0.0.1 device-metrics-us-2.amazon.com
+127.0.0.1 mads.amazon.com
+127.0.0.1 aax-us-east.amazon-adsystem.com
+127.0.0.1 aax-us-west.amazon-adsystem.com
+127.0.0.1 mads.amazon-adsystem.com
+127.0.0.1 s.amazon-adsystem.com
+127.0.0.1 ams-ads-cornerstone-creatives.s3.amazonaws.com
 
-# [velti.com]
-127.0.0.1 atti.velti.com
-127.0.0.1 ru.velti.com
-127.0.0.1 mwc.velti.com
+# [Amazon Web Svcs hosted ads]
+127.0.0.1 iacpromotion.s3.amazonaws.com
+127.0.0.1 html5adkit.plusmo.s3.amazonaws.com
+127.0.0.1 strikeadcdn.s3.amazonaws.com
 
-# [celtra.com]
-127.0.0.1 cdn.celtra.com
+# [Adcolony ads www.adcolony.com]
+127.0.0.1 adc3-launch.adcolony.com
+127.0.0.1 ads30.adcolony.com
+127.0.0.1 androidads20.adcolony.com
+127.0.0.1 events3.adcolony.com
+127.0.0.1 events3alt.adcolony.com
+127.0.0.1 wd.adcolony.com
+
+# [appads appadspromotions.com/ ?]
+127.0.0.1 jupiter.appads.com
+127.0.0.1 jupiter1.appads.com
+127.0.0.1 jupiter2.appads.com
+127.0.0.1 jupiter3.appads.com
+127.0.0.1 neptune.appads.com
+127.0.0.1 neptune1.appads.com
+127.0.0.1 neptune2.appads.com
+127.0.0.1 neptune3.appads.com
+127.0.0.1 req.appads.com
+127.0.0.1 req1.appads.com
+127.0.0.1 req2.appads.com
+127.0.0.1 req3.appads.com
+127.0.0.1 saturn.appads.com
+127.0.0.1 saturn1.appads.com
+127.0.0.1 saturn2.appads.com
+127.0.0.1 saturn3.appads.com
+
+# [applovin]
+127.0.0.1 a.applovin.com
+127.0.0.1 d.applovin.com
+127.0.0.1 pdn.applovin.com
+127.0.0.1 rt.applovin.com
+
+# [apptimize]
+127.0.0.1 brahe.apptimize.com
+127.0.0.1 md-a-c.apptimize.com
+127.0.0.1 md-a-s.apptimize.com
+
+# [BuzzCity mobile advertising www.buzzcity.com]
+127.0.0.1 apps.buzzcity.net
+127.0.0.1 click.buzzcity.net
+127.0.0.1 show.buzzcity.net
+
+# [Celtra mobile advertising www.celtra.com/home]
 127.0.0.1 ads.celtra.com
-127.0.0.1 cache-ssl.celtra.com
 127.0.0.1 cache.celtra.com
+127.0.0.1 cache-ssl.celtra.com
+127.0.0.1 cdn.celtra.com
 127.0.0.1 track.celtra.com
 
-# [inner-active.mobi]
-127.0.0.1 wv.inner-active.mobi
-127.0.0.1 cdn1.inner-active.mobi
-127.0.0.1 m2m1.inner-active.mobi
+# [misc cloudfront hosted ads]
+127.0.0.1 d25xkbr68qqtcn.cloudfront.net
+127.0.0.1 d2bgg7rjywcwsy.cloudfront.net
+127.0.0.1 d2wy8f7a9ursnm.cloudfront.net
+127.0.0.1 d3anogn3pbtk4v.cloudfront.net
+127.0.0.1 d3oltyb66oj2v8.cloudfront.net
+127.0.0.1 d5i9o0tpq9sa1.cloudfront.net
+127.0.0.1 dnn506yrbagrg.cloudfront.net
+127.0.0.1 dsms0mj1bbhn4.cloudfront.net
+127.0.0.1 dy48bnzanqw0v.cloudfront.net
 
-# [Jumptab]
+# [EFF Tracker Detection / Panopticlick]
+127.0.0.1 do-not-tracker.org
+127.0.0.1 eviltracker.net
+127.0.0.1 trackersimulator.org
+
+# [AdMob by Google www.google.com/admob]
+127.0.0.1 a.admob.com
+127.0.0.1 analytics.admob.com
+127.0.0.1 c.admob.com
+127.0.0.1 media.admob.com
+127.0.0.1 p.admob.com
+
+# [Crashlytics Analytics "Crashlytics is part of Fabric, which has been acquired by Google." try.crashlytics.com]
+127.0.0.1 e.crashlytics.com
+127.0.0.1 reports.crashlytics.com
+127.0.0.1 settings.crashlytics.com
+
+# [DoubleClick by Google www.doubleclickbygoogle.com]
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 ad-g.doubleclick.net
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 ad.mo.doubleclick.net
+127.0.0.1 doubleclick.net
+
+# [other Google analytics and ad services]
+127.0.0.1 www.googleadservices.com
+127.0.0.1 www.google-analytics.com
+127.0.0.1 google-analytics.com
+127.0.0.1 youtubei.googleapis.com
+127.0.0.1 pagead.googlesyndication.com
+127.0.0.1 pagead1.googlesyndication.com
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 googlesyndication.com
+127.0.0.1 fonts.gstatic.com
+
+# [Fiksu mobile advertising]
+127.0.0.1 a.fiksu.com
+127.0.0.1 sdk.fiksu.com
+
+# [Flurry Analytics and ads by Yahoo developer.yahoo.com]
+127.0.0.1 ads.flurry.com
+127.0.0.1 data.flurry.com
+
+# [Foresee analytics www.foresee.com]
+127.0.0.1 events.foreseeresults.com
+127.0.0.1 survey.foreseeresults.com
+
+# [Fyber video advertising www.fyber.com]
+127.0.0.1 adproxy.fyber.com
+127.0.0.1 engine.fyber.com
+127.0.0.1 service.fyber.com
+127.0.0.1 video.fyber.com
+
+# [greystripe]
+127.0.0.1 ads2.greystripe.com
+127.0.0.1 adsx.greystripe.com
+127.0.0.1 c.greystripe.com
+
+# [HeyZap ads]
+127.0.0.1 fyc.heyzap.com
+127.0.0.1 med.heyzap.com
+
+# [inmobi ads]
+127.0.0.1 adtracker.inmobi.com
+127.0.0.1 china.inmobi.com
+127.0.0.1 config.inmobi.com
+127.0.0.1 ifc.inmobi.com
+127.0.0.1 japan.inmobi.com
+127.0.0.1 c.w.inmobi.com
+127.0.0.1 i.w.inmobi.com
+127.0.0.1 r.w.inmobi.com
+127.0.0.1 r.edge.inmobicdn.net
+
+# [inneractive]
+127.0.0.1 inneractive-assets.s3.amazonaws.com
+127.0.0.1 cdn1.inner-active.mobi
+127.0.0.1 cdn2.inner-active.mobi
+127.0.0.1 m2m1.inner-active.mobi
+127.0.0.1 wv.inner-active.mobi
+
+# [Jumptap]
+127.0.0.1 bo.jumptap.com
 127.0.0.1 bos-tapreq01.jumptap.com
 127.0.0.1 bos-tapreq02.jumptap.com
 127.0.0.1 bos-tapreq03.jumptap.com
@@ -159,97 +320,108 @@
 127.0.0.1 bos-tapreq18.jumptap.com
 127.0.0.1 bos-tapreq19.jumptap.com
 127.0.0.1 bos-tapreq20.jumptap.com
-127.0.0.1 web64.jumptap.com
-127.0.0.1 web63.jumptap.com
-127.0.0.1 web65.jumptap.com
-127.0.0.1 bo.jumptap.com
 127.0.0.1 i.jumptap.com
+127.0.0.1 web63.jumptap.com
+127.0.0.1 web64.jumptap.com
+127.0.0.1 web65.jumptap.com
 
-# [applovin]
-127.0.0.1 a.applovin.com
-127.0.0.1 d.applovin.com
-127.0.0.1 pdn.applovin.com
+# [MdotM, Inc.]
+127.0.0.1 ads.mdotm.com
+127.0.0.1 cdn.mdotm.com
 
-# [Mobpartner]
-127.0.0.1 mobpartner.mobi
+# [medialytics]
+127.0.0.1 a.medialytics.com
+127.0.0.1 c.medialytics.com
+127.0.0.1 px.cdn.creative.medialytics.com
+127.0.0.1 cdn.creative.medialytics.com
+127.0.0.1 p.medialytics.com
+127.0.0.1 t.medialytics.com
+127.0.0.1 images.millennialmedia.com
+
+# [mixpanel]
+127.0.0.1 api.mixpanel.com
+127.0.0.1 decide.mixpanel.com
+127.0.0.1 static.sl-reverse.com
+
+# [misc apps using mobileapptracking]
+127.0.0.1 3444.deeplink.mobileapptracking.com
+127.0.0.1 189060.deeplink.mobileapptracking.com
+127.0.0.1 3444.engine.mobileapptracking.com
+127.0.0.1 9408.engine.mobileapptracking.com
+127.0.0.1 12638.engine.mobileapptracking.com
+127.0.0.1 14716.engine.mobileapptracking.com
+127.0.0.1 178852.engine.mobileapptracking.com
+127.0.0.1 189060.engine.mobileapptracking.com
+127.0.0.1 189732.engine.mobileapptracking.com
+
+# [Mobclix]
+127.0.0.1 ads.mobclix.com
+127.0.0.1 data.mobclix.com
+127.0.0.1 s.mobclix.com
+
+# [mobpartner]
 127.0.0.1 go.mobpartner.mobi
+127.0.0.1 media.mobpartner.mobi
 127.0.0.1 r.mobpartner.mobi
+127.0.0.1 mobpartner.mobi
 
-# [Adinfuse]
-127.0.0.1 uk-ad2.adinfuse.com
-127.0.0.1 adinfuse.com
-127.0.0.1 go.adinfuse.com
-127.0.0.1 ad1.adinfuse.com
-127.0.0.1 ad2.adinfuse.com
-127.0.0.1 sky.adinfuse.com
-127.0.0.1 orange-fr.adinfuse.com
-127.0.0.1 sky-connect.adinfuse.com
-127.0.0.1 uk-go.adinfuse.com
-127.0.0.1 orangeuk-mc.adinfuse.com
-127.0.0.1 intouch.adinfuse.com
-127.0.0.1 funnel0.adinfuse.com
+# [mocean]
+127.0.0.1 img.ads.mocean.mobi
+127.0.0.1 img.ads1.mocean.mobi
+127.0.0.1 img.ads2.mocean.mobi
+127.0.0.1 img.ads3.mocean.mobi
+127.0.0.1 img.ads4.mocean.mobi
 
-# [mydas.mobi]
-127.0.0.1 cvt.mydas.mobi
-127.0.0.1 lp.mydas.mobi
-127.0.0.1 golds.lp.mydas.mobi
-127.0.0.1 suo.lp.mydas.mobi
-127.0.0.1 aio.lp.mydas.mobi
-127.0.0.1 lp.mp.mydas.mobi
-127.0.0.1 media.mydas.mobi
-127.0.0.1 ads.mp.mydas.mobi # with many subdomains
-
-# [appads.com]
-127.0.0.1 neptune.appads.com
-127.0.0.1 neptune1.appads.com
-127.0.0.1 neptune2.appads.com
-127.0.0.1 neptune3.appads.com
-127.0.0.1 saturn.appads.com
-127.0.0.1 saturn1.appads.com
-127.0.0.1 saturn2.appads.com
-127.0.0.1 saturn3.appads.com
-127.0.0.1 jupiter.appads.com
-127.0.0.1 jupiter1.appads.com
-127.0.0.1 jupiter2.appads.com
-127.0.0.1 jupiter3.appads.com
-127.0.0.1 req.appads.com
-127.0.0.1 req1.appads.com
-127.0.0.1 req2.appads.com
-127.0.0.1 req3.appads.com
-
-# [yandex.ru]
-127.0.0.1 mc.yandex.ru
-127.0.0.1 an.yandex.ru
-
-# [tapad]
-127.0.0.1 swappit.tapad.com
-127.0.0.1 campaign-tapad.s3.amazonaws.com
-127.0.0.1 adsrv1.tapad.com
-
-# [mojiva.com]
+# [mojiva ads]
+127.0.0.1 img.ads.mojiva.com
+127.0.0.1 img.ads1.mojiva.com
 127.0.0.1 ads1.mojiva.com
+127.0.0.1 img.ads2.mojiva.com
 127.0.0.1 ads2.mojiva.com
+127.0.0.1 img.ads3.mojiva.com
 127.0.0.1 ads3.mojiva.com
+127.0.0.1 img.ads4.mojiva.com
 127.0.0.1 ads4.mojiva.com
 127.0.0.1 ads5.mojiva.com
 
-# [inmobi.com]
-127.0.0.1 i.w.inmobi.com #
-127.0.0.1 r.w.inmobi.com # in-app provider
-127.0.0.1 c.w.inmobi.com
-127.0.0.1 adtracker.inmobi.com
-127.0.0.1 china.inmobi.com
-127.0.0.1 japan.inmobi.com
+# [MoPub Ads]
+127.0.0.1 ads.mopub.com
+127.0.0.1 analytics.mopub.com
+
+# [mydas]
+127.0.0.1 cvt.mydas.mobi
+127.0.0.1 aio.lp.mydas.mobi
+127.0.0.1 golds.lp.mydas.mobi
+127.0.0.1 suo.lp.mydas.mobi
+127.0.0.1 lp.mydas.mobi
+127.0.0.1 media.mydas.mobi
+127.0.0.1 ads.mp.mydas.mobi
+127.0.0.1 lp.mp.mydas.mobi
 
 # [phluantmobile.net]
+127.0.0.1 s3.phluant.com
 127.0.0.1 mdn1.phluantmobile.net
 127.0.0.1 mdn2.phluantmobile.net
 127.0.0.1 mdn3.phluantmobile.net
 127.0.0.1 mdn3origin.phluantmobile.net
 
-# [smaato.net]
-127.0.0.1 soma.smaato.net
-127.0.0.1 c29new.smaato.net
+# [plfexads]
+127.0.0.1 hhbekxxw5d9e.pflexads.com
+127.0.0.1 hybl9bazbc35.pflexads.com
+127.0.0.1 orencia.pflexads.com
+127.0.0.1 stats.pflexads.com
+127.0.0.1 www.pflexads.com
+
+# [Segment.com analytics]
+127.0.0.1 cdn.segment.com
+127.0.0.1 cdn-settings.segment.com
+127.0.0.1 mobile-service.segment.com
+127.0.0.1 segment.com
+127.0.0.1 api.segment.io
+127.0.0.1 www.segment.io
+127.0.0.1 segment.io
+
+# [smaato]
 127.0.0.1 c01.smaato.net
 127.0.0.1 c02.smaato.net
 127.0.0.1 c03.smaato.net
@@ -279,6 +451,7 @@
 127.0.0.1 c27.smaato.net
 127.0.0.1 c28.smaato.net
 127.0.0.1 c29.smaato.net
+127.0.0.1 c29new.smaato.net
 127.0.0.1 c30.smaato.net
 127.0.0.1 c31.smaato.net
 127.0.0.1 c32.smaato.net
@@ -368,20 +541,9 @@
 127.0.0.1 f58.smaato.net
 127.0.0.1 f59.smaato.net
 127.0.0.1 f60.smaato.net
+127.0.0.1 soma.smaato.net
 
-# [mojiva.com]
-127.0.0.1 img.ads1.mojiva.com
-127.0.0.1 img.ads2.mojiva.com
-127.0.0.1 img.ads3.mojiva.com
-127.0.0.1 img.ads4.mojiva.com
-
-# [mocean.mobi]
-127.0.0.1 img.ads1.mocean.mobi
-127.0.0.1 img.ads2.mocean.mobi
-127.0.0.1 img.ads3.mocean.mobi
-127.0.0.1 img.ads4.mocean.mobi
-
-# [Smart Adserver]
+# [smart ad server]
 127.0.0.1 akamai.smartadserver.com
 127.0.0.1 cdn1.smartadserver.com
 127.0.0.1 diff.smartadserver.com
@@ -389,8 +551,8 @@
 127.0.0.1 diff3.smartadserver.com
 127.0.0.1 eqx.smartadserver.com
 127.0.0.1 im2.smartadserver.com
-127.0.0.1 itx5-publicidad.smartadserver.com
 127.0.0.1 itx5.smartadserver.com
+127.0.0.1 itx5-publicidad.smartadserver.com
 127.0.0.1 tcy.smartadserver.com
 127.0.0.1 ww129.smartadserver.com
 127.0.0.1 ww13.smartadserver.com
@@ -411,115 +573,63 @@
 127.0.0.1 www3.smartadserver.com
 127.0.0.1 www4.smartadserver.com
 
-# [Mobclix]
-127.0.0.1 ads.mobclix.com
-127.0.0.1 data.mobclix.com
-127.0.0.1 s.mobclix.com
+# [sponsorpay video ads]
+127.0.0.1 appengage-video.sponsorpay.com
+127.0.0.1 engine.sponsorpay.com
+127.0.0.1 service.sponsorpay.com
 
-# [MdotM, Inc.]
-127.0.0.1 ads.mdotm.com
-127.0.0.1 cdn.mdotm.com
+# [supersonic ads]
+127.0.0.1 v.ssacdn.com
+127.0.0.1 init.supersonicads.com
+127.0.0.1 outcome.supersonicads.com
+127.0.0.1 ua.supersonicads.com
+127.0.0.1 supersonicads-a.akamaihd.net
 
-# [Greystripe]
-127.0.0.1 ads2.greystripe.com
-127.0.0.1 adsx.greystripe.com
-127.0.0.1 c.greystripe.com
+# [swrve analytics]
+127.0.0.1 1781.api.swrve.com
+127.0.0.1 1967.api.swrve.com
+127.0.0.1 3790.api.swrve.com
+127.0.0.1 3810.api.swrve.com
+127.0.0.1 api.swrve.com
+127.0.0.1 1781.content.swrve.com
+127.0.0.1 1967.content.swrve.com
+127.0.0.1 3810.content.swrve.com
 
-# [Amazon]
-127.0.0.1 aax-us-east.amazon-adsystem.com
-127.0.0.1 aax-us-west.amazon-adsystem.com
-127.0.0.1 s.amazon-adsystem.com
+# [tapads]
+127.0.0.1 adsrv1.tapad.com
+127.0.0.1 swappit.tapad.com
+127.0.0.1 campaign-tapad.s3.amazonaws.com
 
-# [Hosted on Amazon AWS]
-127.0.0.1 admarvel.s3.amazonaws.com
-127.0.0.1 html5adkit.plusmo.s3.amazonaws.com
-127.0.0.1 inneractive-assets.s3.amazonaws.com
-127.0.0.1 strikeadcdn.s3.amazonaws.com
+# [tapjoy]
+127.0.0.1 connect.tapjoy.com
+127.0.0.1 rpc.tapjoy.com
 
-# [Admob]
-127.0.0.1 a.admob.com
-127.0.0.1 analytics.admob.com
-127.0.0.1 c.admob.com
-127.0.0.1 media.admob.com
-127.0.0.1 p.admob.com
+# [unity ads]
+127.0.0.1 stats.unity3d.com
+127.0.0.1 adserver.unityads.unity3d.com
+127.0.0.1 cdn-highwinds.unityads.unity3d.com
+127.0.0.1 config.unityads.unity3d.com
+127.0.0.1 webview.unityads.unity3d.com
 
-# [AdWhirl]
-127.0.0.1 met.adwhirl.com
-127.0.0.1 mob.adwhirl.com
+# [Velti analytics,campaigns, ads www.velti.com]
+127.0.0.1 atti.velti.com
+127.0.0.1 mwc.velti.com
+127.0.0.1 ru.velti.com
 
-# [Doubleclick (Google)]
-127.0.0.1 ad-g.doubleclick.net
-127.0.0.1 ad.doubleclick.net
-127.0.0.1 ad.mo.doubleclick.net
-127.0.0.1 doubleclick.net
-127.0.0.1 googleads.g.doubleclick.net
+# [Vserv www.vserv.com]
+127.0.0.1 a.vserv.mobi
+127.0.0.1 admin.vserv.mobi
+127.0.0.1 ads.vserv.mobi
+127.0.0.1 c.vserv.mobi
+127.0.0.1 sf.vserv.mobi
 
-# [Google]
-127.0.0.1 pagead.googlesyndication.com
-127.0.0.1 pagead1.googlesyndication.com
-127.0.0.1 pagead2.googlesyndication.com
+#[Vungle ads vungle.com]
+127.0.0.1 api.vungle.com
 
-# [National Rail Enquiries, https://play.google.com/store/apps/details?id=uk.co.nationalrail.google]
-127.0.0.1 events.foreseeresults.com
-127.0.0.1 survey.foreseeresults.com
-127.0.0.1 m.quantserve.com
+# [yandex.ru]
+127.0.0.1 an.yandex.ru
+127.0.0.1 mc.yandex.ru
 
-# [leadboltmobile]
-127.0.0.1 ad.leadboltmobile.net
-
-# [MSN Ads, in Skype]
-127.0.0.1 mobileads.msn.com
-
-# [https://play.google.com/store/apps/details?id=myapp.devilbaby.android.music.newmusic]
-127.0.0.1 img.adecorp.co.kr
-127.0.0.1 us0.adlibr.com
-127.0.0.1 ad.parrot.mable-inc.com
-
-# [http://play.google.com/store/apps/details?id=com.chuangkai.phonehelper]
-127.0.0.1 aos.wall.youmi.net
+# [Youmi Ad Network (Chinese company) www.youmi.net/product.html#ADN]
 127.0.0.1 au.youmi.net
-
-# [http://play.google.com/store/apps/details?id=com.coconuts.webnavigator]
-127.0.0.1 coconuts.boy.jp
-127.0.0.1 iacpromotion.s3.amazonaws.com
-127.0.0.1 plugin.2easydroid.com
-
-# [http://play.google.com/store/apps/details?id=com.babjul.billboard]
-127.0.0.1 adimg3.search.naver.net
-
-# [http://play.google.com/store/apps/details?id=com.taeyang.billboardtop]
-127.0.0.1 st.a-link.co.kr
-127.0.0.1 cdn.ajillionmax.com
-127.0.0.1 dispatch.admixer.co.kr
-127.0.0.1 ifc.inmobi.com
-127.0.0.1 thinknear-hosted.thinknearhub.com
-
-# [https://play.google.com/store/apps/details?id=com.buymeapie.bmap]
-127.0.0.1 ads.adadapted.com
-
-#
-# ANALYTICS
-#
-127.0.0.1 analytics.localytics.com
-
-# [Medialytics]
-127.0.0.1 a.medialytics.com
-127.0.0.1 c.medialytics.com
-127.0.0.1 cdn.creative.medialytics.com
-127.0.0.1 p.medialytics.com
-127.0.0.1 px.cdn.creative.medialytics.com
-127.0.0.1 t.medialytics.com
-
-# [Google]
-127.0.0.1 google-analytics.com
-127.0.0.1 googlesyndication.com
-
-# [applift]
-127.0.0.1 applift.com
-# use finer grained hostnames?
-#127.0.0.1 tracking.applift.com
-
-# [EFF Tracker Detection]
-127.0.0.1 trackersimulator.org
-127.0.0.1 eviltracker.net
-127.0.0.1 do-not-tracker.org
+127.0.0.1 aos.wall.youmi.net
