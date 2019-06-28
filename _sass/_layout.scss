@@ -1,7 +1,7 @@
 /* Site Header
  * ============================================== */
     .site-header {
-        min-height: 400px;
+        min-height: 375px;
         background-color: $brand-color;
         background-image: url('');
         background-size: cover;
@@ -302,6 +302,10 @@
 
      .pb-3 {
        padding-bottom: 3rem;
+    }
+
+    .mb-0 {
+        margin-bottom: 0px;
     }
 
     .mb-3 {
