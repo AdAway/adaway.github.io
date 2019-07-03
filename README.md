@@ -11,10 +11,9 @@ AdAway is an open source ad blocker for Android using the hosts file.
 * You can add your own (hostname, IP)-pairs in the Redirection List
 
 
-### License 
+### Licenses
 
-The content of the website is under the GPL license, meanwhile the Jekyll theme is under MIT license.
-
+The content of the website is under the GPL license, meanwhile the Jekyll theme is under MIT license. For more details, check the [license notes](LICENSE.md).
 
 ### Website
 
