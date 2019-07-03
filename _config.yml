@@ -1,0 +1,15 @@
+# Site settings
+title: AdAway
+email: info@adaway.org
+description: > # this means to ignore newlines until "baseurl:"
+  AdAway is an open source ad blocker for Android using the hosts file.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+github_username: AdAway
+
+# Build settings
+markdown: redcarpet
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
+
+redcarpet:
+  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "fenced_code_blocks"]

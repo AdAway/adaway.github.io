@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  {% include head.html %}
+  <body>
+    <script>addBackToTop()</script>
+    {% include header.html %}
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    {% include content.html %}
+    </div>
+    {% include footer.html %}
+  </body>
+</html>
