@@ -1,14 +1,15 @@
-<textarea id="legacyExportTextArea">
+---
+layout:  inner
+title: AdAway - Import and Export
+---
 
-</textarea>
+<h1 class="center pt-2 pb-2">Import and Export hosts files easily</h1>
 
-<button onclick="convertToModern()">Convert to modern</button>
+<textarea placeholder="Input your legacy host list" id="legacyExportTextArea"></textarea>
+<button class="button-submit mb-3" onclick="convertToModern()">Convert to modern</button>
 
-<textarea id="modernExportTextArea">
-
-</textarea>
-
-<button onclick="convertToLegacy()">Convert to legacy</button>
+<textarea placeholder="Input your modern host list" id="modernExportTextArea"></textarea>
+<button class="button-submit" onclick="convertToLegacy()">Convert to legacy</button>
 
 <script>
 	let legacyExport = document.getElementById("legacyExportTextArea");
