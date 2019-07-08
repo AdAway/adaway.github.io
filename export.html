@@ -1,0 +1,103 @@
+---
+layout:  inner
+title: AdAway - Import and Export
+---
+
+<h1 class="center pt-2 pb-2">Import and Export hosts files easily</h1>
+
+<textarea placeholder="Input your legacy host list" id="legacyExportTextArea"></textarea>
+<button class="button-submit mb-3" onclick="convertToModern()">Convert to modern</button>
+
+<textarea placeholder="Input your modern host list" id="modernExportTextArea"></textarea>
+<button class="button-submit" onclick="convertToLegacy()">Convert to legacy</button>
+
+<script>
+	let legacyExport = document.getElementById("legacyExportTextArea");
+	let modernExport = document.getElementById("modernExportTextArea");
+
+	let redirectedPattern = /^(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\s+([^\s]+)$/;
+
+	function convertToLegacy() {
+		// Parse export
+		var text = modernExport.value;
+		var modern = JSON.parse(text);
+		// Convert blocked hosts
+		var legacy = "";
+		if (modern.blocked) {
+			for (var blocked of modern.blocked) {
+				if (blocked && blocked.host && blocked.enabled) {
+					legacy += "127.0.0.1 " + blocked.host + "\n";
+				}
+			}
+		}
+		// Convert allowed hosts
+		if (modern.allowed) {
+			for (var allowed of modern.allowed) {
+				if (allowed.host && allowed.enabled) {
+					legacy += "white " + allowed.host + "\n";
+				}
+			}
+		}
+		// Convert redicted hosts
+		if (modern.redirected) {
+			for (var redirected of modern.redirected) {
+				if (redirected.host && redirected.redirect && redirected.enabled) {
+					legacy += redirected.redirect + " " + redirected.host + "\n";
+				}
+			}
+		}
+		// Display legacy export
+		legacyExport.value = legacy;
+	}
+
+	function convertToModern() {
+		var modern = {
+			'sources': [],
+			'blocked': [],
+			'allowed': [],
+			'redirected': []
+		};
+		var text = legacyExport.value;
+		var lines = text.split('\n');
+
+		for (var line of lines) {
+			// Clean up line
+			line = line.trim();
+			if (line.length == 0) {
+				continue;
+			}
+			// Remove comments
+			var commentStart = line.indexOf('#');
+			if (commentStart !== -1) {
+				line = line.substr(0, commentStart);
+			}
+			// Test blocked hosts
+			if (line.startsWith("127.0.0.1 ")) {
+				modern.blocked.push({
+					"host": line.substr(10),
+					"enabled": true
+				});
+			}
+			// Test allowed hosts
+			else if (line.startsWith("white ")) {
+				modern.allowed.push({
+					"host": line.substr(10),
+					"enabled": true
+				});
+			}
+			// Test redirected domains
+			else {
+				var match = line.match(redirectedPattern);
+				if (match.length > 5) {
+					modern.redirected.push({
+						"host": match[5],
+						"redirect": match[1] + '.' + match[2] + '.' + match[3] + '.' + match[4],
+						"enabled": true
+					});
+				}
+			}
+		}
+		// Display modern export
+		modernExport.value = JSON.stringify(modern, null, '  ');
+	}
+</script>

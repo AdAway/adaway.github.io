@@ -215,3 +215,17 @@ input[type=text], input[type=textarea], input[type=number], input[type=email] {
   border: 2px solid #D8D8D8;
   border-radius: 4px;
 }
+
+textarea {
+  width: 100%;
+  min-width: 100%;
+  max-width: 100%;
+  height: 150px;
+  margin-bottom: 10px;
+  padding: 14px 14px;
+  box-sizing: border-box;
+  color: #000;
+  background: #FFFFFF;
+  border: 2px solid #D8D8D8;
+  border-radius: 4px;
+}
