@@ -61,15 +61,15 @@ title: AdAway - Import and Export
 		var lines = text.split('\n');
 
 		for (var line of lines) {
-			// Clean up line
-			line = line.trim();
-			if (line.length == 0) {
-				continue;
-			}
 			// Remove comments
 			var commentStart = line.indexOf('#');
 			if (commentStart !== -1) {
 				line = line.substr(0, commentStart);
+			}
+			// Clean up line
+			line = line.trim();
+			if (line.length == 0) {
+				continue;
 			}
 			// Test blocked hosts
 			if (line.startsWith("127.0.0.1 ")) {
@@ -81,7 +81,7 @@ title: AdAway - Import and Export
 			// Test allowed hosts
 			else if (line.startsWith("white ")) {
 				modern.allowed.push({
-					"host": line.substr(10),
+					"host": line.substr(6),
 					"enabled": true
 				});
 			}
