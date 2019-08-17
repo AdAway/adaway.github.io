@@ -1,0 +1,14 @@
+{
+  "name": "hosts-formatter",
+  "version": "1.0.0",
+  "description": "Format AdAway hosts file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruce BUJON",
+  "license": "GPLv3+",
+  "dependencies": {
+    "parse-domain": "^2.3.2"
+  }
+}
