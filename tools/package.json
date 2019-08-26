@@ -4,11 +4,14 @@
   "description": "Format AdAway hosts file",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "author": "Bruce BUJON",
   "license": "GPLv3+",
   "dependencies": {
     "parse-domain": "^2.3.2"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.0"
   }
 }
