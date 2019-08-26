@@ -6,7 +6,7 @@
         margin: 0;
         padding: 0;
     }
-    
+
     html {
      scroll-behavior: smooth;
     }
@@ -20,6 +20,7 @@
         color: $text-color;
         background-color: $background-color;
         -webkit-text-size-adjust: 100%;
+        font-family: "Barlow", sans-serif !important;
     }
 
 /* Set Margin Bottom for Vertical Rhythm

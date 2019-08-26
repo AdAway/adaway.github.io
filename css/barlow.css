@@ -1,0 +1,41 @@
+/* barlow-regular - latin */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/barlow-v4-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Barlow Regular'), local('Barlow-Regular'),
+       url('../fonts/barlow-v4-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/barlow-v4-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/barlow-v4-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/barlow-v4-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/barlow-v4-latin-regular.svg#Barlow') format('svg'); /* Legacy iOS */
+}
+
+/* barlow-500 - latin */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 500;
+  src: url('../fonts/barlow-v4-latin-500.eot'); /* IE9 Compat Modes */
+  src: local('Barlow Medium'), local('Barlow-Medium'),
+       url('../fonts/barlow-v4-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/barlow-v4-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/barlow-v4-latin-500.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/barlow-v4-latin-500.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/barlow-v4-latin-500.svg#Barlow') format('svg'); /* Legacy iOS */
+}
+
+/* barlow-700 - latin */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/barlow-v4-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Barlow Bold'), local('Barlow-Bold'),
+       url('../fonts/barlow-v4-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/barlow-v4-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/barlow-v4-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/barlow-v4-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/barlow-v4-latin-700.svg#Barlow') format('svg'); /* Legacy iOS */
+}
