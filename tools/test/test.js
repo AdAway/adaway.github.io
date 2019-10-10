@@ -57,5 +57,37 @@ describe('domains', function () {
 
             assert.deepEqual(sourceDomains, sortedDomains);
         });
+
+        it('should sort subdomains', function () {
+            var sourceDomains = [
+                "content.ad",
+                "first.abc.content.ad",
+                "abc.content.ad",
+                "def.content.ad",
+                "second.abc.content.ad",
+                "second.def.content.ad",
+                "first.def.content.ad"
+            ];
+            var sortedDomains = [
+                "content.ad",
+                "abc.content.ad",
+                "first.abc.content.ad",
+                "second.abc.content.ad",
+                "def.content.ad",
+                "first.def.content.ad",
+                "second.def.content.ad"
+            ];
+
+            sourceDomains = sourceDomains.map(domain => {
+                return {
+                    host: domain,
+                    domain: parseDomain(domain)
+                }
+            });
+            sourceDomains.sort(domains.compare);
+            sourceDomains = sourceDomains.map(domain => domain.host);
+
+            assert.deepEqual(sourceDomains, sortedDomains);
+        });
     });
 });
