@@ -13220,12 +13220,6 @@
 # [onet.pl]
 127.0.0.1 csr.onet.pl
 
-# [onetrust.com]
-127.0.0.1 app.onetrust.com
-127.0.0.1 app-de.onetrust.com
-127.0.0.1 geolocation.onetrust.com
-127.0.0.1 geolocation-dev.onetrust.com
-
 # [onewaylinkexchange.net]
 127.0.0.1 onewaylinkexchange.net
 
@@ -13857,9 +13851,6 @@
 127.0.0.1 match7-eu-w1.outfit7.com
 127.0.0.1 match7-so-e1.outfit7.com
 127.0.0.1 match7-us-c1.outfit7.com
-
-# [outturner.com]
-127.0.0.1 config.outturner.com
 
 # [owap.su]
 127.0.0.1 owap.su
