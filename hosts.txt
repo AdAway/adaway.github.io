@@ -7498,22 +7498,6 @@
 # [formulas.jp]
 127.0.0.1 opr.formulas.jp
 
-# [forter.com]
-127.0.0.1 forter.com
-127.0.0.1 cdn.forter.com
-127.0.0.1 cdn0.forter.com
-127.0.0.1 cdn3.forter.com
-127.0.0.1 cdn4.forter.com
-127.0.0.1 null.cdn4.forter.com
-127.0.0.1 cdn46.forter.com
-127.0.0.1 cdn5.forter.com
-127.0.0.1 cdn8.forter.com
-127.0.0.1 cdn9.forter.com
-127.0.0.1 kp1.forter.com
-127.0.0.1 kp2.forter.com
-127.0.0.1 gg.kp2.forter.com
-127.0.0.1 kpstat.forter.com
-
 # [fortumo.com]
 127.0.0.1 a.fortumo.com
 127.0.0.1 api.fortumo.com
