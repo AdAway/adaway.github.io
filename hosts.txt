@@ -1,22 +1,22 @@
 # AdAway default blocklist
 # Blocking mobile ad providers and some analytics providers
-# 
-# Contribute:
-# Create an issue at https://github.com/AdAway/AdAway/issues
 #
-# Changelog:
-# 2020-01-01 replaced with MobileAdTrackers list https://github.com/jawz101/MobileAdTrackers
-# 2016-07-18 Now hosted on GitHub + Cloudflare
-# 2014-05-18 Now with a valid SSL certificate available at https://adaway.org/hosts.txt
-# 2013-03-29 Integrated some hosts from
-#            http://adblock.gjtech.net/?format=hostfile
-# 2013-03-14 Back from the dead
-# 
+# Project home page:
+# https://github.com/AdAway/adaway.github.io/
+#
+# Fetch the latest version of this file:
+# https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
+#
 # License:
 # CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 #
 # Contributions by:
-# Kicelo, Dominik Schuermann, jawz101
+# Kicelo, Dominik Schuermann.
+# Further changes and contributors maintained in the commit history at
+# https://github.com/AdAway/adaway.github.io/commits/master
+#
+# Contribute:
+# Create an issue at https://github.com/AdAway/adaway.github.io/issues
 #
 
 127.0.0.1  localhost
