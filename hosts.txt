@@ -861,6 +861,7 @@
 
 # [adjust.com]
 127.0.0.1 adjust.com
+127.0.0.1 app.adjust.com
 127.0.0.1 atom.adjust.com
 127.0.0.1 events.adjust.com
 127.0.0.1 s2s.adjust.com
@@ -3567,6 +3568,8 @@
 127.0.0.1 hq1.appsflyer.com
 127.0.0.1 hub.appsflyer.com
 127.0.0.1 impression.appsflyer.com
+127.0.0.1 inapps.appsflyer.com
+127.0.0.1 launches.appsflyer.com
 127.0.0.1 monitorsdk.appsflyer.com
 127.0.0.1 newclicks.appsflyer.com
 127.0.0.1 onelink.appsflyer.com
@@ -7621,6 +7624,9 @@
 127.0.0.1 node432.fractionalmedia.com
 127.0.0.1 telim.fractionalmedia.com
 
+# [freegeoip.com]
+127.0.0.1 freegeoip.com
+
 # [fulllab.com.br]
 127.0.0.1 tags.fulllab.com.br
 
@@ -7838,6 +7844,7 @@
 
 # [geoplugin.net]
 127.0.0.1 geoplugin.net
+127.0.0.1 www.geoplugin.net
 
 # [gepush.com]
 127.0.0.1 sdk.open.talk.gepush.com
@@ -8027,6 +8034,10 @@
 
 # [gooddata.com]
 127.0.0.1 secure.gooddata.com
+
+# [google-analytics.com]
+127.0.0.1 ssl.google-analytics.com
+127.0.0.1 www.google-analytics.com
 
 # [google.com]
 127.0.0.1 ads.google.com
@@ -10249,9 +10260,11 @@
 127.0.0.1 track.leanlab.co
 
 # [leanplum.com]
+127.0.0.1 api.leanplum.com
 127.0.0.1 dev.leanplum.com
 127.0.0.1 phabricator.leanplum.com
 127.0.0.1 reports.leanplum.com
+127.0.0.1 www.leanplum.com
 
 # [legolas-media.com]
 127.0.0.1 legolas-media.com
@@ -14165,6 +14178,7 @@
 127.0.0.1 planetactive.com
 
 # [playfabapi.com]
+127.0.0.1 1cef.playfabapi.com
 127.0.0.1 65c6.playfabapi.com
 
 # [playhaven.com]
@@ -15224,6 +15238,9 @@
 # [rnmd.net]
 127.0.0.1 rnmd.net
 
+# [road404.com]
+127.0.0.1 metric-android-am.road404.com
+
 # [roblox.com]
 127.0.0.1 ads.roblox.com
 127.0.0.1 metrics.roblox.com
@@ -15750,6 +15767,9 @@
 
 # [sessioncam.com]
 127.0.0.1 ws.sessioncam.com
+
+# [ads.sessiongames.com]
+127.0.0.1 ads.sessiongames.com
 
 # [sessionm.com]
 127.0.0.1 sessionm.com
@@ -18057,12 +18077,15 @@
 
 # [unity3d.com]
 127.0.0.1 analytics.cloud.unity3d.com
+127.0.0.1 cdp.cloud.unity3d.com
 127.0.0.1 perf-events.cloud.unity3d.com
+127.0.0.1 config.uca.cloud.unity3d.com
 127.0.0.1 data-optout-service.uca.cloud.unity3d.com
 127.0.0.1 userreporting.cloud.unity3d.com
 127.0.0.1 hwstats.unity3d.com
 127.0.0.1 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 127.0.0.1 tracking.prd.mz.internal.unity3d.com
+127.0.0.1 stats.unity3d.com
 127.0.0.1 unityads.unity3d.com
 127.0.0.1 admediator.unityads.unity3d.com
 127.0.0.1 ads-brand-postback.unityads.unity3d.com
@@ -19501,10 +19524,8 @@
 127.0.0.1 images2.zemanta.com
 
 # [zendesk.com]
-127.0.0.1 accelifyhelp.zendesk.com
 127.0.0.1 analytics.zendesk.com
 127.0.0.1 certify.zendesk.com
-127.0.0.1 engagenysupport.zendesk.com
 127.0.0.1 proximity.zendesk.com
 
 # [zenmxapps.com]
