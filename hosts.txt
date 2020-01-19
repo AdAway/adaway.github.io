@@ -15538,10 +15538,6 @@
 # [scanmedios.com]
 127.0.0.1 ad.scanmedios.com
 
-# [schneidercorp.com]
-127.0.0.1 beacon.schneidercorp.com
-127.0.0.1 beaconbeta.schneidercorp.com
-
 # [scientiamobile.com]
 127.0.0.1 scientiamobile.com
 
