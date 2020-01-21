@@ -13932,9 +13932,6 @@
 127.0.0.1 srv.pixel.parsely.com
 127.0.0.1 static.parsely.com
 
-# [particle.io]
-127.0.0.1 api.particle.io
-
 # [partnerearning.com]
 127.0.0.1 partnerearning.com
 
