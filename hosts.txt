@@ -4749,12 +4749,6 @@
 127.0.0.1 alt.bugsense.com
 127.0.0.1 ticks2.bugsense.com
 
-# [bugsnag.com]
-127.0.0.1 api.bugsnag.com
-127.0.0.1 app.bugsnag.com
-127.0.0.1 notify.bugsnag.com
-127.0.0.1 sessions.bugsnag.com
-
 # [bulldogcpi.com]
 127.0.0.1 ads.bulldogcpi.com
 
