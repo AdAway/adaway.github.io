@@ -12079,12 +12079,6 @@
 # [mobilexsoft.com]
 127.0.0.1 svc.mobilexsoft.com
 
-# [mobilgov.com]
-127.0.0.1 3100-app.mobilgov.com
-127.0.0.1 3300-app.mobilgov.com
-127.0.0.1 5900-app.mobilgov.com
-127.0.0.1 8443-app.mobilgov.com
-
 # [mobilike.com]
 127.0.0.1 ad.mobilike.com
 
