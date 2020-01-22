@@ -7913,12 +7913,6 @@
 # [glassboxdigital.com]
 127.0.0.1 glassboxdigital.com
 
-# [glbimg.com]
-127.0.0.1 e.glbimg.com
-127.0.0.1 i.glbimg.com
-127.0.0.1 p.glbimg.com
-127.0.0.1 v.glbimg.com
-
 # [gleam.io]
 127.0.0.1 js.gleam.io
 
