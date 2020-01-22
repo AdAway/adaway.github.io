@@ -9333,11 +9333,6 @@
 127.0.0.1 sync-east.intentiq.com
 127.0.0.1 sync1.intentiq.com
 
-# [intercom.io]
-127.0.0.1 api.intercom.io
-127.0.0.1 api-iam.intercom.io
-127.0.0.1 api-ping.intercom.io
-
 # [intergi.com]
 127.0.0.1 ads.intergi.com
 127.0.0.1 cdn.intergi.com
