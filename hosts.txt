@@ -295,9 +295,6 @@
 # [ackak.com]
 127.0.0.1 ackak.com
 
-# [aconex.co.uk]
-127.0.0.1 insights.uk1.aconex.co.uk
-
 # [acsseo.com]
 127.0.0.1 acsseo.com
 
