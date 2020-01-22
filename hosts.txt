@@ -7086,6 +7086,9 @@
 # [fastboot.mobi]
 127.0.0.1 sentry.fastboot.mobi
 
+# [fastly.net]
+127.0.0.1 tapdaq-adverts.global.ssl.fastly.net
+
 # [fb88.com]
 127.0.0.1 fb88.com
 127.0.0.1 affiliate.fb88.com
