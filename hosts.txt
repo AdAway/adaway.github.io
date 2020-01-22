@@ -8190,12 +8190,6 @@
 127.0.0.1 ssl.gridsumdissector.com
 127.0.0.1 static.gridsumdissector.com
 
-# [groovehq.com]
-127.0.0.1 assets.groovehq.com
-127.0.0.1 c.groovehq.com
-127.0.0.1 graphql.groovehq.com
-127.0.0.1 i.groovehq.com
-
 # [growthbeat.com]
 127.0.0.1 api.growthbeat.com
 
