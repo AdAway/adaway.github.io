@@ -7426,7 +7426,6 @@
 127.0.0.1 interstitial.fyber.com
 127.0.0.1 aws.interstitial-broker.fyber.com
 127.0.0.1 latency.interstitial-broker.fyber.com
-127.0.0.1 investors.fyber.com
 127.0.0.1 ios.fyber.com
 127.0.0.1 lbservices2.fyber.com
 127.0.0.1 mbe-cdn.fyber.com
@@ -9331,9 +9330,6 @@
 # [jpush.cn]
 127.0.0.1 stats.jpush.cn
 
-# [jscount.com]
-127.0.0.1 jscount.com
-
 # [jsrdn.com]
 127.0.0.1 c.jsrdn.com
 127.0.0.1 s.jsrdn.com
@@ -9386,9 +9382,6 @@
 
 # [justservingfiles.net]
 127.0.0.1 bmedia.justservingfiles.net
-
-# [justwebads.com]
-127.0.0.1 justwebads.com
 
 # [jwplayer.com]
 127.0.0.1 entitlements.jwplayer.com
@@ -9795,12 +9788,6 @@
 
 # [lavasoft.com]
 127.0.0.1 wc-tracking.lavasoft.com
-
-# [layer.com]
-127.0.0.1 api.layer.com
-127.0.0.1 cdn.layer.com
-127.0.0.1 trunkclub-api.layer.com
-127.0.0.1 trunkclub-websockets.layer.com
 
 # [lbesec.com]
 127.0.0.1 cc.lbesec.com
@@ -12309,9 +12296,6 @@
 # [neoban.su]
 127.0.0.1 neoban.su
 
-# [nervoussummer.com]
-127.0.0.1 nervoussummer.com
-
 # [netadclick.com]
 127.0.0.1 admanager.netadclick.com
 127.0.0.1 elonezet.netadclick.com
@@ -13868,9 +13852,6 @@
 
 # [popupads.net]
 127.0.0.1 serve.popupads.net
-
-# [popwebfun.com]
-127.0.0.1 popwebfun.com
 
 # [postitial.com]
 127.0.0.1 postitial.com
@@ -17129,12 +17110,6 @@
 
 # [trackingio.com]
 127.0.0.1 log.trackingio.com
-
-# [trackjs.com]
-127.0.0.1 capture.trackjs.com
-127.0.0.1 cdn.trackjs.com
-127.0.0.1 my.trackjs.com
-127.0.0.1 usage.trackjs.com
 
 # [trademob.com]
 127.0.0.1 trademob.com
