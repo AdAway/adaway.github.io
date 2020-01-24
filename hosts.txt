@@ -9565,11 +9565,6 @@
 127.0.0.1 trc.kissmetrics.com
 127.0.0.1 trk.kissmetrics.com
 
-# [kite.com]
-127.0.0.1 alpha.kite.com
-127.0.0.1 release.kite.com
-127.0.0.1 windows.kite.com
-
 # [kixer.com]
 127.0.0.1 kixer.com
 
