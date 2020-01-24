@@ -813,6 +813,7 @@
 127.0.0.1 adsdk.adfarm1.adition.com
 127.0.0.1 dspcluster.adfarm1.adition.com
 127.0.0.1 mobile.adfarm1.adition.com
+127.0.0.1 static.adfarm1.adition.com
 127.0.0.1 cd.adition.com
 127.0.0.1 dbt.adition.com
 127.0.0.1 imagesrv.adition.com
