@@ -18577,7 +18577,6 @@
 127.0.0.1 mc.yandex.ru
 127.0.0.1 metrica.yandex.ru
 127.0.0.1 metrika.yandex.ru
-127.0.0.1 mx.yandex.ru
 127.0.0.1 click.sender.yandex.ru
 127.0.0.1 share.yandex.ru
 
