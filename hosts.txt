@@ -10174,17 +10174,8 @@
 # [locarta.co]
 127.0.0.1 logs.locarta.co
 
-# [locategy.com]
-127.0.0.1 rest.locategy.com
-
 # [locately.com]
 127.0.0.1 api.locately.com
-
-# [locatienet.com]
-127.0.0.1 tile0.locatienet.com
-127.0.0.1 tile1.locatienet.com
-127.0.0.1 tile2.locatienet.com
-127.0.0.1 tile3.locatienet.com
 
 # [locationlabs.com]
 127.0.0.1 sparkle.locationlabs.com
