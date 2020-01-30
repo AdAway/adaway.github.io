@@ -8487,9 +8487,6 @@
 
 # [immobilienscout24.de]
 127.0.0.1 ads.immobilienscout24.de
-127.0.0.1 api.finanzen.immobilienscout24.de
-127.0.0.1 api.mobile.immobilienscout24.de
-127.0.0.1 api.recommendation.immobilienscout24.de
 127.0.0.1 tracking.immobilienscout24.de
 
 # [immomo.com]
