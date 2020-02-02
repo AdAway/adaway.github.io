@@ -7970,9 +7970,6 @@
 127.0.0.1 gumgum.com
 127.0.0.1 rtb.gumgum.com
 
-# [gumtree.com]
-127.0.0.1 gumtree.com
-
 # [gunggo.com]
 127.0.0.1 gunggo.com
 
