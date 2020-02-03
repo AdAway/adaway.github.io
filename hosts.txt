@@ -18184,10 +18184,6 @@
 # [wbn.su]
 127.0.0.1 wbn.su
 
-# [wbx2.com]
-127.0.0.1 proximity-a.wbx2.com
-127.0.0.1 proximity-one-static.wbx2.com
-
 # [wcond.site]
 127.0.0.1 ads.wcond.site
 
