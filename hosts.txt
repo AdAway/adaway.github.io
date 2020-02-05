@@ -17656,10 +17656,6 @@
 # [usersnap.com]
 127.0.0.1 api.usersnap.com
 
-# [uservoice.com]
-127.0.0.1 uservoice.com
-127.0.0.1 by.uservoice.com
-
 # [utarget.co.uk]
 127.0.0.1 utarget.co.uk
 
