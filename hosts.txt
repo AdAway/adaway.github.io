@@ -4862,12 +4862,6 @@
 # [centerpointmedia.com]
 127.0.0.1 centerpointmedia.com
 
-# [ceppartner.com]
-127.0.0.1 ceppartner.com
-
-# [certona.net]
-127.0.0.1 edge1.certona.net
-
 # [chango.com]
 127.0.0.1 chango.com
 127.0.0.1 as.chango.com
