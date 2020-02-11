@@ -12753,9 +12753,11 @@
 127.0.0.1 audible.sc.omtrdc.net
 127.0.0.1 dsg.sc.omtrdc.net
 127.0.0.1 southwestairlines.sc.omtrdc.net
+127.0.0.1 allstate.tt.omtrdc.net
 127.0.0.1 audible.tt.omtrdc.net
 127.0.0.1 fcanafta.tt.omtrdc.net
 127.0.0.1 mboxedge17.tt.omtrdc.net
+127.0.0.1 mboxedge28.tt.omtrdc.net
 127.0.0.1 southwestairlines.tt.omtrdc.net
 
 # [on-mobi.com]
@@ -16973,6 +16975,10 @@
 # [tencent-cloud.net]
 127.0.0.1 beacon.sparta.mig.tencent-cloud.net
 
+# [tend.io]
+127.0.0.1 tend.io
+127.0.0.1 track.tend.io
+
 # [tenjin.com]
 127.0.0.1 track.tenjin.com
 
@@ -17426,6 +17432,7 @@
 
 # [uconnectcar.com]
 127.0.0.1 app3.prd.telematics.uconnectcar.com
+127.0.0.1 app4.prd.telematics.uconnectcar.com
 
 # [ucweb.com]
 127.0.0.1 gjtrack.ucweb.com
@@ -17670,6 +17677,7 @@
 # [urbanairship.com]
 127.0.0.1 analyze.urbanairship.com
 127.0.0.1 boxoffice.urbanairship.com
+127.0.0.1 c00162-dl.urbanairship.com
 127.0.0.1 combine.urbanairship.com
 127.0.0.1 connect.urbanairship.com
 127.0.0.1 connect-testing.urbanairship.com
