@@ -3579,11 +3579,9 @@
 127.0.0.1 bugsense.appspot.com
 127.0.0.1 alt.bugsense.appspot.com
 127.0.0.1 caspionlog.appspot.com
-127.0.0.1 chrome-devtools-frontend.appspot.com
 127.0.0.1 chtatic.appspot.com
 127.0.0.1 crwscdn.appspot.com
 127.0.0.1 crwscdn9.appspot.com
-127.0.0.1 csp-collector.appspot.com
 127.0.0.1 8.dramafeverw2.appspot.com
 127.0.0.1 echofonads.appspot.com
 127.0.0.1 eqs-redserver.appspot.com
