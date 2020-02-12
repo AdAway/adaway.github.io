@@ -8585,9 +8585,6 @@
 127.0.0.1 goto-target-com.customtraffic.impactradius.com
 127.0.0.1 partners-hotwire-com.impactradius.com
 
-# [impacttestonline.com]
-127.0.0.1 mobile.impacttestonline.com
-
 # [impdesk.com]
 127.0.0.1 cp.impdesk.com
 
