@@ -4501,6 +4501,7 @@
 127.0.0.1 andromeda.iad-01.braze.com
 127.0.0.1 ibilisk.iad-01.braze.com
 127.0.0.1 indus.iad-01.braze.com
+127.0.0.1 muliphein.iad-01.braze.com
 127.0.0.1 rest.iad-01.braze.com
 127.0.0.1 sagittarius.iad-01.braze.com
 127.0.0.1 sdk.iad-01.braze.com
@@ -7270,12 +7271,6 @@
 # [formisimo.com]
 127.0.0.1 cdn-static.formisimo.com
 
-# [fortumo.com]
-127.0.0.1 a.fortumo.com
-127.0.0.1 api.fortumo.com
-127.0.0.1 assets.fortumo.com
-127.0.0.1 wutlar.fortumo.com
-
 # [fosrv.com]
 127.0.0.1 analytics.fosrv.com
 
@@ -7294,13 +7289,6 @@
 127.0.0.1 cdn.ads.fotoable.net
 127.0.0.1 analytics.fotoable.net
 127.0.0.1 geoip.fotoable.net
-
-# [foundationsoft.com]
-127.0.0.1 mobile.foundationsoft.com
-
-# [foursquare.com]
-127.0.0.1 api.foursquare.com
-127.0.0.1 sdk.foursquare.com
 
 # [fout.jp]
 127.0.0.1 fout.jp
