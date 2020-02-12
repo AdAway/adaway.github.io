@@ -9763,12 +9763,6 @@
 127.0.0.1 events.kumulos.com
 127.0.0.1 stats.kumulos.com
 
-# [kurioapps.com]
-127.0.0.1 api.kurioapps.com
-127.0.0.1 fira-api.kurioapps.com
-127.0.0.1 kurio-img.kurioapps.com
-127.0.0.1 trx.kurioapps.com
-
 # [kurlichan.com]
 127.0.0.1 kurlichan.com
 
