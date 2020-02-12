@@ -12166,10 +12166,6 @@
 # [mucu.jp]
 127.0.0.1 mucu.jp
 
-# [mulesoft.com]
-127.0.0.1 analytics-ingest.anypoint.mulesoft.com
-127.0.0.1 cdn.anypoint.mulesoft.com
-
 # [muneris.io]
 127.0.0.1 api.muneris.io
 
