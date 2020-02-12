@@ -9753,11 +9753,6 @@
 127.0.0.1 c.ktxtr.com
 127.0.0.1 t.ktxtr.com
 
-# [kuaidi100.com]
-127.0.0.1 cache.kuaidi100.com
-127.0.0.1 cdn.kuaidi100.com
-127.0.0.1 p.kuaidi100.com
-
 # [kukuplay.com]
 127.0.0.1 kukuplay.com
 
