@@ -7430,13 +7430,9 @@
 127.0.0.1 fxclix.com
 
 # [fyber.com]
-127.0.0.1 account.fyber.com
 127.0.0.1 acp.fyber.com
 127.0.0.1 adproxy.fyber.com
 127.0.0.1 advertiser.fyber.com
-127.0.0.1 air.fyber.com
-127.0.0.1 ams.fyber.com
-127.0.0.1 ams-aws-stg.fyber.com
 127.0.0.1 android.fyber.com
 127.0.0.1 api.fyber.com
 127.0.0.1 api-rewarded-video.fyber.com
@@ -7452,7 +7448,6 @@
 127.0.0.1 dau.fyber.com
 127.0.0.1 engine.fyber.com
 127.0.0.1 engine-dsa.fyber.com
-127.0.0.1 fyber-marketplace.fyber.com
 127.0.0.1 iframe.fyber.com
 127.0.0.1 iframe-dsa.fyber.com
 127.0.0.1 interstitial.fyber.com
@@ -7466,7 +7461,6 @@
 127.0.0.1 mediation.fyber.com
 127.0.0.1 offer.fyber.com
 127.0.0.1 ofw-client-cdn.fyber.com
-127.0.0.1 otrs.fyber.com
 127.0.0.1 pixie.fyber.com
 127.0.0.1 publisher-reporting-api.fyber.com
 127.0.0.1 reference.fyber.com
@@ -7481,9 +7475,6 @@
 127.0.0.1 staging-tracker.fyber.com
 127.0.0.1 staging-video.fyber.com
 127.0.0.1 broker.staging-video-v2.fyber.com
-127.0.0.1 test-tickets.fyber.com
-127.0.0.1 test-wiki.fyber.com
-127.0.0.1 tickets.fyber.com
 127.0.0.1 track.fyber.com
 127.0.0.1 tracker.fyber.com
 127.0.0.1 tracking.fyber.com
