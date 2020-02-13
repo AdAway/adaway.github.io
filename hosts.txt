@@ -10855,13 +10855,6 @@
 # [mediaphim.com]
 127.0.0.1 upfile16.mediaphim.com
 
-# [mediaset.it]
-127.0.0.1 enabler.datalake.mediaset.it
-
-# [mediaset.net]
-127.0.0.1 hbbtv.mediaset.net
-127.0.0.1 webtrekk.mediaset.net
-
 # [mediashakers.com]
 127.0.0.1 mediashakers.com
 
