@@ -10855,6 +10855,9 @@
 # [mediaphim.com]
 127.0.0.1 upfile16.mediaphim.com
 
+# [mediaset.net]
+127.0.0.1 webtrekk.mediaset.net
+
 # [mediashakers.com]
 127.0.0.1 mediashakers.com
 
