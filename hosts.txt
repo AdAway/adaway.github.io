@@ -16717,11 +16717,6 @@
 127.0.0.1 pixel.tapad.com
 127.0.0.1 tapestry.tapad.com
 
-# [tapas.io]
-127.0.0.1 api.tapas.io
-127.0.0.1 da.tapas.io
-127.0.0.1 ping.tapas.io
-
 # [tapas.net]
 127.0.0.1 tapas.net
 127.0.0.1 ggimg.tapas.net
