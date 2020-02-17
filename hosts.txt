@@ -17382,10 +17382,6 @@
 127.0.0.1 dispatcher.upmc.uc.cn
 127.0.0.1 woodpecker.uc.cn
 
-# [uconnectcar.com]
-127.0.0.1 app3.prd.telematics.uconnectcar.com
-127.0.0.1 app4.prd.telematics.uconnectcar.com
-
 # [ucweb.com]
 127.0.0.1 gjtrack.ucweb.com
 127.0.0.1 insight.ucweb.com
