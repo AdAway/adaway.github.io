@@ -8075,9 +8075,6 @@
 # [herewetest.com]
 127.0.0.1 bannerwall.herewetest.com
 
-# [heroku.com]
-127.0.0.1 api.metrics.heroku.com
-
 # [herokuapp.com]
 127.0.0.1 adstage-analytics.herokuapp.com
 127.0.0.1 bundle-geoip.herokuapp.com
