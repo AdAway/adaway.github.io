@@ -4098,9 +4098,6 @@
 127.0.0.1 baidustatic.com
 127.0.0.1 ubmcmm.baidustatic.com
 
-# [band.us]
-127.0.0.1 api.band.us
-
 # [bango.net]
 127.0.0.1 bango.net
 
