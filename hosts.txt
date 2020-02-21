@@ -7884,9 +7884,6 @@
 127.0.0.1 instlikesdk.gpowers.net
 127.0.0.1 sdk.gpowers.net
 
-# [gpshopper.com]
-127.0.0.1 sypi.gpshopper.com
-
 # [grabify.link]
 127.0.0.1 grabify.link
 
