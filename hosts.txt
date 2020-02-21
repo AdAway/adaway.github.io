@@ -6646,16 +6646,6 @@
 # [earth-111.com]
 127.0.0.1 earth-111.com
 
-# [easebar.com]
-127.0.0.1 acsdk.gameyw.easebar.com
-127.0.0.1 optsdk.gameyw.easebar.com
-127.0.0.1 mgbsdknaeast.matrix.easebar.com
-127.0.0.1 mgbsdksgtest.matrix.easebar.com
-127.0.0.1 qr.mpsdk.easebar.com
-127.0.0.1 sdk-os.mpsdk.easebar.com
-127.0.0.1 update.unisdk.easebar.com
-127.0.0.1 unisdk.update.easebar.com
-
 # [easy-ads.com]
 127.0.0.1 ads.easy-ads.com
 
