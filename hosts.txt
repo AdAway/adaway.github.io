@@ -11039,7 +11039,7 @@
 127.0.0.1 g.jp.miaozhen.com
 
 # [miarroba.com]
-127.0.0.1 miarroba.com
+127.0.0.1 ads.miarroba.com
 
 # [microad.jp]
 127.0.0.1 microad.jp
