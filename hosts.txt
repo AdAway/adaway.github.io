@@ -3950,7 +3950,6 @@
 
 # [azureedge.net]
 127.0.0.1 d365portal-prod-sdk.akstd.azureedge.net
-127.0.0.1 channelwebsdks.azureedge.net
 127.0.0.1 d365portal-prod-sdk.azureedge.net
 127.0.0.1 d365prod-sdk.azureedge.net
 127.0.0.1 masdpanalytics.azureedge.net
