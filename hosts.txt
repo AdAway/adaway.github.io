@@ -9104,9 +9104,6 @@
 127.0.0.1 sd.iperceptions.com
 127.0.0.1 universal.iperceptions.com
 
-# [ipify.org]
-127.0.0.1 api.ipify.org
-
 # [ipinyou.com]
 127.0.0.1 ipinyou.com
 127.0.0.1 cm.ipinyou.com
