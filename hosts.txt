@@ -7061,9 +7061,6 @@
 127.0.0.1 loadus.tm.ssl.exelator.com
 127.0.0.1 vdna.exelator.com
 
-# [exitgames.com]
-127.0.0.1 ns.exitgames.com
-
 # [experian.co.uk]
 127.0.0.1 tags.experian.co.uk
 
