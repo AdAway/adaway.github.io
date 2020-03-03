@@ -5027,10 +5027,6 @@
 127.0.0.1 tvspielfilm.cleverpush.com
 127.0.0.1 waz.cleverpush.com
 
-# [cleverreach.com]
-127.0.0.1 eu2.cleverreach.com
-127.0.0.1 seu2.cleverreach.com
-
 # [clevertap.com]
 127.0.0.1 api.clevertap.com
 127.0.0.1 in.api.clevertap.com
