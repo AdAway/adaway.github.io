@@ -14455,9 +14455,6 @@
 127.0.0.1 api.quantumgraph.com
 127.0.0.1 users.quantumgraph.com
 
-# [queryly.com]
-127.0.0.1 api.queryly.com
-
 # [questionmarket.com]
 127.0.0.1 questionmarket.com
 
