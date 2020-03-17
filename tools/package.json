@@ -9,9 +9,9 @@
   "author": "Bruce BUJON",
   "license": "GPLv3+",
   "dependencies": {
-    "parse-domain": "^2.3.2"
+    "parse-domain": "^2.3.4"
   },
   "devDependencies": {
-    "mocha": "^6.2.0"
+    "mocha": "^7.1.0"
   }
 }
