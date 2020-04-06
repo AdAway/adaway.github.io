@@ -5865,9 +5865,6 @@
 # [deliverimp.com]
 127.0.0.1 ads.deliverimp.com
 
-# [deliveroo.com.sg]
-127.0.0.1 deliveroo.com.sg
-
 # [deloton.com]
 127.0.0.1 deloton.com
 
