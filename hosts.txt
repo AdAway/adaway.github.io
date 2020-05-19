@@ -11114,10 +11114,6 @@
 # [mindmemobile.com]
 127.0.0.1 mindmemobile.com
 
-# [mindspark.com]
-127.0.0.1 anx.mindspark.com
-127.0.0.1 eula.mindspark.com
-
 # [minimob.com]
 127.0.0.1 minimob.com
 
