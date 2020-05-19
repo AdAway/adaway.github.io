@@ -18119,9 +18119,6 @@
 # [vsassets.com]
 127.0.0.1 vsassets.com
 
-# [vsee.com]
-127.0.0.1 api.vsee.com
-
 # [vserv.mobi]
 127.0.0.1 vserv.mobi
 127.0.0.1 a.vserv.mobi
