@@ -18333,7 +18333,6 @@
 # [wootric.com]
 127.0.0.1 api.wootric.com
 127.0.0.1 app.wootric.com
-127.0.0.1 cdn.wootric.com
 127.0.0.1 cxi-api.wootric.com
 127.0.0.1 eligibility.wootric.com
 127.0.0.1 info.wootric.com
