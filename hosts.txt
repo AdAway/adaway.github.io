@@ -9165,8 +9165,6 @@
 127.0.0.1 i16-tb.isnssdk.com
 127.0.0.1 ichannel.isnssdk.com
 127.0.0.1 ichannel-tb.isnssdk.com
-127.0.0.1 imapi-mu.isnssdk.com
-127.0.0.1 imapi-sg.isnssdk.com
 127.0.0.1 isub.isnssdk.com
 127.0.0.1 isub-tb.isnssdk.com
 127.0.0.1 log.isnssdk.com
