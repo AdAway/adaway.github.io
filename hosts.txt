@@ -2833,9 +2833,7 @@
 127.0.0.1 rpc-tapjoy-com-lb-1378811527.us-east-1.elb.amazonaws.com
 127.0.0.1 tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com
 127.0.0.1 iotanalytics.eu-central-1.amazonaws.com
-127.0.0.1 kinesisanalytics.eu-central-1.amazonaws.com
 127.0.0.1 iotanalytics.eu-west-1.amazonaws.com
-127.0.0.1 kinesisanalytics.eu-west-1.amazonaws.com
 127.0.0.1 api.mediatailor.eu-west-1.amazonaws.com
 127.0.0.1 magnify-app.s3.eu-west-2.amazonaws.com
 127.0.0.1 admarvel.s3.amazonaws.com
@@ -2884,7 +2882,6 @@
 127.0.0.1 later-analytics-reports.s3-accelerate.amazonaws.com
 127.0.0.1 marketingkaizen.s3-eu-west-1.amazonaws.com
 127.0.0.1 sm-campaign.s3-us-west-2.amazonaws.com
-127.0.0.1 kinesis.us-east-1.amazonaws.com
 127.0.0.1 mobileanalytics.us-east-1.amazonaws.com
 
 # [amazonsilk.com]
