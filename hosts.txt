@@ -4629,9 +4629,6 @@
 # [bubblesmedia.ru]
 127.0.0.1 bubblesmedia.ru
 
-# [bufferapp.com]
-127.0.0.1 api.bufferapp.com
-
 # [bugfender.com]
 127.0.0.1 api.bugfender.com
 127.0.0.1 app.bugfender.com
