@@ -7656,9 +7656,6 @@
 127.0.0.1 cdn-prod-defaulting-gamedev-ads.gismart.xyz
 127.0.0.1 prod-defaulting-subscriptiontool.gismart.xyz
 
-# [gitter.im]
-127.0.0.1 sidecar.gitter.im
-
 # [gladly.com]
 127.0.0.1 cdn.gladly.com
 127.0.0.1 production1.gladly.com
