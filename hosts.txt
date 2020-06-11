@@ -17140,7 +17140,6 @@
 
 # [truecaller.com]
 127.0.0.1 batchlogging4.truecaller.com
-127.0.0.1 presence-grpc-noneu.truecaller.com
 127.0.0.1 pushid-noneu.truecaller.com
 
 # [truoctran.com]
