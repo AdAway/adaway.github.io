@@ -18752,9 +18752,6 @@
 127.0.0.1 log.sdk.zadn.vn
 127.0.0.1 zalo-ads-td.zadn.vn
 
-# [zalo.me]
-127.0.0.1 shop.zalo.me
-
 # [zaloapp.com]
 127.0.0.1 ads.zaloapp.com
 127.0.0.1 log.api.zaloapp.com
