@@ -5201,10 +5201,6 @@
 # [cn.com]
 127.0.0.1 id1.cn.com
 
-# [cnbc.com]
-127.0.0.1 fm.cnbc.com
-127.0.0.1 mps.cnbc.com
-
 # [cnn.com]
 127.0.0.1 agility.cnn.com
 127.0.0.1 mms.cnn.com
