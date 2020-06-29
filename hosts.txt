@@ -5691,9 +5691,6 @@
 # [cuebiq.com]
 127.0.0.1 in.cuebiq.com
 
-# [curalate.com]
-127.0.0.1 cdn.curalate.com
-
 # [customer.io]
 127.0.0.1 track.customer.io
 
@@ -6755,8 +6752,6 @@
 127.0.0.1 cbola-logging-1-t3.us-east-1.elasticbeanstalk.com
 127.0.0.1 cbola-psa.us-east-1.elasticbeanstalk.com
 127.0.0.1 cloud-graphql-live.us-east-1.elasticbeanstalk.com
-127.0.0.1 curalate-api-prod.us-east-1.elasticbeanstalk.com
-127.0.0.1 curalate-like2buy-prod-vpc.us-east-1.elasticbeanstalk.com
 127.0.0.1 ddm-analystic-pro2.us-east-1.elasticbeanstalk.com
 127.0.0.1 dhg-logging.us-east-1.elasticbeanstalk.com
 127.0.0.1 ei-event-collector.us-east-1.elasticbeanstalk.com
