@@ -9356,11 +9356,6 @@
 # [kaotic.com]
 127.0.0.1 kaotic.com
 
-# [kaptcha.com]
-127.0.0.1 ssl.kaptcha.com
-127.0.0.1 a.stun.kaptcha.com
-127.0.0.1 tst.kaptcha.com
-
 # [kargo.com]
 127.0.0.1 ad-monitor.kargo.com
 127.0.0.1 adserve.kargo.com
