@@ -13436,10 +13436,6 @@
 127.0.0.1 phunware.com
 127.0.0.1 analytics-api.phunware.com
 
-# [piano.io]
-127.0.0.1 piano.io
-127.0.0.1 publisher.piano.io
-
 # [picooapps.com]
 127.0.0.1 adsdk.picooapps.com
 
@@ -16873,14 +16869,6 @@
 
 # [tiny.cloud]
 127.0.0.1 rainmaker.tiny.cloud
-
-# [tinypass.com]
-127.0.0.1 api.tinypass.com
-127.0.0.1 api-v3.tinypass.com
-127.0.0.1 buy.tinypass.com
-127.0.0.1 cdn.tinypass.com
-127.0.0.1 fonts.tinypass.com
-127.0.0.1 id.tinypass.com
 
 # [tiqcdn.com]
 127.0.0.1 tiqcdn.com
