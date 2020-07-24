@@ -7027,9 +7027,6 @@
 # [feng.com]
 127.0.0.1 yes1.feng.com
 
-# [fevo.com]
-127.0.0.1 sdk.fevo.com
-
 # [fgl.com]
 127.0.0.1 ads.fgl.com
 127.0.0.1 enhance-config.fgl.com
