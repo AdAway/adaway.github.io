@@ -14873,6 +14873,7 @@
 127.0.0.1 epicycle.aprod.scopely.io
 127.0.0.1 collector.scopely.io
 127.0.0.1 event.collector.scopely.io
+127.0.0.1 489a19fa-d831-4954-858d-46436d5cdb20.event.collector.scopely.io
 127.0.0.1 puck.scopely.io
 127.0.0.1 config.sdk.scopely.io
 127.0.0.1 segments.scopely.io
