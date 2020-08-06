@@ -10735,6 +10735,10 @@
 127.0.0.1 xdssp.mediav.com
 127.0.0.1 zzxd.mediav.com
 
+# [mediavine.com]
+127.0.0.1 mediavine.com
+127.0.0.1 scripts.mediavine.com
+
 # [mediavenus.com]
 127.0.0.1 mediavenus.com
 127.0.0.1 dev-block.mediavenus.com
