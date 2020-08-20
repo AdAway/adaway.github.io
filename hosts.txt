@@ -11619,6 +11619,10 @@
 # [updated.com]
 127.0.0.1 updated.com
 
+# [upee.online]
+127.0.0.1 upee.online
+127.0.0.1 app.upee.online
+
 # [upltv.com]
 127.0.0.1 ads-sdk.upltv.com
 
