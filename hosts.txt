@@ -1752,6 +1752,7 @@
 127.0.0.1 c.amazon-adsystem.com
 127.0.0.1 mads.amazon-adsystem.com
 127.0.0.1 s.amazon-adsystem.com
+127.0.0.1 vaes.amazon-adsystem.com
 
 # [amazon.com]
 127.0.0.1 aan.amazon.com
