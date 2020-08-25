@@ -5073,6 +5073,9 @@
 # [google.com.tr]
 127.0.0.1 adservice.google.com.tr
 
+# [adservice.google.com.ua]
+127.0.0.1 adservice.google.com.ua
+
 # [google.com.vn]
 127.0.0.1 adservice.google.com.vn
 
@@ -6376,6 +6379,9 @@
 
 # [lanistaads.com]
 127.0.0.1 api.lanistaads.com
+
+# [latinongroup.com]
+127.0.0.1 ads.latinongroup.com
 
 # [launch1.co]
 127.0.0.1 launch1.co
