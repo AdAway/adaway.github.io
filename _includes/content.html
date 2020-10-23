@@ -91,6 +91,11 @@
                     $('#world-map').vectorMap({
                         map: 'world_mill',
                         backgroundColor: '#FFFFFF',
+                        regionStyle: {
+                            initial: {
+                                fill: '#F5F4F0',
+                            },
+                        },
                         series: {
                             regions: [{
                                 values: data,
