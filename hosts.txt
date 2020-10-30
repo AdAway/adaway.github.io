@@ -201,9 +201,6 @@
 127.0.0.1 static.accesstrade.vn
 
 # [acmeaom.com]
-127.0.0.1 forecast.acmeaom.com
-127.0.0.1 motd.acmeaom.com
-127.0.0.1 nowcast.acmeaom.com
 127.0.0.1 tags.acmeaom.com
 
 # [ad-brix.com]
