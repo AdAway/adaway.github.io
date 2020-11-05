@@ -8702,8 +8702,6 @@
 127.0.0.1 mobile-crash.newrelic.com
 127.0.0.1 mobile-crash-origin.newrelic.com
 127.0.0.1 platform-api.newrelic.com
-127.0.0.1 service.newrelic.com
-127.0.0.1 hypertext.service.newrelic.com
 127.0.0.1 staging-insights-collector.newrelic.com
 
 # [nex8.net]
