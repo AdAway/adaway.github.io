@@ -8695,7 +8695,6 @@
 127.0.0.1 collector-010.newrelic.com
 127.0.0.1 insights-collector.newrelic.com
 127.0.0.1 js-agent.newrelic.com
-127.0.0.1 login.newrelic.com
 127.0.0.1 metric-api.newrelic.com
 127.0.0.1 mobile-collector.newrelic.com
 127.0.0.1 mobile-crash.newrelic.com
