@@ -6042,14 +6042,6 @@
 # [ifengimg.com]
 127.0.0.1 d.ifengimg.com
 
-# [ifunny.co]
-127.0.0.1 br.ifunny.co
-127.0.0.1 events.ifunny.co
-127.0.0.1 geoip.ifunny.co
-127.0.0.1 imageproxy.ifunny.co
-127.0.0.1 img.ifunny.co
-127.0.0.1 logs.ifunny.co
-
 # [igaworks.com]
 127.0.0.1 igaworks.com
 
