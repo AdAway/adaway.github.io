@@ -8681,7 +8681,6 @@
 127.0.0.1 rum-collector.wpm.neustar.biz
 
 # [newrelic.com]
-127.0.0.1 api.newrelic.com
 127.0.0.1 collector.newrelic.com
 127.0.0.1 collector-001.newrelic.com
 127.0.0.1 collector-002.newrelic.com
