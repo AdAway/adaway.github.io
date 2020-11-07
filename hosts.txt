@@ -5079,10 +5079,6 @@
 127.0.0.1 um2.eqads.com
 127.0.0.1 um3.eqads.com
 
-# [espn.com]
-127.0.0.1 api.espn.com
-127.0.0.1 log.espn.com
-
 # [estara.com]
 127.0.0.1 as00.estara.com
 
