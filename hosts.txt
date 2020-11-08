@@ -6724,9 +6724,7 @@
 
 # [kaltura.com]
 127.0.0.1 analytics.kaltura.com
-127.0.0.1 cdnapisec.kaltura.com
 127.0.0.1 cdnsecakmi.kaltura.com
-127.0.0.1 cfvod.kaltura.com
 127.0.0.1 origin.kaltura.com
 127.0.0.1 stats.origin.kaltura.com
 127.0.0.1 pa-stats.origin-cogent.kaltura.com
