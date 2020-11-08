@@ -4910,8 +4910,6 @@
 127.0.0.1 cdn.spotxcdn.com.edgekey.net
 127.0.0.1 marketingassets.staples.com.edgekey.net
 127.0.0.1 stickyadstv.com.edgekey.net
-127.0.0.1 tiqcdn.com.edgekey.net
-127.0.0.1 tags.tiqcdn.com.edgekey.net
 127.0.0.1 unityads.unity3d.com.edgekey.net
 127.0.0.1 cdn-creatives-akamai-prd.unityads.unity3d.com.edgekey.net
 127.0.0.1 cdn-store-icons-akamai-prd.unityads.unity3d.com.edgekey.net
