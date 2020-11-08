@@ -10552,9 +10552,6 @@
 127.0.0.1 signal-beacon.s-onetag.com
 127.0.0.1 signal-metrics-collector-beta.s-onetag.com
 
-# [s24.com]
-127.0.0.1 tracking.s24.com
-
 # [s3xified.com]
 127.0.0.1 pixel.s3xified.com
 
