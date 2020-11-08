@@ -12077,12 +12077,6 @@
 # [tingyun.com]
 127.0.0.1 beacon.tingyun.com
 
-# [tiqcdn.com]
-127.0.0.1 tiqcdn.com
-127.0.0.1 akamai.tiqcdn.com
-127.0.0.1 tags.tiqcdn.com
-127.0.0.1 tags-eu.tiqcdn.com
-
 # [tnkfactory.com]
 127.0.0.1 tnkfactory.com
 127.0.0.1 ap.tnkfactory.com
