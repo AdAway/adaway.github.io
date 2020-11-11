@@ -11754,6 +11754,11 @@
 127.0.0.1 analytics-eu.tactilews.com
 127.0.0.1 analytics-staging.tactilews.com
 
+# [tagcommander.com]
+127.0.0.1 cdn.tagcommander.com
+127.0.0.1 serverside4285.tagcommander.com
+127.0.0.1 serverside4285.tagcommander.com
+
 # [tagsrvcs.com]
 127.0.0.1 s.tagsrvcs.com
 127.0.0.1 static.tagsrvcs.com
