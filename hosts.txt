@@ -9978,9 +9978,6 @@
 127.0.0.1 pubnative.net
 127.0.0.1 api.pubnative.net
 
-# [pubnub.com]
-127.0.0.1 rebtelsdk.pubnub.com
-
 # [pubocean.com]
 127.0.0.1 rta.pubocean.com
 
