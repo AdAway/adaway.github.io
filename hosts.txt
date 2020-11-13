@@ -11354,6 +11354,9 @@
 127.0.0.1 sdk.stats-locations.com
 127.0.0.1 sdks.stats-locations.com
 
+# [statsanalitic.net]
+127.0.0.1 statsanalitic.net
+
 # [steelhouse.com]
 127.0.0.1 steelhouse.com
 
