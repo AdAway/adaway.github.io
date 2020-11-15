@@ -2365,8 +2365,11 @@
 127.0.0.1 iadsdk.apple.com
 127.0.0.1 ca.iadsdk.apple.com
 127.0.0.1 cf.iadsdk.apple.com
+127.0.0.1 news.iadsdk.apple.com
+127.0.0.1 su.iadsdk.apple.com
 127.0.0.1 tr.iadsdk.apple.com
 127.0.0.1 ut.iadsdk.apple.com
+127.0.0.1 www.iadsdk.apple.com
 127.0.0.1 banners.itunes.apple.com
 
 # [applicaster.com]
