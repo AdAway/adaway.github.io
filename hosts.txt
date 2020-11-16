@@ -1650,9 +1650,6 @@
 # [adztec.com]
 127.0.0.1 adztec.com
 
-# [adzuna.co.uk]
-127.0.0.1 adzuna.co.uk
-
 # [aerserv.com]
 127.0.0.1 ads.aerserv.com
 127.0.0.1 alpha-events.aerserv.com
