@@ -2033,6 +2033,12 @@
 127.0.0.1 later-analytics-reports.s3-accelerate.amazonaws.com
 127.0.0.1 mobileanalytics.us-east-1.amazonaws.com
 
+# [amazon.de]
+127.0.0.1 fls-eu.amazon.de
+
+# [amazon.nl]
+127.0.0.1 fls-eu.amazon.nl
+
 # [amazonsilk.com]
 127.0.0.1 global.cmcs.service.amazonsilk.com
 
