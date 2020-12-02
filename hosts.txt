@@ -8735,8 +8735,6 @@
 
 # [nicovideo.jp]
 127.0.0.1 ads.nicovideo.jp
-127.0.0.1 api.nicovideo.jp
-127.0.0.1 public.api.nicovideo.jp
 
 # [nielsen.com]
 127.0.0.1 awaf.answers.nielsen.com
