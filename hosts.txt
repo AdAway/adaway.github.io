@@ -4940,7 +4940,6 @@
 127.0.0.1 wildcard.outbrain.com.edgekey.net
 127.0.0.1 outbrainimg.com.edgekey.net
 127.0.0.1 wildcard.outbrainimg.com.edgekey.net
-127.0.0.1 qualtrics.com.edgekey.net
 127.0.0.1 rubiconproject.com.edgekey.net
 127.0.0.1 digicertwc.rubiconproject.com.edgekey.net
 127.0.0.1 eus.rubiconproject.com.edgekey.net
@@ -5000,7 +4999,6 @@
 127.0.0.1 yieldlab.net.edgekey.net
 127.0.0.1 typekit.net-v3.edgekey.net
 127.0.0.1 p.typekit.net-v3.edgekey.net
-127.0.0.1 qualtrics.new.edgekey.net
 127.0.0.1 pubmatic.edgekey.net
 127.0.0.1 aktrack.pubmatic.edgekey.net
 127.0.0.1 secure-adnxs.edgekey.net
@@ -10159,24 +10157,6 @@
 
 # [qservz.com]
 127.0.0.1 qservz.com
-
-# [qualtrics.com]
-127.0.0.1 au1.qualtrics.com
-127.0.0.1 az1.qualtrics.com
-127.0.0.1 boisestate.az1.qualtrics.com
-127.0.0.1 homedepot.az1.qualtrics.com
-127.0.0.1 ca1.qualtrics.com
-127.0.0.1 canadapostdigital.ca1.qualtrics.com
-127.0.0.1 co1.qualtrics.com
-127.0.0.1 eu.qualtrics.com
-127.0.0.1 fra1.qualtrics.com
-127.0.0.1 gov1.qualtrics.com
-127.0.0.1 iad1.qualtrics.com
-127.0.0.1 siteintercept.qualtrics.com
-127.0.0.1 gov1.siteintercept.qualtrics.com
-127.0.0.1 zn6fpq8uicqiph6sn-fdawebcx.gov1.siteintercept.qualtrics.com
-127.0.0.1 sjc1.qualtrics.com
-127.0.0.1 static-assets.qualtrics.com
 
 # [quantcount.com]
 127.0.0.1 quantcount.com
