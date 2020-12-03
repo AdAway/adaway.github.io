@@ -12890,9 +12890,6 @@
 127.0.0.1 a.vserv.mobi
 127.0.0.1 rq.vserv.mobi
 
-# [vuforia.com]
-127.0.0.1 sdksync.prod.vuforia.com
-
 # [vungle.com]
 127.0.0.1 api.vungle.com
 127.0.0.1 ads.api.vungle.com
