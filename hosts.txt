@@ -615,33 +615,6 @@
 # [adligature.com]
 127.0.0.1 cdn.adligature.com
 
-# [adlightning.com]
-127.0.0.1 arkadium-tagan.adlightning.com
-127.0.0.1 brainly-tagan.adlightning.com
-127.0.0.1 buzzfeed-tagan.adlightning.com
-127.0.0.1 carambola-tagan.adlightning.com
-127.0.0.1 enthusiastgaming-tagan.adlightning.com
-127.0.0.1 freestar-tagan.adlightning.com
-127.0.0.1 gumgum-tagan.adlightning.com
-127.0.0.1 leeenterprises-tagan.adlightning.com
-127.0.0.1 livingly-tagan.adlightning.com
-127.0.0.1 math-aids-signup-tagan.adlightning.com
-127.0.0.1 math-aids-tagan.adlightning.com
-127.0.0.1 math-aids-teamsnap-tagan.adlightning.com
-127.0.0.1 math-aids-ten-tagan.adlightning.com
-127.0.0.1 nationalreview-tagan.adlightning.com
-127.0.0.1 patch-tagan.adlightning.com
-127.0.0.1 penske-tagan.adlightning.com
-127.0.0.1 realtor-tagan.adlightning.com
-127.0.0.1 sheknows-tagan.adlightning.com
-127.0.0.1 sinclair-tagan.adlightning.com
-127.0.0.1 slate-tagan.adlightning.com
-127.0.0.1 tagan.adlightning.com
-127.0.0.1 tegna-tagan.adlightning.com
-127.0.0.1 thisoldhouse-tagan.adlightning.com
-127.0.0.1 zam-tagan.adlightning.com
-127.0.0.1 zillow-tagan.adlightning.com
-
 # [adlooxtracking.com]
 127.0.0.1 am.adlooxtracking.com
 127.0.0.1 am01.adlooxtracking.com
