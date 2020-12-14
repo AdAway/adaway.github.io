@@ -2141,7 +2141,6 @@
 # [anvato.net]
 127.0.0.1 analytics.anvato.net
 127.0.0.1 rt.analytics.anvato.net
-127.0.0.1 tkx.apis.anvato.net
 
 # [any.do]
 127.0.0.1 analytics.any.do
