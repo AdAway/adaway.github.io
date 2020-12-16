@@ -9685,7 +9685,6 @@
 127.0.0.1 ct.pinterest.com
 127.0.0.1 log.pinterest.com
 127.0.0.1 trk.pinterest.com
-127.0.0.1 widgets.pinterest.com
 
 # [pippio.com]
 127.0.0.1 pippio.com
