@@ -5394,7 +5394,6 @@
 
 # [fwmrm.net]
 127.0.0.1 fwmrm.net
-127.0.0.1 adm.fwmrm.net
 127.0.0.1 ads.aws.fwmrm.net
 127.0.0.1 prd.ads.aws.fwmrm.net
 127.0.0.1 g13v.prd.ads.aws.fwmrm.net
