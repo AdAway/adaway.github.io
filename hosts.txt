@@ -12520,10 +12520,6 @@
 # [usekahuna.com]
 127.0.0.1 usekahuna.com
 
-# [usersnap.com]
-127.0.0.1 api.usersnap.com
-127.0.0.1 cdn.usersnap.com
-
 # [utarget.ru]
 127.0.0.1 utarget.ru
 
