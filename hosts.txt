@@ -12878,9 +12878,6 @@
 127.0.0.1 kourier-tpat.eks-prod-1c.vungle.com
 127.0.0.1 ingest.vungle.com
 
-# [w-x.co]
-127.0.0.1 v.w-x.co
-
 # [w3i.com]
 127.0.0.1 w3i.com
 
