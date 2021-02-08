@@ -13092,9 +13092,6 @@
 127.0.0.1 sdkconfig.ad.intl.xiaomi.com
 127.0.0.1 zeus.ad.intl.xiaomi.com
 
-# [xiaomi.net]
-127.0.0.1 api.device.xiaomi.net
-
 # [xiaoying.co]
 127.0.0.1 ad-sdk.altamob.xiaoying.co
 
