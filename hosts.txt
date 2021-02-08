@@ -3535,8 +3535,6 @@
 127.0.0.1 analytics.clickdimensions.com
 127.0.0.1 analytics-au.clickdimensions.com
 127.0.0.1 analytics-eu.clickdimensions.com
-127.0.0.1 elink.clickdimensions.com
-127.0.0.1 file-us.clickdimensions.com
 
 # [clickfuse.com]
 127.0.0.1 clickfuse.com
