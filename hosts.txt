@@ -3472,9 +3472,7 @@
 
 # [cleverpush.com]
 127.0.0.1 api.cleverpush.com
-127.0.0.1 geoip-api.cleverpush.com
 127.0.0.1 static.cleverpush.com
-127.0.0.1 statistacomdev.cleverpush.com
 
 # [clevertap.com]
 127.0.0.1 static.clevertap.com
