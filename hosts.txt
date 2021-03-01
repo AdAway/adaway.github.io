@@ -1848,6 +1848,7 @@
 127.0.0.1 heytapimg.com.akamaized.net
 127.0.0.1 adsfs-id.heytapimg.com.akamaized.net
 127.0.0.1 dyn-beacon.akamaized.net
+127.0.0.1 jioads.akamaized.net
 127.0.0.1 ma85-r-analytics.akamaized.net
 127.0.0.1 abcd.mdc.akamaized.net
 127.0.0.1 speee-ad.akamaized.net
@@ -6237,6 +6238,9 @@
 127.0.0.1 update.indexww.com
 127.0.0.1 s.update.indexww.com
 127.0.0.1 t.update.indexww.com
+
+# [indiatimes.com]
+127.0.0.1 mobileads.indiatimes.com
 
 # [indicative.com]
 127.0.0.1 api.indicative.com
