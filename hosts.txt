@@ -7449,6 +7449,9 @@
 127.0.0.1 resize.mantisadnetwork.com
 127.0.0.1 resizer.mantisadnetwork.com
 
+# [mapbox.com]
+127.0.0.1 events.mapbox.com
+
 # [marfeel.com]
 127.0.0.1 marfeel.com
 127.0.0.1 bc.marfeel.com
