@@ -3852,6 +3852,9 @@
 127.0.0.1 vrl.m.conviva.com
 127.0.0.1 pings.conviva.com
 
+# [coralogix.com]
+127.0.0.1 api.coralogix.com
+
 # [coremetrics.com]
 127.0.0.1 coremetrics.com
 127.0.0.1 data.coremetrics.com
