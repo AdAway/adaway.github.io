@@ -6504,9 +6504,6 @@
 # [inven.co.kr]
 127.0.0.1 ads.inven.co.kr
 
-# [investingapp.net]
-127.0.0.1 investingapp.net
-
 # [ioam.de]
 127.0.0.1 config.ioam.de
 127.0.0.1 irqs.ioam.de
