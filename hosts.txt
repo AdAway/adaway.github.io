@@ -901,6 +901,9 @@
 127.0.0.1 adtag.primetime.adobe.com
 127.0.0.1 sstats.adobe.com
 
+# [adolf.tv]
+127.0.0.1 adolf.tv
+
 # [adotmob.com]
 127.0.0.1 adserver.adotmob.com
 127.0.0.1 dmp.adotmob.com
@@ -11943,6 +11946,9 @@
 127.0.0.1 node.targetspot.com
 127.0.0.1 nodeny.targetspot.com
 
+# [target2sell.com]
+127.0.0.1 target2sell.com
+
 # [tbliab.net]
 127.0.0.1 metrics.tbliab.net
 
@@ -12344,6 +12350,9 @@
 # [tutelatechnologies.com]
 127.0.0.1 hail-reporting.tutelatechnologies.com
 127.0.0.1 reporting.tutelatechnologies.com
+
+# [tutoads.tv]
+127.0.0.1 tutoads.tv
 
 # [tutuapp.com]
 127.0.0.1 asdkd.tutuapp.com
@@ -12792,6 +12801,12 @@
 127.0.0.1 assets.vidora.com
 127.0.0.1 cortex.vidora.com
 127.0.0.1 lb-us.vidora.com
+
+# [vidver.io]
+127.0.0.1 ad.vidverto.io
+
+# [vidver.to]
+127.0.0.1 ad.vidver.to
 
 # [viewdeos.com]
 127.0.0.1 cdn.viewdeos.com
