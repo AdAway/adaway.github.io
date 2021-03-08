@@ -12236,6 +12236,10 @@
 
 # [truecaller.com]
 127.0.0.1 pushid-noneu.truecaller.com
+127.0.0.1 ads5.truecaller.com
+127.0.0.1 ads5-noneu.truecaller.com
+127.0.0.1 ads-router-noneu.truecaller.com
+127.0.0.1 batchlogging4.truecaller.com
 
 # [trustarc.com]
 127.0.0.1 choices.trustarc.com
