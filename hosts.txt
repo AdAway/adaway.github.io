@@ -13138,9 +13138,6 @@
 # [winudf.com]
 127.0.0.1 tracker.winudf.com
 
-# [wistia.com]
-127.0.0.1 fast.wistia.com
-
 # [wlanbanlv.com]
 127.0.0.1 opensdk.wlanbanlv.com
 
