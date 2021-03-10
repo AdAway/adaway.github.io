@@ -7127,9 +7127,6 @@
 127.0.0.1 api.itv.letv.com
 127.0.0.1 api.platform.letv.com
 
-# [lfanalytics.io]
-127.0.0.1 metrics.lfanalytics.io
-
 # [lfengmobile.com]
 127.0.0.1 ads1.lfengmobile.com
 127.0.0.1 204.scloud.lfengmobile.com
