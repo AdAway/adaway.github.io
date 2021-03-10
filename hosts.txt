@@ -5971,9 +5971,6 @@
 # [htmedia.in]
 127.0.0.1 analytics.htmedia.in
 
-# [hubspot.com]
-127.0.0.1 app.hubspot.com
-
 # [huqindustries.co.uk]
 127.0.0.1 api.huqindustries.co.uk
 127.0.0.1 charles.huqindustries.co.uk
