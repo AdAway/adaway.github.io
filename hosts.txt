@@ -12492,17 +12492,6 @@
 127.0.0.1 at.umtrack.com
 127.0.0.1 log.umtrack.com
 
-# [unbounce.com]
-127.0.0.1 a.unbounce.com
-127.0.0.1 api.unbounce.com
-127.0.0.1 app.unbounce.com
-127.0.0.1 assets.unbounce.com
-127.0.0.1 builder-assets.unbounce.com
-127.0.0.1 ensign.unbounce.com
-127.0.0.1 image-service.unbounce.com
-127.0.0.1 t.unbounce.com
-127.0.0.1 think.unbounce.com
-
 # [under9.co]
 127.0.0.1 rlog-api.under9.co
 
