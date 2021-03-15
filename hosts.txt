@@ -5015,7 +5015,6 @@
 
 # [facebook.com]
 127.0.0.1 an.facebook.com
-127.0.0.1 lookaside.facebook.com
 127.0.0.1 pixel.facebook.com
 
 # [factual.com]
