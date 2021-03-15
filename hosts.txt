@@ -5031,9 +5031,6 @@
 127.0.0.1 mparticle.map.fastly.net
 
 # [fbcdn.net]
-127.0.0.1 external-dfw5-1.xx.fbcdn.net
-127.0.0.1 scontent-dfw5-1.xx.fbcdn.net
-127.0.0.1 scontent-dfw5-2.xx.fbcdn.net
 127.0.0.1 sonar-iad.xx.fbcdn.net
 127.0.0.1 video-dfw5-1.xx.fbcdn.net
 127.0.0.1 video-dfw5-2.xx.fbcdn.net
