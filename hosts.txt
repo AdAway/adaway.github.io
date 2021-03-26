@@ -8494,9 +8494,6 @@
 # [oneplus.com]
 127.0.0.1 click.oneplus.com
 
-# [onesignal.com]
-127.0.0.1 onesignal.com
-
 # [onetrust.com]
 127.0.0.1 geolocation.onetrust.com
 
