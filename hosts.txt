@@ -7554,10 +7554,6 @@
 
 # [midasplayer.com]
 127.0.0.1 adtrack1.midasplayer.com
-127.0.0.1 bling2.midasplayer.com
-127.0.0.1 k1.midasplayer.com
-127.0.0.1 k1qa.midasplayer.com
-127.0.0.1 p.midasplayer.com
 
 # [midosoo.com]
 127.0.0.1 client.midosoo.com
