@@ -4256,9 +4256,6 @@
 127.0.0.1 ads.dofunapps.com
 127.0.0.1 sdk.dofunapps.com
 
-# [doglobal.net]
-127.0.0.1 m-motu.doglobal.net
-
 # [domainforlite.com]
 127.0.0.1 ti.domainforlite.com
 
