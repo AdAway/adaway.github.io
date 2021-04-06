@@ -10935,15 +10935,6 @@
 127.0.0.1 filev4.subiz.com
 127.0.0.1 static.subiz.com
 
-# [sumologic.com]
-127.0.0.1 collection.sumologic.com
-127.0.0.1 endpoint2.collection.sumologic.com
-127.0.0.1 collectors.sumologic.com
-127.0.0.1 us2.sumologic.com
-127.0.0.1 collection.us2.sumologic.com
-127.0.0.1 endpoint1.collection.us2.sumologic.com
-127.0.0.1 collectors.us2.sumologic.com
-
 # [sumome.com]
 127.0.0.1 sumome.com
 127.0.0.1 load.sumome.com
