@@ -2457,6 +2457,9 @@
 127.0.0.1 eu-srv.apptornado.com
 127.0.0.1 sdk-b.apptornado.com
 
+# [apptrackerlink.com]
+127.0.0.1 tracking.apptrackerlink.com
+
 # [apptrk.io]
 127.0.0.1 c.apptrk.io
 
@@ -10443,6 +10446,9 @@
 127.0.0.1 emarketing.sina.com.cn
 127.0.0.1 sbeacon.sina.com.cn
 
+# []
+127.0.0.1 pubstatus.sinaapp.com
+
 # [sinajs.cn]
 127.0.0.1 newspush.sinajs.cn
 
@@ -11679,6 +11685,8 @@
 
 # [trnox.com]
 127.0.0.1 tracking.trnox.com
+127.0.0.1 tracking-3-9f58.trnox.com
+127.0.0.1 trcakingapp.trnox.com
 
 # [tru.am]
 127.0.0.1 beacon.tru.am
@@ -12679,6 +12687,9 @@
 
 # [yemonisoni.com]
 127.0.0.1 yemonisoni.com
+
+# [yeshen.com]
+127.0.0.1 bi.yeshen.com
 
 # [yhmapi.com]
 127.0.0.1 ppsdk.yhmapi.com
