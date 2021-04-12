@@ -9479,9 +9479,6 @@
 # [pricespider.com]
 127.0.0.1 track.pricespider.com
 
-# [privacy-center.org]
-127.0.0.1 sdk.privacy-center.org
-
 # [privacytrck.com]
 127.0.0.1 static.privacytrck.com
 
