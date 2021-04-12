@@ -6722,7 +6722,6 @@
 
 # [ktplay.com]
 127.0.0.1 dataapi.ktplay.com
-127.0.0.1 dwimg.ktplay.com
 127.0.0.1 track.ktplay.com
 
 # [ktxtr.com]
