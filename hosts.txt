@@ -10103,16 +10103,9 @@
 127.0.0.1 aws-api.sail-personalize.com
 
 # [sailthru.com]
-127.0.0.1 ak.sailthru.com
 127.0.0.1 api.sailthru.com
 127.0.0.1 cb.sailthru.com
-127.0.0.1 cdn.sailthru.com
-127.0.0.1 condenast-a.sailthru.com
-127.0.0.1 condenast-b.sailthru.com
-127.0.0.1 ha-link.sailthru.com
 127.0.0.1 horizon.sailthru.com
-127.0.0.1 media.sailthru.com
-127.0.0.1 njmta-173.sailthru.com
 
 # [salesforce.com]
 127.0.0.1 beacon.my.salesforce.com
