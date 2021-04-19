@@ -5100,8 +5100,6 @@
 
 # [fbcdn.net]
 127.0.0.1 sonar-iad.xx.fbcdn.net
-127.0.0.1 video-dfw5-1.xx.fbcdn.net
-127.0.0.1 video-dfw5-2.xx.fbcdn.net
 
 # [fc2.com]
 127.0.0.1 affiliate.fc2.com
