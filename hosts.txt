@@ -7654,9 +7654,6 @@
 127.0.0.1 bingads.microsoft.com
 127.0.0.1 advertise.bingads.microsoft.com
 127.0.0.1 si.bingads.microsoft.com
-127.0.0.1 mobile.events.data.microsoft.com
-127.0.0.1 self.events.data.microsoft.com
-127.0.0.1 vortex.data.microsoft.com
 
 # [midasplayer.com]
 127.0.0.1 adtrack1.midasplayer.com
