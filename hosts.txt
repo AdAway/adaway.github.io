@@ -11790,9 +11790,6 @@
 # [triongames.com]
 127.0.0.1 ads.triongames.com
 
-# [tritondigital.com]
-127.0.0.1 midrollmedia.mc.tritondigital.com
-
 # [trnox.com]
 127.0.0.1 tracking.trnox.com
 127.0.0.1 tracking-3-9f58.trnox.com
