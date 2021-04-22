@@ -10685,10 +10685,6 @@
 # [smartstream.tv]
 127.0.0.1 ads.smartstream.tv
 
-# [smassets.net]
-127.0.0.1 cdn.smassets.net
-127.0.0.1 prod.smassets.net
-
 # [smbeat.jp]
 127.0.0.1 abort-count.smbeat.jp
 127.0.0.1 api.smbeat.jp
