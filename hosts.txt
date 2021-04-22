@@ -3378,11 +3378,6 @@
 # [chrysler.com]
 127.0.0.1 smetrics.chrysler.com
 
-# [chtbl.com]
-127.0.0.1 chtbl.com
-127.0.0.1 ext.chtbl.com
-127.0.0.1 web.chtbl.com
-
 # [cinarra.com]
 127.0.0.1 jp.cinarra.com
 127.0.0.1 3ppa.jp.cinarra.com
