@@ -13041,9 +13041,6 @@
 # [zoomanalytics.co]
 127.0.0.1 ssl.zoomanalytics.co
 
-# [zopim.com]
-127.0.0.1 widget-mediator.zopim.com
-
 # [zorkanetwork.com]
 127.0.0.1 track.zorkanetwork.com
 
