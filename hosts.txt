@@ -920,9 +920,6 @@
 # [adreactor.com]
 127.0.0.1 adserver.adreactor.com
 
-# [adrise.tv]
-127.0.0.1 s.adrise.tv
-
 # [adroll.com]
 127.0.0.1 adroll.com
 127.0.0.1 adx-winners-ap-southeast-1-rtb.adroll.com
