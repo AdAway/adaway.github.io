@@ -2789,8 +2789,25 @@
 127.0.0.1 bayctrk.com
 
 # [bazaarvoice.com]
-127.0.0.1 apps.nexus.bazaarvoice.com
 127.0.0.1 analytics-static.ugc.bazaarvoice.com
+127.0.0.1 apps.bazaarvoice.com
+127.0.0.1 apps.nexus.bazaarvoice.com
+127.0.0.1 bv-analytics-js-prod.s3.amazonaws.com
+127.0.0.1 bv-analytics-js-qa.s3.amazonaws.com
+127.0.0.1 magpie-a.bazaarvoice.com
+127.0.0.1 magpie.bazaarvoice.com
+127.0.0.1 magpie-static.ugc.bazaarvoice.com
+127.0.0.1 magpie-stg-a.bazaarvoice.com
+127.0.0.1 magpie-stg.bazaarvoice.com
+127.0.0.1 network-a.bazaarvoice.com
+127.0.0.1 network.bazaarvoice.com
+127.0.0.1 network-eu-a.bazaarvoice.com
+127.0.0.1 network-eu.bazaarvoice.com
+127.0.0.1 network-eu-stg-a.bazaarvoice.com
+127.0.0.1 network-eu-stg.bazaarvoice.com
+127.0.0.1 network-stg-a.bazaarvoice.com
+127.0.0.1 network-stg.bazaarvoice.com
+127.0.0.1 schema.mag.bazaarvoice.com
 
 # [bbcverticals.com]
 127.0.0.1 flagpoles.gnl-live.bbcverticals.com
