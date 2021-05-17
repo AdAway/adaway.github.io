@@ -9344,9 +9344,6 @@
 # [pictela.net]
 127.0.0.1 ads.pictela.net
 
-# [pingdom.com]
-127.0.0.1 stats.pingdom.com
-
 # [pingdom.net]
 127.0.0.1 rum-collector.pingdom.net
 127.0.0.1 rum-collector-2.pingdom.net
