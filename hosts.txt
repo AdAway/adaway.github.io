@@ -9252,25 +9252,6 @@
 # [performancehorizon.com]
 127.0.0.1 performancehorizon.com
 
-# [perimeterx.net]
-127.0.0.1 cl6.perimeterx.net
-127.0.0.1 collector-pxljub4etb.cl6.perimeterx.net
-127.0.0.1 client.perimeterx.net
-127.0.0.1 collector-a.perimeterx.net
-127.0.0.1 collector-px0etyn5vq.perimeterx.net
-127.0.0.1 collector-px12xk43jk.perimeterx.net
-127.0.0.1 collector-px3vk96i6i.perimeterx.net
-127.0.0.1 collector-px87q7kx6y.perimeterx.net
-127.0.0.1 collector-px8fcgygk4.perimeterx.net
-127.0.0.1 collector-pxhyx10rg3.perimeterx.net
-127.0.0.1 collector-pxikkul2rm.perimeterx.net
-127.0.0.1 collector-pxitevy85i.perimeterx.net
-127.0.0.1 collector-pxkz8zzqmw.perimeterx.net
-127.0.0.1 collector-pxo97ybh4j.perimeterx.net
-127.0.0.1 collector-pxuarm9b04.perimeterx.net
-127.0.0.1 collector-pxvi2rjzgl.perimeterx.net
-127.0.0.1 px-conf.perimeterx.net
-
 # [period-calendar.com]
 127.0.0.1 ad.period-calendar.com
 
