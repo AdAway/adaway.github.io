@@ -6301,12 +6301,6 @@
 127.0.0.1 sync.intentiq.com
 127.0.0.1 sync1.intentiq.com
 
-# [intercom.io]
-127.0.0.1 mobile-sdk-api.intercom.io
-
-# [intercomcdn.com]
-127.0.0.1 js.intercomcdn.com
-
 # [intergi.com]
 127.0.0.1 cdn.intergi.com
 
