@@ -10454,6 +10454,9 @@
 127.0.0.1 pixel.shareaholic.com
 127.0.0.1 recs.shareaholic.com
 
+# [sharedid.org]
+127.0.0.1 id.sharedid.org
+
 # [sharethis.com]
 127.0.0.1 buttons-config.sharethis.com
 127.0.0.1 count-server.sharethis.com
