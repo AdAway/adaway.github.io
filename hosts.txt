@@ -6581,9 +6581,6 @@
 # [justservingfiles.net]
 127.0.0.1 bmedia.justservingfiles.net
 
-# [jwplayer.com]
-127.0.0.1 entitlements.jwplayer.com
-
 # [jwpsrv.com]
 127.0.0.1 g.jwpsrv.com
 
