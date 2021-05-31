@@ -7385,9 +7385,6 @@
 # [marketo.net]
 127.0.0.1 munchkin.marketo.net
 
-# [markmonitor.com]
-127.0.0.1 markmonitor.com
-
 # [maropost.com]
 127.0.0.1 api.maropost.com
 127.0.0.1 cdn.maropost.com
