@@ -9431,13 +9431,6 @@
 127.0.0.1 api.placer.io
 127.0.0.1 conf.placer.io
 
-# [playfabapi.com]
-127.0.0.1 65c6.playfabapi.com
-127.0.0.1 92ab.playfabapi.com
-127.0.0.1 b343.playfabapi.com
-127.0.0.1 b77ad.playfabapi.com
-127.0.0.1 ca87.playfabapi.com
-
 # [playhaven.com]
 127.0.0.1 playhaven.com
 
