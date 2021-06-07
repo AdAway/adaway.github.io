@@ -9440,9 +9440,6 @@
 # [playtem.com]
 127.0.0.1 sdk.playtem.com
 
-# [playtomic.com]
-127.0.0.1 playtomic.com
-
 # [po.st]
 127.0.0.1 analytics.po.st
 127.0.0.1 i.po.st
