@@ -9625,12 +9625,6 @@
 # [proper.io]
 127.0.0.1 global.proper.io
 
-# [proximabeta.com]
-127.0.0.1 gsdk.proximabeta.com
-127.0.0.1 cloud.gsdk.proximabeta.com
-127.0.0.1 cloud2.gsdk.proximabeta.com
-127.0.0.1 speed.na.gsdk.proximabeta.com
-
 # [proxistore.com]
 127.0.0.1 abs-v2.proxistore.com
 
