@@ -5715,9 +5715,6 @@
 # [heapanalytics.com]
 127.0.0.1 cdn.heapanalytics.com
 
-# [hearstapps.com]
-127.0.0.1 glimmer.hearstapps.com
-
 # [herocraft.com]
 127.0.0.1 adv.herocraft.com
 127.0.0.1 gamestats.herocraft.com
