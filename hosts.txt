@@ -4765,7 +4765,6 @@
 127.0.0.1 wildcard.bkrtx.com.edgekey.net
 127.0.0.1 bluekai.com.edgekey.net
 127.0.0.1 tags.bluekai.com.edgekey.net
-127.0.0.1 log.byteoversea.com.edgekey.net
 127.0.0.1 casalemedia.com.edgekey.net
 127.0.0.1 as-sec.casalemedia.com.edgekey.net
 127.0.0.1 dsum.casalemedia.com.edgekey.net
@@ -6420,7 +6419,6 @@
 127.0.0.1 dm.isnssdk.com
 127.0.0.1 h5.isnssdk.com
 127.0.0.1 hotapi-va.isnssdk.com
-127.0.0.1 i.isnssdk.com
 127.0.0.1 i16-tb.isnssdk.com
 127.0.0.1 ichannel.isnssdk.com
 127.0.0.1 ichannel-tb.isnssdk.com
