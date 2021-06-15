@@ -4085,11 +4085,6 @@
 # [databrain.com]
 127.0.0.1 tracker.databrain.com
 
-# [datadoghq.com]
-127.0.0.1 mobile-http-intake.logs.datadoghq.com
-127.0.0.1 public-trace-http-intake.logs.datadoghq.com
-127.0.0.1 rum-http-intake.logs.datadoghq.com
-
 # [datahc.com]
 127.0.0.1 brands.datahc.com
 127.0.0.1 media.datahc.com
