@@ -6450,10 +6450,6 @@
 # [itracker360.com]
 127.0.0.1 ip.itracker360.com
 
-# [iubenda.com]
-127.0.0.1 cdn.iubenda.com
-127.0.0.1 hits-i.iubenda.com
-
 # [ivitrack.com]
 127.0.0.1 itm.ivitrack.com
 127.0.0.1 matching.ivitrack.com
