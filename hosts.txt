@@ -1752,7 +1752,6 @@
 127.0.0.1 ds-aksb-a.akamaihd.net
 127.0.0.1 inmobisdk-a.akamaihd.net
 127.0.0.1 middycdn-a.akamaihd.net
-127.0.0.1 snappytvpoc-vh.akamaihd.net
 127.0.0.1 supersonicads-a.akamaihd.net
 
 # [akamaized.net]
