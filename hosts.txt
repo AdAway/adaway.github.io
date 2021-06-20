@@ -2170,14 +2170,6 @@
 # [appbrain.com]
 127.0.0.1 sdk.appbrain.com
 
-# [appcelerator.com]
-127.0.0.1 api.appcelerator.com
-127.0.0.1 cloud.appcelerator.com
-127.0.0.1 api.cloud.appcelerator.com
-
-# [appcenter.ms]
-127.0.0.1 in.appcenter.ms
-
 # [appchair.com]
 127.0.0.1 ads.appchair.com
 
@@ -2194,12 +2186,6 @@
 # [appcnt.com]
 127.0.0.1 bannerwall.s3.appcnt.com
 
-# [appdynamics.com]
-127.0.0.1 api.appdynamics.com
-127.0.0.1 analytics.api.appdynamics.com
-127.0.0.1 cdn.appdynamics.com
-127.0.0.1 saas.appdynamics.com
-
 # [appearch.info]
 127.0.0.1 appearch.info
 
@@ -2212,9 +2198,6 @@
 
 # [appgrowth.com]
 127.0.0.1 creative-cdn.appgrowth.com
-
-# [apphb.com]
-127.0.0.1 variantswatches.apphb.com
 
 # [appia.com]
 127.0.0.1 appia.com
@@ -2311,9 +2294,6 @@
 127.0.0.1 d.applvn.com
 127.0.0.1 ms.applvn.com
 127.0.0.1 rt.applvn.com
-
-# [appmachine.com]
-127.0.0.1 apps.appmachine.com
 
 # [appnext.com]
 127.0.0.1 admin.appnext.com
