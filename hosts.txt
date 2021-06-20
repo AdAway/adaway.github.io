@@ -552,6 +552,11 @@
 127.0.0.1 r8qs.adj.st
 127.0.0.1 sxj8.adj.st
 
+# [adjoe.zone]
+127.0.0.1 fraud.adjoe.zone
+127.0.0.1 prod.fraud.adjoe.zone
+127.0.0.1 prod.adjoe.zone
+
 # [adjust.com]
 127.0.0.1 adjust.com
 127.0.0.1 app.adjust.com
@@ -7958,6 +7963,9 @@
 127.0.0.1 analytics.lb.mobileapphelper.com
 
 # [mobileapptracking.com]
+127.0.0.1 deeplink.mobileapptracking.com
+127.0.0.1 7336.deeplink.mobileapptracking.com
+127.0.0.1 engine.mobileapptracking.com
 127.0.0.1 10148.engine.mobileapptracking.com
 127.0.0.1 159126.engine.mobileapptracking.com
 127.0.0.1 167126.engine.mobileapptracking.com
@@ -7998,15 +8006,12 @@
 127.0.0.1 3612.engine.mobileapptracking.com
 127.0.0.1 4984.engine.mobileapptracking.com
 127.0.0.1 5094.engine.mobileapptracking.com
-127.0.0.1 7336.deeplink.mobileapptracking.com
 127.0.0.1 7336.engine.mobileapptracking.com
 127.0.0.1 8008.engine.mobileapptracking.com
 127.0.0.1 8604.engine.mobileapptracking.com
 127.0.0.1 8696.engine.mobileapptracking.com
 127.0.0.1 943.engine.mobileapptracking.com
 127.0.0.1 9864.engine.mobileapptracking.com
-127.0.0.1 deeplink.mobileapptracking.com
-127.0.0.1 engine.mobileapptracking.com
 
 # [mobilebanner.ru]
 127.0.0.1 mobilebanner.ru
