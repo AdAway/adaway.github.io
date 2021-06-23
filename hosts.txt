@@ -5276,6 +5276,9 @@
 # [growthpush.com]
 127.0.0.1 api.growthpush.com
 
+# [gscontxt.net]
+127.0.0.1 hearst.gscontxt.net
+
 # [gu-web.net]
 127.0.0.1 phar.gu-web.net
 
@@ -5679,6 +5682,9 @@
 
 # [in25app.com]
 127.0.0.1 trk.in25app.com
+
+# [indeed.com]
+127.0.0.1 t.indeed.com
 
 # [indexww.com]
 127.0.0.1 update.indexww.com
@@ -6503,6 +6509,9 @@
 # [ligatus.com]
 127.0.0.1 a.ligatus.com
 127.0.0.1 a-ssl.ligatus.com
+
+# [lightboxcdn.com]
+127.0.0.1 www.lightboxcdn.com
 
 # [lijit.com]
 127.0.0.1 ap.lijit.com
@@ -8004,6 +8013,7 @@
 # [nytimes.com]
 127.0.0.1 als-svc.nytimes.com
 127.0.0.1 meter-svc.nytimes.com
+127.0.0.1 a.et.nytimes.com
 
 # [o333o.com]
 127.0.0.1 cdn.o333o.com
@@ -8129,6 +8139,7 @@
 127.0.0.1 h.online-metrix.net
 127.0.0.1 h-ebay.online-metrix.net
 127.0.0.1 h-fidelity.online-metrix.net
+127.0.0.1 h-sdk.online-metrix.net
 127.0.0.1 h-signifyd.online-metrix.net
 127.0.0.1 h-tdcanada.online-metrix.net
 127.0.0.1 h6.online-metrix.net
@@ -11829,6 +11840,7 @@
 127.0.0.1 smetrics.walgreens.com
 
 # [walmart.com]
+127.0.0.1 drfdisvc.walmart.com
 127.0.0.1 analytics.mobile.walmart.com
 
 # [wapstart.ru]
