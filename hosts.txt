@@ -10323,7 +10323,6 @@
 127.0.0.1 ads-lfi3olnec7fr.stackpathdns.com
 127.0.0.1 analytics-wildtangent-yfdbl8gzl.stackpathdns.com
 127.0.0.1 beacons-wxm0dh1cst4.stackpathdns.com
-127.0.0.1 hb-minify-juc1ugur1qwqqqo4.stackpathdns.com
 127.0.0.1 sdk-assets-zy8pe3h4v8msjk6x2sq4.stackpathdns.com
 
 # [starbolt.io]
