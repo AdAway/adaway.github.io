@@ -2,6 +2,7 @@
   "name": "hosts-formatter",
   "version": "1.0.0",
   "description": "Format AdAway hosts file",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -9,9 +10,9 @@
   "author": "Bruce BUJON",
   "license": "GPLv3+",
   "dependencies": {
-    "parse-domain": "^2.3.4"
+    "parse-domain": "^3.0.3"
   },
   "devDependencies": {
-    "mocha": "^7.1.0"
+    "mocha": "^9.0.1"
   }
 }

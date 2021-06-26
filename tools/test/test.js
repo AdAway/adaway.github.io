@@ -1,6 +1,6 @@
-const assert = require('assert');
-const parseDomain = require('parse-domain');
-const domains = require('../domain');
+import { deepStrictEqual } from 'assert';
+import { parseDomain, ParseResultType } from "parse-domain";
+import { compare } from '../domain.js';
 
 describe('domains', function () {
     describe('#compare()', function () {
@@ -16,17 +16,50 @@ describe('domains', function () {
                 "token.ad",
             ];
 
-            sourceDomains = sourceDomains.map(domain => {
-                return {
-                    host: domain,
-                    domain: parseDomain(domain)
-                }
-            });
-            sourceDomains.sort(domains.compare);
-            sourceDomains = sourceDomains.map(domain => domain.host);
+            sourceDomains = sourceDomains.map(domain => parseDomain(domain));
+            sourceDomains.sort(compare);
+            sourceDomains = sourceDomains.map(domain => domain.hostname);
 
-            assert.deepEqual(sourceDomains, sortedDomains);
+            deepStrictEqual(sourceDomains, sortedDomains);
         });
+
+        // it('temp test', function () {
+        //     var sourceDomains = [
+        //         "mobile.api.hmageo.com",
+        //         "hnbutton.appspot.com",
+        //         "holder.com.ua",
+        //     ];
+        //     var sortedDomains = [
+        //         "hnbutton.appspot.com",
+        //         "mobile.api.hmageo.com",
+        //         "holder.com.ua",
+        //     ];
+
+        //     sourceDomains = sourceDomains.map(domain => parseDomain(domain));
+        //     sourceDomains.sort(compare);
+        //     sourceDomains = sourceDomains.map(domain => domain.hostname);
+
+        //     deepStrictEqual(sourceDomains, sortedDomains);
+        // });
+        
+        // it('temp test2', function () {
+        //     var sourceDomains = [
+        //         "admarvel.com",
+        //         "admarvel.s3.amazonaws.com",
+        //         "admaster.com.cn",
+        //     ];
+        //     var sortedDomains = [
+        //         "admarvel.com",
+        //         "admaster.com.cn",
+        //         "admarvel.s3.amazonaws.com",
+        //     ];
+
+        //     sourceDomains = sourceDomains.map(domain => parseDomain(domain));
+        //     sourceDomains.sort(compare);
+        //     sourceDomains = sourceDomains.map(domain => domain.hostname);
+
+        //     deepStrictEqual(sourceDomains, sortedDomains);
+        // });
 
         it('should group domain whatever their TLD', function () {
             var sourceDomains = [
@@ -46,16 +79,11 @@ describe('domains', function () {
                 "token.pub"
             ];
 
-            sourceDomains = sourceDomains.map(domain => {
-                return {
-                    host: domain,
-                    domain: parseDomain(domain)
-                }
-            });
-            sourceDomains.sort(domains.compare);
-            sourceDomains = sourceDomains.map(domain => domain.host);
+            sourceDomains = sourceDomains.map(domain => parseDomain(domain));
+            sourceDomains.sort(compare);
+            sourceDomains = sourceDomains.map(domain => domain.hostname);
 
-            assert.deepEqual(sourceDomains, sortedDomains);
+            deepStrictEqual(sourceDomains, sortedDomains);
         });
 
         it('should sort subdomains', function () {
@@ -78,16 +106,11 @@ describe('domains', function () {
                 "second.def.content.ad"
             ];
 
-            sourceDomains = sourceDomains.map(domain => {
-                return {
-                    host: domain,
-                    domain: parseDomain(domain)
-                }
-            });
-            sourceDomains.sort(domains.compare);
-            sourceDomains = sourceDomains.map(domain => domain.host);
+            sourceDomains = sourceDomains.map(domain => parseDomain(domain));
+            sourceDomains.sort(compare);
+            sourceDomains = sourceDomains.map(domain => domain.hostname);
 
-            assert.deepEqual(sourceDomains, sortedDomains);
+            deepStrictEqual(sourceDomains, sortedDomains);
         });
     });
 });

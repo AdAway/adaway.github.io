@@ -1,29 +1,44 @@
 function compare(a, b) {
     // Compare apex domain then subdomains
-    const apexDomainA = a.domain.domain + '.' + a.domain.tld;
-    const apexDomainB = b.domain.domain + '.' + b.domain.tld;
+    const apexDomainA = a.domain + '.' + a.topLevelDomains.join('.');
+    const apexDomainB = b.domain + '.' + b.topLevelDomains.join('.');
     if (apexDomainA < apexDomainB) {
         return -1;
     } else if (apexDomainA > apexDomainB) {
         return 1;
     } else {
-        return compareSubdomain(a.domain.subdomain, b.domain.subdomain);
+        return compareSubdomain(a.subDomains, b.subDomains);
+    }
+}
+
+function compareIcann(a, b) {
+    // Compare apex domain then subdomains
+    const apexDomainA = a.icann.domain + '.' + a.icann.topLevelDomains.join('.');
+    const apexDomainB = b.icann.domain + '.' + b.icann.topLevelDomains.join('.');
+    if (apexDomainA < apexDomainB) {
+        return -1;
+    } else if (apexDomainA > apexDomainB) {
+        return 1;
+    } else {
+        return compareSubdomain(a.icann.subDomains, b.icann.subDomains);
     }
 }
 
 function compareSubdomain(a, b) {
-    const aParts = a.split('.');
-    const bParts = b.split('.');
-    while (aParts.length > 0 && bParts.length > 0) {
-        const aPart = aParts.pop();
-        const bPart = bParts.pop();
-        if (aPart < bPart) {
+    var aIndex = a.length-1;
+    var bIndex = b.length-1;
+    while (aIndex >=0 && bIndex >=0) {
+        const aSubdomain = a[aIndex];
+        const bSubdomain = b[bIndex];
+        aIndex--;
+        bIndex--;
+        if (aSubdomain < bSubdomain) {
             return -1;
-        } else if (aPart > bPart) {
+        } else if (aSubdomain > bSubdomain) {
             return 1;
         }
     }
-    return aParts.length - bParts.length;
+    return a.length - b.length;
 }
 
-exports.compare = compare;
+export { compare, compareIcann }; 
