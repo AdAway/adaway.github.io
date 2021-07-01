@@ -9753,8 +9753,6 @@
 127.0.0.1 nc.gdt.qq.com
 127.0.0.1 new-event.sng.qq.com
 127.0.0.1 news-l.play.ott.video.qq.com
-127.0.0.1 news.l.qq.com
-127.0.0.1 news.mpush.qq.com
 127.0.0.1 newton-crash.pcmgr.qq.com
 127.0.0.1 ngbstat.guanjia.qq.com
 127.0.0.1 nmqqad.cs0309.html5.qq.com
@@ -9768,7 +9766,6 @@
 127.0.0.1 onclick.qq.com
 127.0.0.1 op.ssp.qq.com
 127.0.0.1 open.adx.qq.com
-127.0.0.1 openapi.guanjia.qq.com
 127.0.0.1 origin-ping.v.qq.com
 127.0.0.1 oss.admaker.qq.com
 127.0.0.1 oss.events.qq.com
