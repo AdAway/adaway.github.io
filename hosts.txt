@@ -9372,8 +9372,6 @@
 127.0.0.1 apollovoicestat.gamedl.qq.com
 127.0.0.1 appchannel.html5.qq.com
 127.0.0.1 applog.reader.qq.com
-127.0.0.1 appmkt.qq.com
-127.0.0.1 appstore.browser.qq.com
 127.0.0.1 appsupport.qq.com
 127.0.0.1 appupload.qt.qq.com
 127.0.0.1 ark.qq.com
