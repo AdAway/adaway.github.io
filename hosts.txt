@@ -7752,7 +7752,6 @@
 127.0.0.1 mobileads.msn.com
 127.0.0.1 rads.msn.com
 127.0.0.1 srtb.msn.com
-127.0.0.1 superapp.msn.com
 
 # [msstatic.com]
 127.0.0.1 sdkconf.msstatic.com
