@@ -3,7 +3,6 @@
 .site-header {
   min-height: 375px;
   background-color: $brand-color;
-  background-image: url("");
   background-size: cover;
   background-position: center -150px;
   background-attachment: fixed;
@@ -45,8 +44,6 @@
   box-sizing: border-box;
   border-radius: 10px;
   padding: 12px 20px;
-  -webkit-transition: all 0.3s ease-in-out;
-  -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 
   &:hover {
@@ -69,8 +66,6 @@
   border-radius: 10px;
   padding: 12px 20px;
   cursor: pointer;
-  -webkit-transition: all 0.3s ease-in-out;
-  -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 
   &:hover {
@@ -94,8 +89,6 @@
   border-radius: 10px;
   padding: 12px 20px;
   margin-left: 15px;
-  -webkit-transition: all 0.3s ease-in-out;
-  -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 
   &:hover {
@@ -368,8 +361,6 @@
   box-sizing: border-box;
   text-align: center;
   margin-top: 25px;
-  -webkit-transition: all 0.3s ease-in-out;
-  -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 
   &:hover {

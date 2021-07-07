@@ -1,5 +1,7 @@
 <div class="wrapper">
 
+    <script src="/js/splide.min.js"></script>
+
     <h1 id="requirements" class="center pt-4">Requirements</h1>
 
     <div class="row">
@@ -14,63 +16,57 @@
     <div class="row">
         <div class="col-sm center">
             <div class="box">
-                <p><i class="fab fa-android"></i> Android 4.1 or above</p>
+                <i class="fab fa-android"></i>
+                <p>Android 4.1 or above/Android 8 and above for v5</p>
             </div>
         </div>
 
         <div class="col-sm center">
             <div class="box">
-                <p><i class="fas fa-wrench"></i> Optional Root</p>
+                <i class="fas fa-wrench"></i>
+                <p>Root not required to work/Local VPN feature utilization</p>
             </div>
         </div>
 
         <div class="col-sm center">
             <div class="box">
-                <p><i class="fas fa-pencil-alt"></i> R/W access on system</p>
+                <i class="fas fa-pencil-alt"></i>
+                <p>R/W access on system/Systemless via Magisk</p>
             </div>
         </div>
     </div>
-    
-    <h1 id="screenshots" class="center pt-4">Screenshots</h1>
 
-    <div class="row">
+    <h1 id="screenshots" class="center pt-4 mb-3">Screenshots</h1>
 
-        <div class="col-sm center">
-            <div class="box screenshot">
-                <a href="../assets/img/main_screen.png"><img src="../assets/img/main_screen.png"
-                        alt="Main Screen" /></a>
-            </div>
+    <div class="splide">
+        <div class="splide__track">
+            <ul class="splide__list">
+                <li class="splide__slide"><img src="../assets/img/main_screen.jpg" alt="Main Screen" /></li>
+                <li class="splide__slide"><img src="../assets/img/host_sources.jpg" alt="Host sources" /></li>
+                <li class="splide__slide"><img src="../assets/img/preferences.jpg" alt="Preferences" /></li>
+                <li class="splide__slide"><img src="../assets/img/update_screen.jpg" alt="Update preferences" /></li>
+                <li class="splide__slide"><img src="../assets/img/root_blocker.jpg" alt="Root blocking" /></li>
+                <li class="splide__slide"><img src="../assets/img/backup_restore.jpg" alt="Backup & Restore" /></li>
+                <li class="splide__slide"><img src="../assets/img/dns_requests.jpg" alt="DNS requests logging" /></li>
+                <li class="splide__slide"><img src="../assets/img/help_screen.jpg" alt="Help Screen" /></li>
+                <li class="splide__slide"><img src="../assets/img/support_screen.jpg" alt="Support Screen" /></li>
+                <li class="splide__slide"><img src="../assets/img/changelog_screen.jpg" alt="Changelog Screen" /></li>
+            </ul>
         </div>
-
-        <div class="col-sm center">
-            <div class="box screenshot">
-                <a href="../assets/img/preferences.png"><img src="../assets/img/preferences.png"
-                        alt="Preferences" /></a>
-            </div>
-        </div>
-
-        <div class="col-sm center">
-            <div class="box screenshot">
-                <a href="../assets/img/root_blocker.png"><img src="../assets/img/root_blocker.png"
-                        alt="Root blocking" /></a>
-            </div>
-        </div>
-
-        <div class="col-sm center">
-            <div class="box screenshot">
-                <a href="../assets/img/backup_restore.png"><img src="../assets/img/backup_restore.png"
-                        alt="Backup & Restore" /></a>
-            </div>
-        </div>
-
-        <div class="col-sm center">
-            <div class="box screenshot">
-                <a href="../assets/img/help_screen.png"><img src="../assets/img/help_screen.png"
-                        alt="Help Screen" /></a>
-            </div>
-        </div>
-
     </div>
+
+    <script>
+        new Splide('.splide', {
+            perPage: 3,
+            type: 'loop',
+            breakpoints: {
+                640: {
+                    perPage: 1,
+                },
+            },
+            gap: '1em',
+        }).mount();
+    </script>
 
     <script src="/js/jquery.min.js"></script>
     <script src="/js/jvectormap.min.js"></script>
@@ -151,7 +147,8 @@
             <p>Add <a href="https://github.com/AdAway/AdAway/wiki/HostsSources#redirection-lists" target="_blank"
                     rel="noopener">Redirection Lists</a> to your Hosts Sources to redirect blocked DNS requests to the
                 correct IPs in China. This hosts source contains redirection rules for Google, Facebook, and other.
-                <strong>(You need to enable “Allow redirection rules from Hosts Sources” in preferences)</strong>.</p>
+                <strong>(You need to enable “Allow redirection rules from Hosts Sources” in preferences)</strong>.
+            </p>
             <h3 class="pt-1">More information?</h3>
             <p>Open the <a href="https://github.com/AdAway/AdAway/wiki/HostsSources" target="_blank" rel="noopener">Wiki
                     on Github</a>.</p>
