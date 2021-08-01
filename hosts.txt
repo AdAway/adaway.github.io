@@ -9961,6 +9961,7 @@
 127.0.0.1 api.sentiance.com
 
 # [sentry.io]
+127.0.0.1 o209266.ingest.sentry.io
 127.0.0.1 o278969.ingest.sentry.io
 127.0.0.1 o430870.ingest.sentry.io
 
