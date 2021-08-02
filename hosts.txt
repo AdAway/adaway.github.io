@@ -8099,33 +8099,9 @@
 # [networld.hk]
 127.0.0.1 networld.hk
 
-# [netwrix.com]
-127.0.0.1 img.netwrix.com
-127.0.0.1 lp.netwrix.com
-
 # [neustar.biz]
 127.0.0.1 wpm.neustar.biz
 127.0.0.1 rum-collector.wpm.neustar.biz
-
-# [newrelic.com]
-127.0.0.1 collector.newrelic.com
-127.0.0.1 collector-001.newrelic.com
-127.0.0.1 collector-002.newrelic.com
-127.0.0.1 collector-003.newrelic.com
-127.0.0.1 collector-004.newrelic.com
-127.0.0.1 collector-005.newrelic.com
-127.0.0.1 collector-006.newrelic.com
-127.0.0.1 collector-007.newrelic.com
-127.0.0.1 collector-008.newrelic.com
-127.0.0.1 collector-009.newrelic.com
-127.0.0.1 collector-010.newrelic.com
-127.0.0.1 insights-collector.newrelic.com
-127.0.0.1 js-agent.newrelic.com
-127.0.0.1 metric-api.newrelic.com
-127.0.0.1 mobile-collector.newrelic.com
-127.0.0.1 mobile-crash.newrelic.com
-127.0.0.1 mobile-crash-origin.newrelic.com
-127.0.0.1 staging-insights-collector.newrelic.com
 
 # [newscgp.com]
 127.0.0.1 us.tags.newscgp.com
