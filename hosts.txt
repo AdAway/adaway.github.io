@@ -5742,10 +5742,6 @@
 # [id1.cn]
 127.0.0.1 id1.cn
 
-# [ident.me]
-127.0.0.1 ident.me
-127.0.0.1 v4.ident.me
-
 # [idio.co]
 127.0.0.1 a.idio.co
 127.0.0.1 api.idio.co
