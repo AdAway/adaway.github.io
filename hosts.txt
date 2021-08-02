@@ -7312,9 +7312,6 @@
 127.0.0.1 chanalytics.merchantadvantage.com
 127.0.0.1 secure.merchantadvantage.com
 
-# [meredithcorp.io]
-127.0.0.1 imagesvc.meredithcorp.io
-
 # [metadsp.co.uk]
 127.0.0.1 ipw.metadsp.co.uk
 
