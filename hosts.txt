@@ -9745,9 +9745,6 @@
 # [rutarget.ru]
 127.0.0.1 tag.rutarget.ru
 
-# [rutracker.cc]
-127.0.0.1 bt4.rutracker.cc
-
 # [s-onetag.com]
 127.0.0.1 beacon.s-onetag.com
 127.0.0.1 connect-metrics-collector.s-onetag.com
