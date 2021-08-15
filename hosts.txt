@@ -5651,6 +5651,9 @@
 127.0.0.1 adv.herocraft.com
 127.0.0.1 gamestats.herocraft.com
 
+# [hotstar.com/in]
+127.0.0.1 hesads.akamaized.net
+
 # [collection-endpoint-prod.herokuapp.com]
 127.0.0.1 collection-endpoint-prod.herokuapp.com
 
