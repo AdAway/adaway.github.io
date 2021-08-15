@@ -11553,7 +11553,6 @@
 
 # [trustarc.com]
 127.0.0.1 choices.trustarc.com
-127.0.0.1 consent.trustarc.com
 127.0.0.1 preferences.trustarc.com
 
 # [truste.com]
