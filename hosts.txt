@@ -1995,9 +1995,6 @@
 # [mobileanalytics.us-east-1.amazonaws.com]
 127.0.0.1 mobileanalytics.us-east-1.amazonaws.com
 
-# [amazonsilk.com]
-127.0.0.1 global.cmcs.service.amazonsilk.com
-
 # [ambient-platform.com]
 127.0.0.1 ambient-platform.com
 127.0.0.1 static.ambient-platform.com
@@ -3284,9 +3281,6 @@
 # [cintnetworks.com]
 127.0.0.1 c.cintnetworks.com
 
-# [circularhub.com]
-127.0.0.1 api.circularhub.com
-
 # [cision.com]
 127.0.0.1 app.cision.com
 127.0.0.1 prapi.cision.com
@@ -3444,18 +3438,6 @@
 
 # [cocamobile.com]
 127.0.0.1 msg.cocamobile.com
-
-# [coccoc.com]
-127.0.0.1 cdn-qc.coccoc.com
-127.0.0.1 cdn.comedia.coccoc.com
-127.0.0.1 metrics.coccoc.com
-127.0.0.1 nt-cdn.coccoc.com
-127.0.0.1 qc.coccoc.com
-127.0.0.1 catalog.qc.coccoc.com
-127.0.0.1 context.qc.coccoc.com
-127.0.0.1 display.qc.coccoc.com
-127.0.0.1 ntrb.qc.coccoc.com
-127.0.0.1 qc-static.coccoc.com
 
 # [cognitivlabs.com]
 127.0.0.1 lynx.cognitivlabs.com
