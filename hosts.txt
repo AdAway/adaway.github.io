@@ -8214,7 +8214,6 @@
 
 # [nixcdn.com]
 127.0.0.1 log4x.nixcdn.com
-127.0.0.1 lrc.nct.nixcdn.com
 127.0.0.1 stc-nas.nixcdn.com
 
 # [nmcdn.us]
