@@ -8824,13 +8824,6 @@
 # [optnmstr.com]
 127.0.0.1 a.optnmstr.com
 
-# [ordergroove.com]
-127.0.0.1 static.ordergroove.com
-
-# [osano.com]
-127.0.0.1 consent.api.osano.com
-127.0.0.1 cmp.osano.com
-
 # [otherlevels.com]
 127.0.0.1 otherlevels.com
 127.0.0.1 api.otherlevels.com
