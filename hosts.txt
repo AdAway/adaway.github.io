@@ -10117,9 +10117,6 @@
 # [shopee.vn]
 127.0.0.1 userstats.shopee.vn
 
-# [shortpixel.ai]
-127.0.0.1 cdn.shortpixel.ai
-
 # [sift.co]
 127.0.0.1 prod.sift.co
 127.0.0.1 sgbid.prod.sift.co
