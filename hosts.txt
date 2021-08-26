@@ -5492,14 +5492,6 @@
 # [guoshipartners.com]
 127.0.0.1 ad-specs.guoshipartners.com
 
-# [gvt2.com]
-127.0.0.1 beacons.gvt2.com
-127.0.0.1 beacons2.gvt2.com
-127.0.0.1 beacons.gcp.gvt2.com
-
-# [gvt3.com]
-127.0.0.1 beacons5.gvt3.com
-
 # [gwallet.com]
 127.0.0.1 gwallet.com
 127.0.0.1 panel.gwallet.com
