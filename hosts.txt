@@ -8187,9 +8187,6 @@
 
 # [newrelic.com]
 127.0.0.1 newrelic.com
-127.0.0.1 newrelic.com
-127.0.0.1 insights-collector.newrelic.com
-127.0.0.1 insights-collector.newrelic.com
 127.0.0.1 insights-collector.newrelic.com
 
 # [newscgp.com]
@@ -9760,8 +9757,6 @@
 # [roku.com]
 127.0.0.1 p.ads.roku.com
 127.0.0.1 austin.logs.roku.com
-127.0.0.1 austin.logs.roku.com
-127.0.0.1 scribe.logs.roku.com
 127.0.0.1 scribe.logs.roku.com
 
 # [roosterfirework.com]
@@ -10035,7 +10030,6 @@
 
 # [segmentapis.com]
 127.0.0.1 segmentapis.com
-127.0.0.1 silver-fir.cd.segmentapis.com
 127.0.0.1 silver-fir.cd.segmentapis.com
 
 # [segmentify.com]
