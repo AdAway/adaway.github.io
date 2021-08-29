@@ -11877,7 +11877,6 @@
 # [vidazoo.com]
 127.0.0.1 bis.vidazoo.com
 127.0.0.1 bisdr.vidazoo.com
-127.0.0.1 bisdr.vidazoo.com
 127.0.0.1 inventory.vidazoo.com
 127.0.0.1 pl.vidazoo.com
 127.0.0.1 static.vidazoo.com
