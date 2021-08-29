@@ -146,6 +146,8 @@
 127.0.0.1 prod.pw.analytics.console.aws.a2z.com
 127.0.0.1 us-east-1.prod.pw.analytics.console.aws.a2z.com
 127.0.0.1 metrics.client-eng.a2z.com
+127.0.0.1 global.telemetry.insights.video.a2z.com
+127.0.0.1 us-east-1.telemetry.insights.video.a2z.com
 
 # [a3cloud.net]
 127.0.0.1 segment.a3cloud.net
@@ -1562,6 +1564,7 @@
 127.0.0.1 cdnap.airpush.com
 
 # [aiv-cdn.net]
+127.0.0.1 pop-iad-2.cf.dash.row.aiv-cdn.net
 127.0.0.1 s3-iad-2.cf.dash.row.aiv-cdn.net
 127.0.0.1 s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 127.0.0.1 s3.ll.videorolls.row.aiv-cdn.net
@@ -3302,6 +3305,9 @@
 # [clarity.ms]
 127.0.0.1 www.clarity.ms
 
+# [claspws.tv]
+127.0.0.1 events.claspws.tv
+
 # [clean.gg]
 127.0.0.1 i.clean.gg
 
@@ -4015,6 +4021,8 @@
 127.0.0.1 deloton.com
 
 # [deltadna.net]
+127.0.0.1 balanced-collect.deltadna.net
+127.0.0.1 balanced-engage.deltadna.net
 127.0.0.1 collect10665dd4kq.deltadna.net
 127.0.0.1 collect10791rllrc.deltadna.net
 127.0.0.1 collect10854wrdcr.deltadna.net
@@ -4030,6 +4038,7 @@
 127.0.0.1 collect3515gvrnr.deltadna.net
 127.0.0.1 collect4739mgndm.deltadna.net
 127.0.0.1 collect5081wrdch.deltadna.net
+127.0.0.1 collect82532756ggplc.deltadna.net
 127.0.0.1 engage10665dd4kq.deltadna.net
 127.0.0.1 engage10791rllrc.deltadna.net
 127.0.0.1 engage10854wrdcr.deltadna.net
@@ -4042,6 +4051,7 @@
 127.0.0.1 engage17070dvntr.deltadna.net
 127.0.0.1 engage3515gvrnr.deltadna.net
 127.0.0.1 engage5081wrdch.deltadna.net
+127.0.0.1 engage82532756ggplc.deltadna.net
 127.0.0.1 engage8829thscr.deltadna.net
 
 # [deltago.com]
@@ -4935,6 +4945,13 @@
 # [experian.com]
 127.0.0.1 smetrics1.experian.com
 
+# [extend.tv]
+127.0.0.1 extend.tv
+127.0.0.1 adserver-east.extend.tv
+127.0.0.1 freewheeleventsbidder-east.extend.tv
+127.0.0.1 sync.extend.tv
+127.0.0.1 telariaeventsbidder-east.extend.tv
+
 # [extreme-ip-lookup.com]
 127.0.0.1 extreme-ip-lookup.com
 
@@ -5065,6 +5082,10 @@
 
 # [footprint.net]
 127.0.0.1 king-contenido-prod.secure2.footprint.net
+
+# [forbes.com]
+127.0.0.1 fuse.forbes.com
+127.0.0.1 geolocation.forbes.com
 
 # [foresee.com]
 127.0.0.1 analytics.foresee.com
@@ -6218,6 +6239,8 @@
 127.0.0.1 pssvc.iqzone.com
 
 # [iris.tv]
+127.0.0.1 iris.tv
+127.0.0.1 context.iris.tv
 127.0.0.1 ovp.iris.tv
 
 # [irquest.com]
@@ -6738,6 +6761,10 @@
 # [lgappstv.com]
 127.0.0.1 us.ibs.lgappstv.com
 
+# [lgtvsdp.com]
+127.0.0.1 us.rdx2.lgtvsdp.com
+127.0.0.1 us.lgtvsdp.com
+
 # [liadm.com]
 127.0.0.1 b-code.liadm.com
 
@@ -6974,6 +7001,9 @@
 
 # [m2appmonitor.com]
 127.0.0.1 ingest.m2appmonitor.com
+
+# [macromill.com]
+127.0.0.1 macromill.com
 
 # [macys.net]
 127.0.0.1 metrics.macys.net
@@ -9607,6 +9637,10 @@
 # [redditmedia.com]
 127.0.0.1 events.redditmedia.com
 
+# [redfast.com]
+127.0.0.1 redfast.com
+127.0.0.1 conduit.redfast.com
+
 # [redintelligence.net]
 127.0.0.1 redintelligence.net
 127.0.0.1 hal9000.redintelligence.net
@@ -10004,6 +10038,11 @@
 
 # [seattleclouds.com]
 127.0.0.1 analytics.seattleclouds.com
+
+# [secondstreetapp.com]
+127.0.0.1 secondstreetapp.com
+127.0.0.1 api.secondstreetapp.com
+127.0.0.1 embed.secondstreetapp.com
 
 # [securedtouch.com]
 127.0.0.1 agoda.securedtouch.com
@@ -10757,6 +10796,10 @@
 127.0.0.1 ads.supplyframe.com
 127.0.0.1 search.supplyframe.com
 
+# [survata.com]
+127.0.0.1 survata.com
+127.0.0.1 ir.surveywall-api.survata.com
+
 # [survicate.com]
 127.0.0.1 api.survicate.com
 127.0.0.1 survey.survicate.com
@@ -11174,6 +11217,11 @@
 # [thescore.com]
 127.0.0.1 analytics-tracker.thescore.com
 
+# [thetimmedia.site]
+127.0.0.1 thetimmedia.site
+127.0.0.1 trinity-cdn.thetimmedia.site
+127.0.0.1 trinity-player.thetimmedia.site
+
 # [thetrafficstat.net]
 127.0.0.1 thetrafficstat.net
 
@@ -11414,6 +11462,14 @@
 127.0.0.1 ads-router-noneu.truecaller.com
 127.0.0.1 ads5-noneu.truecaller.com
 127.0.0.1 pushid-noneu.truecaller.com
+
+# [truex.com]
+127.0.0.1 truex.com
+127.0.0.1 ctv.truex.com
+
+# [truoptik.com]
+127.0.0.1 truoptik.com
+127.0.0.1 dmp.truoptik.com
 
 # [truste.com]
 127.0.0.1 choices.truste.com
@@ -11890,10 +11946,13 @@
 127.0.0.1 b.videoamp.com
 
 # [videohub.tv]
+127.0.0.1 videohub.tv
 127.0.0.1 ads-secure.videohub.tv
 127.0.0.1 adserver.videohub.tv
+127.0.0.1 dt-secure.videohub.tv
 127.0.0.1 nginx13.iad1.videohub.tv
 127.0.0.1 l0-secure.videohub.tv
+127.0.0.1 tp.videohub.tv
 
 # [videojj.com]
 127.0.0.1 sdkcdn.videojj.com
@@ -12522,6 +12581,10 @@
 
 # [youappi.com]
 127.0.0.1 sdk.youappi.com
+
+# [youborafds01.com]
+127.0.0.1 youborafds01.com
+127.0.0.1 a-fds.youborafds01.com
 
 # [youboranqs01.com]
 127.0.0.1 infinity-c4.youboranqs01.com
