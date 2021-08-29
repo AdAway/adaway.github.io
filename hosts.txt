@@ -213,6 +213,10 @@
 # [acmeaom.com]
 127.0.0.1 tags.acmeaom.com
 
+# [activemetering.com]
+127.0.0.1 activemetering.com
+127.0.0.1 track.activemetering.com
+
 # [ad-brix.com]
 127.0.0.1 as.ad-brix.com
 127.0.0.1 campaign.ad-brix.com
@@ -1492,6 +1496,13 @@
 127.0.0.1 events.aerserv.com
 127.0.0.1 prod-ads.aerserv.com
 
+# [aetn.com]
+127.0.0.1 metrics.aetn.com
+
+# [aetnd.com]
+127.0.0.1 pulse.svod.aetnd.com
+127.0.0.1 insights.vip.aetnd.com
+
 # [afcpatrk.com]
 127.0.0.1 track.afcpatrk.com
 
@@ -1874,6 +1885,9 @@
 
 # [audience-164723144.us-east-1.elb.amazonaws.com]
 127.0.0.1 audience-164723144.us-east-1.elb.amazonaws.com
+
+# [detailed-ad-logger-load-balancer-561104410.us-east-1.elb.amazonaws.com]
+127.0.0.1 detailed-ad-logger-load-balancer-561104410.us-east-1.elb.amazonaws.com
 
 # [engagement-bus-prod-713264365.us-east-1.elb.amazonaws.com]
 127.0.0.1 engagement-bus-prod-713264365.us-east-1.elb.amazonaws.com
@@ -3592,6 +3606,7 @@
 127.0.0.1 contineljs.com
 
 # [conviva.com]
+127.0.0.1 conviva.com
 127.0.0.1 cws.conviva.com
 127.0.0.1 133446f3fa16c4a2f02e9f45a1d9d640705b7b62.cws.conviva.com
 127.0.0.1 268a2000018370f5f35b29272d1942aa2ff7b6a9.cws.conviva.com
@@ -5642,6 +5657,10 @@
 127.0.0.1 howdoesin.net
 127.0.0.1 click.howdoesin.net
 
+# [hrzn-nxt.com]
+127.0.0.1 hrzn-nxt.com
+127.0.0.1 hmi-hershey.hrzn-nxt.com
+
 # [hs-analytics.net]
 127.0.0.1 hs-analytics.net
 
@@ -5742,6 +5761,10 @@
 
 # [ifengimg.com]
 127.0.0.1 d.ifengimg.com
+
+# [ifood.tv]
+127.0.0.1 adlog.ifood.tv
+127.0.0.1 log.ifood.tv
 
 # [igaworks.com]
 127.0.0.1 igaworks.com
@@ -5873,6 +5896,9 @@
 127.0.0.1 secure-us.imrworldwide.com
 127.0.0.1 static.imrworldwide.com
 127.0.0.1 uaid-linkage.imrworldwide.com
+
+# [imtwjwoasak.com]
+127.0.0.1 imtwjwoasak.com
 
 # [imwx.com]
 127.0.0.1 imwx.com
@@ -6226,6 +6252,8 @@
 127.0.0.1 banners.isoftmarketing.com
 
 # [ispot.tv]
+127.0.0.1 ispot.tv
+127.0.0.1 pi.ispot.tv
 127.0.0.1 pt.ispot.tv
 
 # [iterable.com]
@@ -6707,6 +6735,9 @@
 # [lg.com]
 127.0.0.1 tracking.lg.com
 
+# [lgappstv.com]
+127.0.0.1 us.ibs.lgappstv.com
+
 # [liadm.com]
 127.0.0.1 b-code.liadm.com
 
@@ -6790,6 +6821,10 @@
 
 # [listhub.net]
 127.0.0.1 tracking.listhub.net
+
+# [litix.io]
+127.0.0.1 litix.io
+127.0.0.1 18lus0524edvcif1pa0hruc0e.litix.io
 
 # [live-video.net]
 127.0.0.1 player.stats.live-video.net
@@ -8150,6 +8185,13 @@
 127.0.0.1 wpm.neustar.biz
 127.0.0.1 rum-collector.wpm.neustar.biz
 
+# [newrelic.com]
+127.0.0.1 newrelic.com
+127.0.0.1 newrelic.com
+127.0.0.1 insights-collector.newrelic.com
+127.0.0.1 insights-collector.newrelic.com
+127.0.0.1 insights-collector.newrelic.com
+
 # [newscgp.com]
 127.0.0.1 us.tags.newscgp.com
 
@@ -8315,6 +8357,7 @@
 127.0.0.1 hulu.hb.omtrdc.net
 127.0.0.1 allstate.sc.omtrdc.net
 127.0.0.1 audible.sc.omtrdc.net
+127.0.0.1 fox.com.ssl.d2.sc.omtrdc.net
 127.0.0.1 philipslighting.d3.sc.omtrdc.net
 127.0.0.1 dsg.sc.omtrdc.net
 127.0.0.1 abcnews.tt.omtrdc.net
@@ -9518,6 +9561,11 @@
 # [rave-api.com]
 127.0.0.1 client.rave-api.com
 
+# [ravm.tv]
+127.0.0.1 ravm.tv
+127.0.0.1 display.ravm.tv
+127.0.0.1 hb-t5u9.raps.ravm.tv
+
 # [rayjoy.com]
 127.0.0.1 sdk-h5-cdn.rayjoy.com
 
@@ -9708,6 +9756,13 @@
 
 # [rogersmedia.com]
 127.0.0.1 analytics.rogersmedia.com
+
+# [roku.com]
+127.0.0.1 p.ads.roku.com
+127.0.0.1 austin.logs.roku.com
+127.0.0.1 austin.logs.roku.com
+127.0.0.1 scribe.logs.roku.com
+127.0.0.1 scribe.logs.roku.com
 
 # [roosterfirework.com]
 127.0.0.1 roosterfirework.com
@@ -9977,6 +10032,11 @@
 # [segment.io]
 127.0.0.1 api.segment.io
 127.0.0.1 cdn.segment.io
+
+# [segmentapis.com]
+127.0.0.1 segmentapis.com
+127.0.0.1 silver-fir.cd.segmentapis.com
+127.0.0.1 silver-fir.cd.segmentapis.com
 
 # [segmentify.com]
 127.0.0.1 cdn.segmentify.com
@@ -10502,6 +10562,7 @@
 127.0.0.1 cdn.spotxcdn.com
 
 # [spotxchange.com]
+127.0.0.1 spotxchange.com
 127.0.0.1 den01-event.spotxchange.com
 127.0.0.1 den01-search.spotxchange.com
 127.0.0.1 event.spotxchange.com
@@ -10519,6 +10580,7 @@
 127.0.0.1 sin01-search.spotxchange.com
 
 # [springserve.com]
+127.0.0.1 springserve.com
 127.0.0.1 bc-ssb-iad.springserve.com
 127.0.0.1 cdn.springserve.com
 127.0.0.1 datplus.springserve.com
@@ -11131,6 +11193,10 @@
 # [thrtle.com]
 127.0.0.1 thrtle.com
 
+# [tidaltv.com]
+127.0.0.1 tidaltv.com
+127.0.0.1 trk.tidaltv.com
+
 # [tiltingpoint.io]
 127.0.0.1 registration.tiltingpoint.io
 127.0.0.1 utctime.tiltingpoint.io
@@ -11408,10 +11474,12 @@
 127.0.0.1 marketing.tunity.com
 
 # [turn.com]
+127.0.0.1 turn.com
 127.0.0.1 ad.turn.com
 127.0.0.1 cdns.turn.com
 127.0.0.1 ad2.cdns.turn.com
 127.0.0.1 img.cdns.turn.com
+127.0.0.1 d.turn.com
 127.0.0.1 d-sjc2.turn.com
 127.0.0.1 img.turn.com
 127.0.0.1 presentation-ams1.turn.com
@@ -11823,6 +11891,10 @@
 
 # [videoadex.com]
 127.0.0.1 ads.videoadex.com
+
+# [videoamp.com]
+127.0.0.1 videoamp.com
+127.0.0.1 b.videoamp.com
 
 # [videohub.tv]
 127.0.0.1 ads-secure.videohub.tv
