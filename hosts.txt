@@ -10073,9 +10073,6 @@
 127.0.0.1 sr-weight.rlcdn.com
 127.0.0.1 tv.rlcdn.com
 
-# [rmbl.ws]
-127.0.0.1 sp.rmbl.ws
-
 # [road404.com]
 127.0.0.1 metric-android-am.road404.com
 
@@ -10177,9 +10174,6 @@
 
 # [ruetracking.com]
 127.0.0.1 prdwebcollector.ruetracking.com
-
-# [rumble.com]
-127.0.0.1 rumble.com
 
 # [run-syndicate.com]
 127.0.0.1 run-syndicate.com
