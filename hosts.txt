@@ -3292,25 +3292,6 @@
 127.0.0.1 pixel.cdnwidget.com
 127.0.0.1 u.cdnwidget.com
 
-# [cedexis-radar.net]
-127.0.0.1 cedexis-radar.net
-127.0.0.1 init.cedexis-radar.net
-
-# [cedexis.com]
-127.0.0.1 cedexis.com
-127.0.0.1 akabench.cedexis.com
-127.0.0.1 fastlybench.cedexis.com
-127.0.0.1 hwcdn.cedexis.com
-127.0.0.1 limelight.cedexis.com
-127.0.0.1 radar.cedexis.com
-127.0.0.1 rpt.cedexis.com
-127.0.0.1 tata-bitgravity.cedexis.com
-
-# [cedexis.net]
-127.0.0.1 2-01-2c3e-005c.cdx.cedexis.net
-127.0.0.1 2-01-37d2-0004.cdx.cedexis.net
-127.0.0.1 2-01-37d2-0006.cdx.cedexis.net
-
 # [celltick.com]
 127.0.0.1 celltick.com
 127.0.0.1 contentapi.celltick.com
