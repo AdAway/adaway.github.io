@@ -3750,9 +3750,6 @@
 127.0.0.1 vrl.m.conviva.com
 127.0.0.1 pings.conviva.com
 
-# [cookielaw.org]
-127.0.0.1 cdn.cookielaw.org
-
 # [cookiepro.com]
 127.0.0.1 cookie-cdn.cookiepro.com
 
