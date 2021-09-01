@@ -8079,7 +8079,6 @@
 127.0.0.1 ichnaea-web.netflix.com
 127.0.0.1 nmtracking.netflix.com
 127.0.0.1 presentationtracking.netflix.com
-127.0.0.1 appboot.us-west-2.origin.prodaa.netflix.com
 
 # [netizen.co]
 127.0.0.1 assets.netizen.co
