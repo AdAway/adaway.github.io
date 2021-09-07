@@ -2487,9 +2487,6 @@
 127.0.0.1 eu.y.atwola.com
 127.0.0.1 us.y.atwola.com
 
-# [audioboom.com]
-127.0.0.1 audioboom.com
-
 # [audioeye.com]
 127.0.0.1 ws.audioeye.com
 
