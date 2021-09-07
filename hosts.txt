@@ -10030,9 +10030,6 @@
 # [sentiance.com]
 127.0.0.1 api.sentiance.com
 
-# [sentry.io]
-127.0.0.1 sentry.io
-
 # [servebom.com]
 127.0.0.1 servebom.com
 127.0.0.1 ads.servebom.com
