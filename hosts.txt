@@ -6450,10 +6450,13 @@
 127.0.0.1 kochava.com
 127.0.0.1 api.kochava.com
 127.0.0.1 kvinit-prod.api.kochava.com
+127.0.0.1 token.api.kochava.com
 127.0.0.1 assets.kochava.com
 127.0.0.1 control.kochava.com
 127.0.0.1 imp.control.kochava.com
 127.0.0.1 web-sdk.control.kochava.com
+127.0.0.1 entitlements.kochava.com
+127.0.0.1 icm.kochava.com
 
 # [kongregate.io]
 127.0.0.1 analytics.kongregate.io
