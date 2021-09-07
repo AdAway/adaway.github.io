@@ -1611,6 +1611,13 @@
 127.0.0.1 speee-ad.akamaized.net
 127.0.0.1 statics-marketingsites-eus-ms-com.akamaized.net
 
+# [akisinn.info]
+127.0.0.1 co.akisinn.info
+127.0.0.1 int.akisinn.info
+
+# [akisinn.site]
+127.0.0.1 int.akisinn.site
+
 # [alcmpn.com]
 127.0.0.1 p.alcmpn.com
 
@@ -4019,6 +4026,13 @@
 # [devtodev.com]
 127.0.0.1 balancer.devtodev.com
 127.0.0.1 statgw.devtodev.com
+
+# [dewrain.life]
+127.0.0.1 co.dewrain.life
+127.0.0.1 int.dewrain.life
+
+# [dewrain.site]
+127.0.0.1 int.dewrain.site
 
 # [dhgate.com]
 127.0.0.1 realstats.dhgate.com
@@ -10258,6 +10272,9 @@
 127.0.0.1 sc.smardroid.com
 127.0.0.1 tkclick.smardroid.com
 
+# [smart.link]
+127.0.0.1 smart.link
+
 # [smartadserver.com]
 127.0.0.1 cdn1.smartadserver.com
 127.0.0.1 diff.smartadserver.com
@@ -11770,6 +11787,15 @@
 
 # [vads.net.vn]
 127.0.0.1 vads.net.vn
+
+# [vaicore.site]
+127.0.0.1 co.vaicore.site
+127.0.0.1 int.vaicore.site
+
+# [vaicore.xyz]
+127.0.0.1 vaicore.xyz
+127.0.0.1 co.vaicore.xyz
+127.0.0.1 int.vaicore.xyz
 
 # [valuepotion.com]
 127.0.0.1 analytics.valuepotion.com
