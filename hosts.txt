@@ -2426,6 +2426,9 @@
 127.0.0.1 sprint.asapp.com
 127.0.0.1 sprint-srs-appopen.asapp.com
 
+# [asayer.io]
+127.0.0.1 static.asayer.io
+
 # [aspireclicks.com]
 127.0.0.1 images.aspireclicks.com
 
@@ -8370,6 +8373,9 @@
 
 # [opecloud.com]
 127.0.0.1 tagger.opecloud.com
+
+# [openreplay.com]
+127.0.0.1 static.openreplay.com
 
 # [opensharecount.com]
 127.0.0.1 opensharecount.com
