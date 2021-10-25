@@ -5678,12 +5678,6 @@
 # [iclickyou.com]
 127.0.0.1 iclickyou.com
 
-# [icloseli.com]
-127.0.0.1 ads.icloseli.com
-127.0.0.1 api.icloseli.com
-127.0.0.1 esd.icloseli.com
-127.0.0.1 relaycn.icloseli.com
-
 # [icloud.com]
 127.0.0.1 metrics.icloud.com
 
