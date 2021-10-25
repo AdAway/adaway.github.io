@@ -6692,9 +6692,6 @@
 # [licdn.com]
 127.0.0.1 snap.licdn.com
 
-# [licensebuttons.net]
-127.0.0.1 licensebuttons.net
-
 # [liftoff.io]
 127.0.0.1 adexp.liftoff.io
 127.0.0.1 build-cdn.liftoff.io
