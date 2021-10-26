@@ -3,10 +3,10 @@ name: Hosts Validation
 on:
   push:
     paths:
-      - hotst.txt
+      - hosts.txt
   pull_request:
     paths:
-      - hotst.txt
+      - hosts.txt
 
   workflow_dispatch:
 
