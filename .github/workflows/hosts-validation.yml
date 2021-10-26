@@ -1,0 +1,38 @@
+name: Hosts Validation
+
+on:
+  push:
+    paths:
+      - hotst.txt
+  pull_request:
+    paths:
+      - hotst.txt
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Validate hosts file
+        run: |
+          input="hosts.txt"
+          debug=false
+          while IFS= read -r line
+          do
+              if [[ "$line" =~ ^\# ]]; then
+                  $debug && echo "$line is a comment"
+              elif [[ "$line" = "" ]]; then
+                  $debug && echo "line is empty"
+              elif [[ "$line" =~ ^127\.0\.0\.1 ]] || [[ "$line" =~ ^::1 ]]; then
+                  $debug && echo "$line is an allowed redirection"
+              else
+                  echo "$line is not an allowed redirection"
+                  echo "Only redirection to the loopback interface is allowed (127.0.0.1 for IPv4 or ::1 for IPv6)"
+                  exit 1
+              fi
+          done < "$input"
+          echo "Hosts file is valid"
