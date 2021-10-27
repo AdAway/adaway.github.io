@@ -12433,6 +12433,9 @@
 127.0.0.1 yandexadexchange.net
 127.0.0.1 mobile.yandexadexchange.net
 
+# [yanosik.pl]
+127.0.0.1 mobi.yanosik.pl
+
 # [yemonisoni.com]
 127.0.0.1 yemonisoni.com
 
