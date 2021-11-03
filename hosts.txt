@@ -3869,9 +3869,6 @@
 127.0.0.1 ad-hub.dable.io
 127.0.0.1 static.dable.io
 
-# [dartsearch.net]
-127.0.0.1 clickserve.dartsearch.net
-
 # [databerries.com]
 127.0.0.1 databerries.com
 
