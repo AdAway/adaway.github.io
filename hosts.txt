@@ -451,7 +451,6 @@
 127.0.0.1 banners.adfox.net
 
 # [adfox.ru]
-127.0.0.1 adfox.ru
 127.0.0.1 ads.adfox.ru
 127.0.0.1 banners.adfox.ru
 
@@ -557,28 +556,8 @@
 127.0.0.1 prod.adjoe.zone
 
 # [adjust.com]
-127.0.0.1 adjust.com
-127.0.0.1 app.adjust.com
 127.0.0.1 s2s.adjust.com
 127.0.0.1 ulink.adjust.com
-127.0.0.1 39810146b3f05dad26eec7ad4727361a.ulink.adjust.com
-127.0.0.1 53ac365e91086e608ae1345e075105e3.ulink.adjust.com
-127.0.0.1 658473abd74bd979afcfe472c595ce93.ulink.adjust.com
-127.0.0.1 a2c57fd7998a2d67d16e7bda91c7fd06.ulink.adjust.com
-127.0.0.1 a94828c6a08d914296a1d178d1de5102.ulink.adjust.com
-127.0.0.1 ac7aa69d96b75a55c5e0fe8035f45bce.ulink.adjust.com
-127.0.0.1 e3e85fbda0b93c236cc70b01a5c0a393.ulink.adjust.com
-127.0.0.1 view.adjust.com
-
-# [adjust.io]
-127.0.0.1 adjust.io
-127.0.0.1 app.adjust.io
-
-# [adjust.net.in]
-127.0.0.1 app.adjust.net.in
-
-# [adjust.world]
-127.0.0.1 app.adjust.world
 
 # [adkernel.com]
 127.0.0.1 dsp-uswest.adkernel.com
@@ -1068,41 +1047,6 @@
 127.0.0.1 adsunflower.com
 127.0.0.1 folder.adsunflower.com
 127.0.0.1 rebootv5.adsunflower.com
-
-# [adswizz.com]
-127.0.0.1 adswizz.com
-127.0.0.1 cdn.adswizz.com
-127.0.0.1 cdn1-creatives.adswizz.com
-127.0.0.1 delivery-cdn-cf.adswizz.com
-127.0.0.1 deliveryengine.adswizz.com
-127.0.0.1 accuradio.deliveryengine.adswizz.com
-127.0.0.1 clearchannel.deliveryengine.adswizz.com
-127.0.0.1 cox.deliveryengine.adswizz.com
-127.0.0.1 deezer.deliveryengine.adswizz.com
-127.0.0.1 di.deliveryengine.adswizz.com
-127.0.0.1 ec2eu-de-1.deliveryengine.adswizz.com
-127.0.0.1 ec2eu-de-1-vpc-20170223.deliveryengine.adswizz.com
-127.0.0.1 ec2eu-de-2.deliveryengine.adswizz.com
-127.0.0.1 npr.deliveryengine.adswizz.com
-127.0.0.1 radioactive.deliveryengine.adswizz.com
-127.0.0.1 reporting.deliveryengine.adswizz.com
-127.0.0.1 streamguys.deliveryengine.adswizz.com
-127.0.0.1 synchroscript.deliveryengine.adswizz.com
-127.0.0.1 tunein.deliveryengine.adswizz.com
-127.0.0.1 ec2eu.adswizz.com
-127.0.0.1 pixelg.ec2eu.adswizz.com
-127.0.0.1 synchrobox.ec2eu.adswizz.com
-127.0.0.1 pixel.adswizz.com
-127.0.0.1 pixelg.adswizz.com
-127.0.0.1 randi.adswizz.com
-127.0.0.1 pixelb.randi.adswizz.com
-127.0.0.1 secondscreenindexer.adswizz.com
-127.0.0.1 sonar.adswizz.com
-127.0.0.1 streaming.adswizz.com
-127.0.0.1 sdk.streaming.adswizz.com
-127.0.0.1 synchrobox.adswizz.com
-127.0.0.1 tunein.adswizz.com
-127.0.0.1 zc.adswizz.com
 
 # [adsymptotic.com]
 127.0.0.1 adsymptotic.com
@@ -1892,7 +1836,6 @@
 127.0.0.1 signals.ampiri.com
 
 # [amplitude.com]
-127.0.0.1 analytics.amplitude.com
 127.0.0.1 api.amplitude.com
 127.0.0.1 api2.amplitude.com
 127.0.0.1 cdn.amplitude.com
@@ -4741,34 +4684,6 @@
 
 # [exactag.com]
 127.0.0.1 tp-emea.exactag.com
-
-# [exacttarget.com]
-127.0.0.1 inbox.exacttarget.com
-127.0.0.1 pixel.inbox.exacttarget.com
-127.0.0.1 mc.exacttarget.com
-127.0.0.1 mta.exacttarget.com
-127.0.0.1 s1.exacttarget.com
-127.0.0.1 pub.s1.exacttarget.com
-127.0.0.1 s10.exacttarget.com
-127.0.0.1 image.s10.exacttarget.com
-127.0.0.1 mc.s10.exacttarget.com
-127.0.0.1 pub.s10.exacttarget.com
-127.0.0.1 virt.s10.exacttarget.com
-127.0.0.1 click.virt.s10.exacttarget.com
-127.0.0.1 s11.exacttarget.com
-127.0.0.1 s4.exacttarget.com
-127.0.0.1 pub.s4.exacttarget.com
-127.0.0.1 s6.exacttarget.com
-127.0.0.1 pub.s6.exacttarget.com
-127.0.0.1 virt.s6.exacttarget.com
-127.0.0.1 click.virt.s6.exacttarget.com
-127.0.0.1 s7.exacttarget.com
-127.0.0.1 image.s7.exacttarget.com
-127.0.0.1 mc.s7.exacttarget.com
-127.0.0.1 pub.s7.exacttarget.com
-127.0.0.1 virt.s7.exacttarget.com
-127.0.0.1 click.virt.s7.exacttarget.com
-127.0.0.1 virt.exacttarget.com
 
 # [exacttargetapis.com]
 127.0.0.1 exacttargetapis.com
@@ -9833,9 +9748,7 @@
 127.0.0.1 execution-use.ci360.sas.com
 
 # [sascdn.com]
-127.0.0.1 sascdn.com
 127.0.0.1 ak-ns.sascdn.com
-127.0.0.1 ced.sascdn.com
 
 # [saygames.io]
 127.0.0.1 track.saygames.io
@@ -9871,7 +9784,6 @@
 127.0.0.1 config.sdk.scopely.io
 
 # [scorecardresearch.com]
-127.0.0.1 scorecardresearch.com
 127.0.0.1 b.scorecardresearch.com
 127.0.0.1 bs.scorecardresearch.com
 127.0.0.1 end.scorecardresearch.com
@@ -11378,9 +11290,6 @@
 127.0.0.1 preferences.truste.com
 127.0.0.1 privacy-policy.truste.com
 
-# [trustwave.com]
-127.0.0.1 sealserver.trustwave.com
-
 # [trustx.org]
 127.0.0.1 sofia.trustx.org
 
@@ -11473,7 +11382,6 @@
 127.0.0.1 ads.twitter.com
 127.0.0.1 ads-api.twitter.com
 127.0.0.1 ads-bidder-api.twitter.com
-127.0.0.1 analytics.twitter.com
 
 # [typekit.net]
 127.0.0.1 p.typekit.net
