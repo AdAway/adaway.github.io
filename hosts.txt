@@ -6245,13 +6245,6 @@
 # [lg.com]
 127.0.0.1 tracking.lg.com
 
-# [lgappstv.com]
-127.0.0.1 us.ibs.lgappstv.com
-
-# [lgtvsdp.com]
-127.0.0.1 us.rdx2.lgtvsdp.com
-127.0.0.1 us.lgtvsdp.com
-
 # [liadm.com]
 127.0.0.1 b-code.liadm.com
 127.0.0.1 p.liadm.com
