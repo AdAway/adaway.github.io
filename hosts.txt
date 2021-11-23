@@ -5940,9 +5940,6 @@
 # [jpush.io]
 127.0.0.1 sis.jpush.io
 
-# [jsdelivr.net]
-127.0.0.1 cdn.jsdelivr.net
-
 # [jsrdn.com]
 127.0.0.1 c.jsrdn.com
 127.0.0.1 s.jsrdn.com
