@@ -10823,7 +10823,6 @@
 127.0.0.1 ads-api.twitter.com
 127.0.0.1 ads-bidder-api.twitter.com
 127.0.0.1 analytics.twitter.com
-127.0.0.1 platform.twitter.com
 
 # [tynt.com]
 127.0.0.1 de.tynt.com
