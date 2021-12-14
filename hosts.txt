@@ -1834,6 +1834,9 @@
 # [wildcard-ads-448740142.us-west-2.elb.amazonaws.com]
 127.0.0.1 wildcard-ads-448740142.us-west-2.elb.amazonaws.com
 
+# [elb.eu-west-1.amazonaws.com]
+127.0.0.1 huq-query-loggers-europe-west1-32ef7f4bbf54ce27.elb.eu-west-1.amazonaws.com
+
 # [admarvel.s3.amazonaws.com]
 127.0.0.1 admarvel.s3.amazonaws.com
 
@@ -1872,6 +1875,9 @@
 
 # [mobileanalytics.us-east-1.amazonaws.com]
 127.0.0.1 mobileanalytics.us-east-1.amazonaws.com
+
+# [us-west-1.amazonaws.com]
+127.0.0.1 huq-query-loggers-california-3cec807da3e9dc0d.elb.us-west-1.amazonaws.com
 
 # [amoad.com]
 127.0.0.1 amoad.com
@@ -3058,6 +3064,9 @@
 127.0.0.1 ids.cdnwidget.com
 127.0.0.1 pixel.cdnwidget.com
 127.0.0.1 u.cdnwidget.com
+
+# [cellrebel.com]
+127.0.0.1 api.monedata.iomericreceiver.cellrebel.com
 
 # [celltick.com]
 127.0.0.1 celltick.com
@@ -5102,6 +5111,7 @@
 
 # [googleadservices.com]
 127.0.0.1 googleadservices.com
+127.0.0.1 pagead2.googleadservices.com
 127.0.0.1 www.googleadservices.com
 
 # [googleadsserving.cn]
@@ -5360,8 +5370,14 @@
 127.0.0.1 segment.humann.com
 127.0.0.1 segment-api.humann.com
 
+# [huq.io]
+127.0.0.1 huq.io
+127.0.0.1 api.huq.io
+
 # [huqindustries.co.uk]
 127.0.0.1 api.huqindustries.co.uk
+127.0.0.1 api.huqindustries.co.uk
+127.0.0.1 charles.huqindustries.co.uk
 127.0.0.1 charles.huqindustries.co.uk
 
 # [hutchgames.io]
@@ -6946,6 +6962,9 @@
 127.0.0.1 measuread.com
 127.0.0.1 b.measuread.com
 
+# [measurelib.com]
+127.0.0.1 mobile.measurelib.com
+
 # [measurementapi.com]
 127.0.0.1 measurementapi.com
 
@@ -8012,6 +8031,7 @@
 127.0.0.1 wsback2b.prod.cloud.ogury.io
 127.0.0.1 consent-manager-events.ogury.io
 127.0.0.1 dsp-1.ogury.io
+127.0.0.1 sdk-monitoring.ogury.io
 
 # [ojooo.com]
 127.0.0.1 wad.ojooo.com
@@ -10579,6 +10599,9 @@
 
 # [teenvogue.com]
 127.0.0.1 sstats.teenvogue.com
+
+# [telematicsdirect.com]
+127.0.0.1 nav.telematicsdirect.com
 
 # [tencent-cloud.net]
 127.0.0.1 beacon.sparta.mig.tencent-cloud.net
