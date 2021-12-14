@@ -5116,13 +5116,6 @@
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 tpc.googlesyndication.com
 
-# [googletagmanager.com]
-127.0.0.1 googletagmanager.com
-127.0.0.1 www.googletagmanager.com
-
-# [googletagservices.com]
-127.0.0.1 www.googletagservices.com
-
 # [googleusercontent.com]
 127.0.0.1 displayads-formats.googleusercontent.com
 
