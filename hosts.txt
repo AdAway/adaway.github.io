@@ -5376,8 +5376,6 @@
 
 # [huqindustries.co.uk]
 127.0.0.1 api.huqindustries.co.uk
-127.0.0.1 api.huqindustries.co.uk
-127.0.0.1 charles.huqindustries.co.uk
 127.0.0.1 charles.huqindustries.co.uk
 
 # [hutchgames.io]
