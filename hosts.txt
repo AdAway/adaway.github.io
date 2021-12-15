@@ -3061,6 +3061,7 @@
 
 # [cellrebel.com]
 127.0.0.1 api.monedata.iomericreceiver.cellrebel.com
+127.0.0.1 metricreceiver.cellrebel.com
 
 # [celltick.com]
 127.0.0.1 celltick.com
@@ -3520,6 +3521,9 @@
 
 # [count.ly]
 127.0.0.1 count.ly
+
+# [coveo.com]
+127.0.0.1 static.cloud.coveo.com
 
 # [cox.com]
 127.0.0.1 smetrics.cox.com
@@ -7101,6 +7105,9 @@
 127.0.0.1 shoparty.metrilo.com
 127.0.0.1 t.metrilo.com
 
+# [metrix.ir]
+127.0.0.1 analytics.metrix.ir
+
 # [mfadsrvr.com]
 127.0.0.1 rtb.mfadsrvr.com
 127.0.0.1 rtb-use.mfadsrvr.com
@@ -7584,6 +7591,9 @@
 # [mologiq.net]
 127.0.0.1 mologiq.net
 
+# [monedata.io]
+127.0.0.1 api.monedata.io
+
 # [monetate.net]
 127.0.0.1 ad.monetate.net
 127.0.0.1 af.monetate.net
@@ -8008,6 +8018,9 @@
 127.0.0.1 midoweb.offerstrack.net
 127.0.0.1 mobfloral.offerstrack.net
 127.0.0.1 mobnerve.offerstrack.net
+
+# [ogury.co]
+127.0.0.1 sdk-monitoring.ogury.co
 
 # [ogury.io]
 127.0.0.1 cloud.ogury.io
@@ -10076,6 +10089,7 @@
 # [startappservice.com]
 127.0.0.1 startappservice.com
 127.0.0.1 adimpression.startappservice.com
+127.0.0.1 adsmetadata.startappservice.com
 127.0.0.1 adwin.startappservice.com
 127.0.0.1 click.startappservice.com
 127.0.0.1 dts.startappservice.com
@@ -10500,6 +10514,10 @@
 
 # [taps.io]
 127.0.0.1 api.taps.io
+
+# [tapsell.ir]
+127.0.0.1 api.tapsell.ir
+127.0.0.1 plus.tapsell.ir
 
 # [tapstream.com]
 127.0.0.1 api.tapstream.com
