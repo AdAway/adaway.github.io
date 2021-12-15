@@ -2957,12 +2957,6 @@
 # [bypass.jp]
 127.0.0.1 bypass.jp
 
-# [byteoversea.com]
-127.0.0.1 mon-va.byteoversea.com
-127.0.0.1 starling-va.byteoversea.com
-127.0.0.1 vcs-va.byteoversea.com
-127.0.0.1 verification-va.byteoversea.com
-
 # [c1exchange.com]
 127.0.0.1 c1exchange.com
 
