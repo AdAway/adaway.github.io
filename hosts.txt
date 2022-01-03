@@ -9096,9 +9096,6 @@
 127.0.0.1 publishers.revcontent.com
 127.0.0.1 trends.revcontent.com
 
-# [revenuecat.com]
-127.0.0.1 api.revenuecat.com
-
 # [revjet.com]
 127.0.0.1 ads.revjet.com
 127.0.0.1 cdn.revjet.com
