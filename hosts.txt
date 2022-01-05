@@ -5458,9 +5458,6 @@
 # [iesnare.com]
 127.0.0.1 mpsnare.iesnare.com
 
-# [ifengimg.com]
-127.0.0.1 d.ifengimg.com
-
 # [ifood.tv]
 127.0.0.1 adlog.ifood.tv
 127.0.0.1 log.ifood.tv
