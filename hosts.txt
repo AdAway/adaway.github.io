@@ -4036,12 +4036,6 @@
 127.0.0.1 bob.dmpxs.com
 127.0.0.1 ciq.dmpxs.com
 
-# [docusign.com]
-127.0.0.1 postsign.docusign.com
-
-# [docusign.net]
-127.0.0.1 telemetry.docusign.net
-
 # [doesxyz.com]
 127.0.0.1 ufz.doesxyz.com
 
