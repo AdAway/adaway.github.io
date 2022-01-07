@@ -4352,8 +4352,6 @@
 127.0.0.1 cdn-store-icons-akamai-prd.unityads.unity3d.com.edgekey.net
 127.0.0.1 vungle.com.edgekey.net
 127.0.0.1 api.vungle.com.edgekey.net
-127.0.0.1 cookiebot.com-v1.edgekey.net
-127.0.0.1 consentcdn.cookiebot.com-v1.edgekey.net
 127.0.0.1 rubiconproject.com-v1.edgekey.net
 127.0.0.1 video-ads.rubiconproject.com-v1.edgekey.net
 127.0.0.1 v6analytics.htmedia.in.edgekey.net
