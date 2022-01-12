@@ -11374,6 +11374,9 @@
 127.0.0.1 vroku-bis-1.vidazoo.com
 127.0.0.1 wserver.vidazoo.com
 
+# [vidcrunch.com]
+127.0.0.1 cdn.vidcrunch.com
+
 # [videoadex.com]
 127.0.0.1 ads.videoadex.com
 
