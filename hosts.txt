@@ -6416,9 +6416,6 @@
 127.0.0.1 s3.lightboxcdn.com
 127.0.0.1 www.lightboxcdn.com
 
-# [liiift.io]
-127.0.0.1 cs.liiift.io
-
 # [lijit.com]
 127.0.0.1 ap.lijit.com
 127.0.0.1 pba.aws.lijit.com
