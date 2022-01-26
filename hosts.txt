@@ -8878,21 +8878,6 @@
 # [sentiance.com]
 127.0.0.1 api.sentiance.com
 
-# [sentry.io]
-127.0.0.1 sentry.io
-127.0.0.1 ingest.sentry.io
-127.0.0.1 o107031.ingest.sentry.io
-127.0.0.1 o129937.ingest.sentry.io
-127.0.0.1 o325556.ingest.sentry.io
-127.0.0.1 o334541.ingest.sentry.io
-127.0.0.1 o400018.ingest.sentry.io
-127.0.0.1 o472445.ingest.sentry.io
-127.0.0.1 o491168.ingest.sentry.io
-127.0.0.1 o502263.ingest.sentry.io
-127.0.0.1 o534899.ingest.sentry.io
-127.0.0.1 o77029.ingest.sentry.io
-127.0.0.1 disney.my.sentry.io
-
 # [servebom.com]
 127.0.0.1 servebom.com
 127.0.0.1 ads.servebom.com
