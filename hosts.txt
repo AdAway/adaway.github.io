@@ -8770,6 +8770,7 @@
 
 # [sascdn.com]
 127.0.0.1 ak-ns.sascdn.com
+127.0.0.1 mobileconfig.sascdn.com
 
 # [saygames.io]
 127.0.0.1 track.saygames.io
