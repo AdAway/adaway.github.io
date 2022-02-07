@@ -9905,9 +9905,6 @@
 # [teenvogue.com]
 127.0.0.1 sstats.teenvogue.com
 
-# [telematicsct.com]
-127.0.0.1 oneapi.telematicsct.com
-
 # [telematicsdirect.com]
 127.0.0.1 nav.telematicsdirect.com
 
