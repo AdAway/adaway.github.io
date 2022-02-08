@@ -2480,10 +2480,6 @@
 # [bksn.se]
 127.0.0.1 us.bksn.se
 
-# [blinkreceipt.com]
-127.0.0.1 licensing.blinkreceipt.com
-127.0.0.1 sdk-resources.blinkreceipt.com
-
 # [blismedia.com]
 127.0.0.1 tr.blismedia.com
 
