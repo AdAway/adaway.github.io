@@ -3139,9 +3139,6 @@
 127.0.0.1 api.company-target.com
 127.0.0.1 segments.company-target.com
 
-# [complex.com]
-127.0.0.1 media.complex.com
-
 # [comscore.com]
 127.0.0.1 siterecruit.comscore.com
 
