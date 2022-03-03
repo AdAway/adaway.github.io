@@ -8539,6 +8539,9 @@
 # [rogersmedia.com]
 127.0.0.1 analytics.rogersmedia.com
 
+# [rokt.com]
+127.0.0.1 apps.rokt.com
+
 # [roku.com]
 127.0.0.1 p.ads.roku.com
 127.0.0.1 austin.logs.roku.com
