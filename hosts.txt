@@ -2850,14 +2850,8 @@
 # [cauly.co.kr]
 127.0.0.1 ad.cauly.co.kr
 
-# [cbsaavideo.com]
-127.0.0.1 vod-gcs-cedexis.cbsaavideo.com
-
 # [cbsi.com]
 127.0.0.1 production-cmp.isgprivacy.cbsi.com
-
-# [cbsivideo.com]
-127.0.0.1 doppler-reporting.cbsivideo.com
 
 # [cbsnews.com]
 127.0.0.1 tealium.cbsnews.com
