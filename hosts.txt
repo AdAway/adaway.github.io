@@ -8977,9 +8977,6 @@
 # [simplesharebuttons.com]
 127.0.0.1 simplesharebuttons.com
 
-# [simpletexting.com]
-127.0.0.1 simpletexting.com
-
 # [simpli.fi]
 127.0.0.1 ads.simpli.fi
 127.0.0.1 east.ads.simpli.fi
