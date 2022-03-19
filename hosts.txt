@@ -7387,6 +7387,7 @@
 
 # [nextdoor.com]
 127.0.0.1 us-tracking.nextdoor.com
+127.0.0.1 uk-tracking.nextdoor.com
 
 # [nicovideo.jp]
 127.0.0.1 ads.nicovideo.jp
