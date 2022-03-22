@@ -7140,9 +7140,6 @@
 # [morgdm.ru]
 127.0.0.1 morgdm.ru
 
-# [motus.com]
-127.0.0.1 mobileapi.motus.com
-
 # [moz.com]
 127.0.0.1 analytics.moz.com
 127.0.0.1 mozbar.moz.com
