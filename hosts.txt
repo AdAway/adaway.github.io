@@ -7559,10 +7559,6 @@
 # [oneplus.com]
 127.0.0.1 click.oneplus.com
 
-# [onesignal.com]
-127.0.0.1 api.onesignal.com
-127.0.0.1 cdn.onesignal.com
-
 # [onetag-sys.com]
 127.0.0.1 onetag-sys.com
 
