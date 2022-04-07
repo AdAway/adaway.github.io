@@ -5608,10 +5608,6 @@
 127.0.0.1 imp-lb-us2.jampp.com
 127.0.0.1 static.jampp.com
 
-# [jdoqocy.com]
-127.0.0.1 jdoqocy.com
-127.0.0.1 www.jdoqocy.com
-
 # [jeeng.com]
 127.0.0.1 api.jeeng.com
 127.0.0.1 users.api.jeeng.com
