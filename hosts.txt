@@ -2003,6 +2003,7 @@
 127.0.0.1 dash.applovin.com
 127.0.0.1 img.applovin.com
 127.0.0.1 ms.applovin.com
+127.0.0.1 ms4.applovin.com
 127.0.0.1 pdn.applovin.com
 127.0.0.1 prod-a.applovin.com
 127.0.0.1 prod-bid.applovin.com
