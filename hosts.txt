@@ -5804,12 +5804,6 @@
 127.0.0.1 static.klaviyo.com
 127.0.0.1 telemetrics.klaviyo.com
 
-# [klclick2.com]
-127.0.0.1 trk.klclick2.com
-
-# [klclick3.com]
-127.0.0.1 trk.klclick3.com
-
 # [kmpmedia.net]
 127.0.0.1 gplayer.kmpmedia.net
 127.0.0.1 update.kmpmedia.net
