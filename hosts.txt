@@ -4218,6 +4218,10 @@
 127.0.0.1 um2.eqads.com
 127.0.0.1 um3.eqads.com
 
+# [eslprotourmvp.com]
+127.0.0.1 eslprotourmvp.com
+127.0.0.1 eslprologmvp.com
+
 # [espn.com]
 127.0.0.1 log.espn.com
 127.0.0.1 sw88.espn.com
