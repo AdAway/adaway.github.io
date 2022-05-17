@@ -7554,6 +7554,10 @@
 127.0.0.1 apicosdk.onemt.co
 127.0.0.1 apicssdk.onemt.co
 
+# [oneplus.cn]
+127.0.0.1 analytics.oneplus.cn
+127.0.0.1 click.oneplus.cn
+
 # [oneplus.com]
 127.0.0.1 click.oneplus.com
 
