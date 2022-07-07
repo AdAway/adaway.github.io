@@ -5073,9 +5073,6 @@
 # [idreams.pl]
 127.0.0.1 server.idreams.pl
 
-# [iesnare.com]
-127.0.0.1 mpsnare.iesnare.com
-
 # [ifood.tv]
 127.0.0.1 adlog.ifood.tv
 127.0.0.1 log.ifood.tv
@@ -5460,10 +5457,6 @@
 
 # [iosappsworld.com]
 127.0.0.1 ads.iosappsworld.com
-
-# [iovation.com]
-127.0.0.1 ci-mpsnare.iovation.com
-127.0.0.1 first.iovation.com
 
 # [iperceptions.com]
 127.0.0.1 api.iperceptions.com
