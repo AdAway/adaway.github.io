@@ -6062,10 +6062,6 @@
 # [largosoft.co.kr]
 127.0.0.1 largosoft.co.kr
 
-# [launchdarkly.com]
-127.0.0.1 events.launchdarkly.com
-127.0.0.1 mobile.launchdarkly.com
-
 # [lavanetwork.net]
 127.0.0.1 lavanetwork.net
 127.0.0.1 delivery.lavanetwork.net
