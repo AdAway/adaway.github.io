@@ -3252,9 +3252,6 @@
 # [us-central1-adaptive-growth.cloudfunctions.net]
 127.0.0.1 us-central1-adaptive-growth.cloudfunctions.net
 
-# [cloudinary.com]
-127.0.0.1 res.cloudinary.com
-
 # [cloudmobi.net]
 127.0.0.1 cloudmobi.net
 127.0.0.1 api.cloudmobi.net
