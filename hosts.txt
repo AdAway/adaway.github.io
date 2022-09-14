@@ -659,10 +659,6 @@
 127.0.0.1 min.admicro.vn
 127.0.0.1 sspapi.admicro.vn
 
-# [admitad-connect.com]
-127.0.0.1 admitad-connect.com
-127.0.0.1 cdn.admitad-connect.com
-
 # [admitad.com]
 127.0.0.1 admitad.com
 127.0.0.1 ad.admitad.com
@@ -1127,7 +1123,6 @@
 127.0.0.1 log.adtimaserver.vn
 
 # [adtiming.com]
-127.0.0.1 adtiming.com
 127.0.0.1 img.adtiming.com
 127.0.0.1 m.adtiming.com
 127.0.0.1 ociasb.adtiming.com
