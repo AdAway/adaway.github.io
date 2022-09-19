@@ -7439,7 +7439,6 @@
 127.0.0.1 b.ads1.msn.com
 127.0.0.1 ads2.msn.com
 127.0.0.1 a.ads2.msn.com
-127.0.0.1 c.msn.com
 127.0.0.1 mobileads.msn.com
 127.0.0.1 rads.msn.com
 127.0.0.1 srtb.msn.com
