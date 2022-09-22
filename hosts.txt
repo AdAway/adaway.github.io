@@ -9005,9 +9005,6 @@
 127.0.0.1 net.salmonads.com
 127.0.0.1 report.salmonads.com
 
-# [salsify.com]
-127.0.0.1 images.salsify.com
-
 # [sam4m.com]
 127.0.0.1 sam4m.com
 127.0.0.1 eu-ma.sam4m.com
