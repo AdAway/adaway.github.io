@@ -4878,26 +4878,28 @@
 127.0.0.1 app.getwoohoo.com
 
 # [gigya.com]
-127.0.0.1 au1.gigya.com
 127.0.0.1 cdns.au1.gigya.com
 127.0.0.1 lb.au1.gigya.com
 127.0.0.1 cdn.gigya.com
 127.0.0.1 cdns1.gigya.com
 127.0.0.1 cdns2.gigya.com
 127.0.0.1 cdns3.gigya.com
-127.0.0.1 eu1.gigya.com
 127.0.0.1 cdns.eu1.gigya.com
 127.0.0.1 farm5.eu1.gigya.com
 127.0.0.1 gscounters.eu1.gigya.com
 127.0.0.1 lb.eu1.gigya.com
-127.0.0.1 eu2.gigya.com
 127.0.0.1 cdns.eu2.gigya.com
 127.0.0.1 farm5.gigya.com
-127.0.0.1 us1.gigya.com
 127.0.0.1 cdns.us1.gigya.com
 127.0.0.1 farm5.us1.gigya.com
 127.0.0.1 gscounters.us1.gigya.com
 127.0.0.1 lb-d.us1.gigya.com
+127.0.0.1 socialize.us1.gigya.com
+127.0.0.1 socialize.us2.gigya.com
+127.0.0.1 socialize.eu1.gigya.com
+127.0.0.1 socialize.eu2.gigya.com
+127.0.0.1 socialize.au1.gigya.com
+127.0.0.1 socialize.au2.gigya.com
 
 # [gimbal.com]
 127.0.0.1 analytics-server.gimbal.com
