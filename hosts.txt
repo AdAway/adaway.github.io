@@ -1567,6 +1567,10 @@
 # [allaccess.com.ph]
 127.0.0.1 ads.allaccess.com.ph
 
+# [allawnos.com]
+127.0.0.1 moa-upload-in.allawnos.com
+127.0.0.1 classify-app-in.allawnos.com
+
 # [allstarcluster.com]
 127.0.0.1 p102-clb.allstarcluster.com
 
@@ -5171,6 +5175,13 @@
 
 # [herocraft.com]
 127.0.0.1 adv.herocraft.com
+
+# [heytapdl.com]
+127.0.0.1 mdp-appconf-in.heytapdl.com
+
+# [heytapmobile.com]
+127.0.0.1 obus-dc20123-in.heytapmobile.com
+127.0.0.1 httpdns-push.heytapmobile.com
 
 # [collection-endpoint-staging.herokuapp.com]
 127.0.0.1 collection-endpoint-staging.herokuapp.com
