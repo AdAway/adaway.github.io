@@ -8673,6 +8673,9 @@
 # [rallydev.com]
 127.0.0.1 beacon.rallydev.com
 
+# [rakuten.co.jp]
+127.0.0.1 s-ad.rmp.rakuten.co.jp
+
 # [rave-api.com]
 127.0.0.1 client.rave-api.com
 
