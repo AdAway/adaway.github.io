@@ -1355,6 +1355,7 @@
 127.0.0.1 speee-ad.akamaized.net
 127.0.0.1 statics-marketingsites-eus-ms-com.akamaized.net
 127.0.0.1 statics-marketingsites-neu-ms-com.akamaized.net
+127.0.0.1 hesads.akamaized.net
 
 # [akisinn.info]
 127.0.0.1 co.akisinn.info
