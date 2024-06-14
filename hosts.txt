@@ -7495,6 +7495,7 @@
 127.0.0.1 discoveryplus.popin.cc
 127.0.0.1 r.popin.cc
 127.0.0.1 rlog.popin.cc
+127.0.0.1 trace.popin.cc
 
 # [postitial.com]
 127.0.0.1 postitial.com
