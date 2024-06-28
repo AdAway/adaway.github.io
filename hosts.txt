@@ -5171,7 +5171,7 @@
 127.0.0.1 sync.ipredictive.com
 
 # [iprom.net]
-127.0.0.1 adserver.iprom.net
+127.0.0.1 iprom.net
 
 # [ipromote.com]
 127.0.0.1 i.ipromote.com
