@@ -1,11 +1,45 @@
 # Site settings
 title: AdAway
 email: info@adaway.org
-description: > # this means to ignore newlines until "baseurl:"
-  AdAway is an open source ad blocker for Android using the hosts file.
+description: >
+  AdAway is a free and open source ad blocker for Android. Block ads system-wide using hosts file or VPN-based filtering. No root required.
 baseurl: ""
 url: "https://adaway.org"
 github_username: AdAway
+lang: en
+
+# SEO settings
+author: AdAway Team
+twitter:
+  username: AdAwayAndroid
+  card: summary_large_image
+social:
+  name: AdAway
+  links:
+    - https://github.com/AdAway/AdAway
+    - https://f-droid.org/packages/org.adaway/
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  hard_wrap: false
+sass:
+  style: compressed
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.md
+  - tools/
+  - node_modules/
+  - "*.log"
+  - package*.json
+  - vendor/

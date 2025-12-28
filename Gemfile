@@ -1,6 +1,9 @@
 source "https://rubygems.org"
 
-gem "jekyll"
-gem "jekyll-watch"
-gem "kramdown"
-gem "rouge"
+gem "jekyll", "~> 4.3"
+gem "kramdown-parser-gfm"
+gem "webrick" # Required for Ruby 3.0+
+
+group :jekyll_plugins do
+  gem "jekyll-seo-tag"
+end

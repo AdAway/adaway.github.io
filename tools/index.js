@@ -1,33 +1,35 @@
-import { createReadStream, writeFile } from 'fs';
-import { createInterface } from 'readline';
-import { compareIcann } from './domain.js';
-import { parse, format } from './hosts.js';
+import { createReadStream, writeFile } from "node:fs";
+import { createInterface } from "node:readline";
+import { compareIcann } from "./domain.js";
+import { parse, format } from "./hosts.js";
 
-/*
- * Customize hosts path here.
- */
-const hostsFile = '../hosts.txt';
-const formattedHostsFile = '../formatted-hosts.txt';
+// Configuration
+const CONFIG = {
+    hostsFile: "../hosts.txt",
+    formattedHostsFile: "../formatted-hosts.txt"
+};
 
 const sourceDomains = [];
 
 const rl = createInterface({
-    input: createReadStream(hostsFile),
+    input: createReadStream(CONFIG.hostsFile),
     crlfDelay: Infinity
 });
 
-rl.on('line', (line) => {
+rl.on("line", (line) => {
     const domain = parse(line);
     if (domain) {
         sourceDomains.push(domain);
     }
-}).on('close', () => {
+}).on("close", () => {
     sourceDomains.sort(compareIcann);
     const content = format(sourceDomains);
-    writeFile(formattedHostsFile, content, function (err) {
+    
+    writeFile(CONFIG.formattedHostsFile, content, (err) => {
         if (err) {
-            throw err;
+            console.error(`Error writing file: ${err.message}`);
+            process.exit(1);
         }
-        console.log(`Host formatted: ${sourceDomains.length} entries`);
+        console.log(`Hosts formatted: ${sourceDomains.length} entries`);
     });
-})
+});

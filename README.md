@@ -1,24 +1,29 @@
 ## AdAway
 
-AdAway is an open source ad blocker for Android using the hosts file.
+AdAway is a free and open source ad blocker for Android using the hosts file.
 
-direct link https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
+**Hosts file direct link:** https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
 
-### Features 
+### Features
 
-* AdAway is Open Source and Free Software (GPLv3+)
-* AdAway lets you select your own sources of hosts files
-* You can add exceptions to your Whitelist if an app is not working when specific hosts are blocked
-*You can define extra hostnames in your own Blacklist
-* You can add your own (hostname, IP)-pairs in the Redirection List
-
-
-### Licenses
-
-The content of the website is under the GPL license, meanwhile the Jekyll theme is under MIT license. For more details, check the [license notes](LICENSE.md).
+- Open source and free software (GPLv3+)
+- Select your own sources of hosts files
+- Add exceptions to your allowlist when specific hosts need to be unblocked
+- Define extra hostnames in your blocklist
+- Add custom (hostname, IP) pairs in the redirection list
 
 ### Website
 
-The website was designed to be as lightweight as possible and because of this JavaScript is not necessary for it to work. The underlying technology used is Jekyll and there is no framework used. CSS is built from SCSS files and everything is contained to remove the need for 3rd party assets and unnecessary connections.
+This website is designed to be lightweight and privacy-respecting:
+- Built with Jekyll (static site generator)
+- No external frameworks or tracking
+- CSS compiled from SCSS
+- All assets self-hosted
 
-This project is maintained by AdAway.
+### License
+
+The website content is licensed under GPL. The Jekyll theme is under MIT license. See [LICENSE.md](LICENSE.md) for details.
+
+### Contributing
+
+This project is maintained by the AdAway team. Contributions are welcome!

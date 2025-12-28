@@ -1,103 +1,122 @@
 ---
 layout: inner
 title: AdAway - Import and Export
+description: Convert between legacy hosts file format and AdAway's modern JSON format for easy migration of your ad-blocking rules.
 ---
 
-<h1 class="center pt-2 pb-2">Import and Export hosts files easily</h1>
+<h1 class="center pt-2 pb-2">Import & Export Host Lists</h1>
 
-<textarea placeholder="Input your legacy host list" id="legacyExportTextArea"></textarea>
-<button class="button-submit mb-3" onclick="convertToModern()">Convert to modern</button>
+<div class="export-section">
+	<label for="legacyExportTextArea" class="export-label">Legacy Format (hosts file)</label>
+	<textarea placeholder="Paste your legacy hosts file here (e.g., 127.0.0.1 example.com)" id="legacyExportTextArea" aria-describedby="legacyHelp" spellcheck="false"></textarea>
+	<p id="legacyHelp" class="export-help">Each line should be in format: <code>127.0.0.1 hostname</code> or <code>0.0.0.0 hostname</code> for blocked, <code>white hostname</code> for allowed</p>
+	<button type="button" class="button-submit mb-3" onclick="convertToModern()"><i class="fas fa-arrow-down mr-1" aria-hidden="true"></i> Convert to Modern JSON</button>
+</div>
 
-<textarea placeholder="Input your modern host list" id="modernExportTextArea"></textarea>
-<button class="button-submit" onclick="convertToLegacy()">Convert to legacy</button>
+<div class="export-section">
+	<label for="modernExportTextArea" class="export-label">Modern Format (JSON)</label>
+	<textarea placeholder="Paste your AdAway JSON export here" id="modernExportTextArea" aria-describedby="modernHelp" spellcheck="false"></textarea>
+	<p id="modernHelp" class="export-help">AdAway's modern JSON format with blocked, allowed, and redirected arrays</p>
+	<button type="button" class="button-submit" onclick="convertToLegacy()"><i class="fas fa-arrow-up mr-1" aria-hidden="true"></i> Convert to Legacy</button>
+</div>
 
 <script>
-	let legacyExport = document.getElementById("legacyExportTextArea");
-	let modernExport = document.getElementById("modernExportTextArea");
-
-	let redirectedPattern = /^(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\s+([^\s]+)$/;
+	const legacyExport = document.getElementById("legacyExportTextArea");
+	const modernExport = document.getElementById("modernExportTextArea");
+	const redirectedPattern = /^(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\s+([^\s]+)$/;
 
 	function convertToLegacy() {
-		// Parse export
-		var text = modernExport.value;
-		var modern = JSON.parse(text);
-		// Convert blocked hosts
-		var legacy = "";
-		if (modern.blocked) {
-			for (var blocked of modern.blocked) {
-				if (blocked && blocked.host && blocked.enabled) {
-					legacy += "127.0.0.1 " + blocked.host + "\n";
+		try {
+			const text = modernExport.value.trim();
+			if (!text) {
+				alert("Please enter a modern JSON export first.");
+				return;
+			}
+			const modern = JSON.parse(text);
+			let legacy = "";
+			// Convert blocked hosts
+			if (modern.blocked) {
+				for (const blocked of modern.blocked) {
+					if (blocked && blocked.host && blocked.enabled) {
+						legacy += "127.0.0.1 " + blocked.host + "\n";
+					}
 				}
 			}
-		}
-		// Convert allowed hosts
-		if (modern.allowed) {
-			for (var allowed of modern.allowed) {
-				if (allowed.host && allowed.enabled) {
-					legacy += "white " + allowed.host + "\n";
+			// Convert allowed hosts
+			if (modern.allowed) {
+				for (const allowed of modern.allowed) {
+					if (allowed.host && allowed.enabled) {
+						legacy += "white " + allowed.host + "\n";
+					}
 				}
 			}
-		}
-		// Convert redicted hosts
-		if (modern.redirected) {
-			for (var redirected of modern.redirected) {
-				if (redirected.host && redirected.redirect && redirected.enabled) {
-					legacy += redirected.redirect + " " + redirected.host + "\n";
+			// Convert redirected hosts
+			if (modern.redirected) {
+				for (const redirected of modern.redirected) {
+					if (redirected.host && redirected.redirect && redirected.enabled) {
+						legacy += redirected.redirect + " " + redirected.host + "\n";
+					}
 				}
 			}
+			legacyExport.value = legacy;
+		} catch (e) {
+			alert("Invalid JSON format. Please check your input.");
 		}
-		// Display legacy export
-		legacyExport.value = legacy;
 	}
 
 	function convertToModern() {
-		var modern = {
-			'sources': [],
-			'blocked': [],
-			'allowed': [],
-			'redirected': []
+		const modern = {
+			sources: [],
+			blocked: [],
+			allowed: [],
+			redirected: []
 		};
-		var text = legacyExport.value;
-		var lines = text.split('\n');
-
-		for (var line of lines) {
+		const text = legacyExport.value.trim();
+		if (!text) {
+			alert("Please enter a legacy hosts list first.");
+			return;
+		}
+		const lines = text.split('\n');
+		for (let line of lines) {
 			// Remove comments
-			var commentStart = line.indexOf('#');
+			const commentStart = line.indexOf('#');
 			if (commentStart !== -1) {
-				line = line.substr(0, commentStart);
+				line = line.substring(0, commentStart);
 			}
 			// Clean up line
 			line = line.trim();
-			if (line.length == 0) {
+			if (line.length === 0) {
 				continue;
 			}
-			// Test blocked hosts
-			if (line.startsWith("127.0.0.1 ")) {
-				modern.blocked.push({
-					"host": line.substr(10),
-					"enabled": true
-				});
+			// Test blocked hosts (127.0.0.1 or 0.0.0.0)
+			if (line.startsWith("127.0.0.1 ") || line.startsWith("0.0.0.0 ")) {
+				const host = line.split(/\s+/)[1];
+				if (host) {
+					modern.blocked.push({
+						host: host,
+						enabled: true
+					});
+				}
 			}
 			// Test allowed hosts
 			else if (line.startsWith("white ")) {
 				modern.allowed.push({
-					"host": line.substr(6),
-					"enabled": true
+					host: line.substring(6).trim(),
+					enabled: true
 				});
 			}
 			// Test redirected domains
 			else {
-				var match = line.match(redirectedPattern);
-				if (match.length > 5) {
+				const match = line.match(redirectedPattern);
+				if (match && match.length > 5) {
 					modern.redirected.push({
-						"host": match[5],
-						"redirect": match[1] + '.' + match[2] + '.' + match[3] + '.' + match[4],
-						"enabled": true
+						host: match[5],
+						redirect: match[1] + '.' + match[2] + '.' + match[3] + '.' + match[4],
+						enabled: true
 					});
 				}
 			}
 		}
-		// Display modern export
 		modernExport.value = JSON.stringify(modern, null, '  ');
 	}
 </script>

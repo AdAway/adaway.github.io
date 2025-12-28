@@ -2,10 +2,12 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#b71c1c">
 
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }} - Open Source Ad Blocker for Android{% endif %}</title>
   <meta name="description"
     content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="keywords" content="AdAway, ad blocker, Android, open source, hosts file, privacy, no ads, root, VPN">
 
   <!-- Social: Twitter -->
   <meta name="twitter:card" content="summary_large_image">
@@ -35,4 +37,5 @@
   <link rel="stylesheet" href="{{ "/css/all.css" | prepend: site.baseurl | prepend: site.url }}">
   <link rel="stylesheet" href="{{ "/css/barlow.css" | prepend: site.baseurl | prepend: site.url }}">
   <link rel="stylesheet" href="{{ "/css/splide-default.min.css" | prepend: site.baseurl }}">
+  {% seo %}
 </head>
