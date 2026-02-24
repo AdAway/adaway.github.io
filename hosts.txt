@@ -194,9 +194,6 @@
 # [accesstrade.vn]
 127.0.0.1 static.accesstrade.vn
 
-# [acmeaom.com]
-127.0.0.1 tags.acmeaom.com
-
 # [activemetering.com]
 127.0.0.1 activemetering.com
 127.0.0.1 track.activemetering.com
