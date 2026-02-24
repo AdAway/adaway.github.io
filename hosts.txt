@@ -4710,6 +4710,9 @@
 # [htmedia.in]
 127.0.0.1 analytics.htmedia.in
 
+# [hubvisor.io]
+127.0.0.1 cdn.hubvisor.io
+
 # [hulu.com]
 127.0.0.1 t2.hulu.com
 
