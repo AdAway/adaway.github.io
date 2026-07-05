@@ -1656,6 +1656,11 @@
 127.0.0.1 analytics.anvato.net
 127.0.0.1 rt.analytics.anvato.net
 
+# [anytype.io]
+127.0.0.1 amplitude.anytype.io
+127.0.0.1 sentry.anytype.io
+127.0.0.1 telemetry.anytype.io
+
 # [anzu.io]
 127.0.0.1 caps-server.anzu.io
 127.0.0.1 l1-1.anzu.io
